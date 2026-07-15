@@ -1,10 +1,10 @@
 # site settings
 title: The German Truth
 subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
+email: lostboyscout@aol.com
 description: Die Warheit, oder warum wir die Welt nicht retten können.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://thegermantruth.github.io" # the base hostname & protocol for your site
+url: "https://TheGermanTruth.github.io" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Nashville

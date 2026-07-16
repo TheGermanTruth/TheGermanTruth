@@ -54,8 +54,10 @@ auch in der politischen Debatte immer lauter diskutiert werden.**
 <div class="section two-columns">
   <div>
     <h2> Die "Konsum-Pflicht" als Wirtschaftsmotor</h2>
-    <p>1. Unter dem Label des Klimaschutzes wird ein gigantisches Konjunkturprogramm für bestimmte Branchen organisiert.
-     **Der Vorwurf der Arroganz:** Zu glauben, der Rest der Welt warte nur darauf, dass das deutsche Modell funktioniert, blendet oft aus, dass andere Länder völlig andere Prioritäten (wie Armutsbekämpfung oder billigen Strom für die Industrialisierung) haben.
+    <p> Unter dem Label des Klimaschutzes wird ein gigantisches Konjunkturprogramm für bestimmte Branchen organisiert.
+     
+      
+      **Der Vorwurf der Arroganz:** Zu glauben, der Rest der Welt warte nur darauf, dass das deutsche Modell funktioniert, blendet oft aus, dass andere Länder völlig andere Prioritäten (wie Armutsbekämpfung oder billigen Strom für die Industrialisierung) haben.
 
 **Erzwungener Konsum:** Ob E-Auto, neue Heizung oder energetische Sanierung – den Bürgern wird politisch vorgegeben, wofür sie in den nächsten Jahren ihr mühsam erspartes Geld ausgeben müssen. Für die Industrie (Autobauer, Heizungshersteller, Handwerk) ist das eine staatlich garantierte Nachfrage. Wer das Geld nicht hat, fühlt sich zu Recht bevormundet und abgehängt. 
     </p>

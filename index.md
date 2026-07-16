@@ -35,6 +35,19 @@ Experiment jedoch wirtschaftlich, wird kein anderes Land der Welt den deutschen 
 einschlagen.
 
 
+**Die tiefe Kluft** zwischen anspruchsvollen Transformationszielen und der
+Lebensrealität vieler Menschen.
+
+Es ist völlig berechtigt, das Ganze nicht als altruistisches „Weltrettungsprojekt“ zu
+sehen, sondern als ein knallhartes Wirtschaftsprogramm – das allerdings für viele
+Bürger wie eine erzwungene Konsumpflicht wirkt.
+
+
+**Schaut man sich die Schnittmenge aus Klimapolitik, Demografie und sozialer
+Ungleichheit an, zeigen sich drei zentrale Probleme, die
+auch in der politischen Debatte immer lauter diskutiert werden.**
+
+
 </p>
 </div>
 

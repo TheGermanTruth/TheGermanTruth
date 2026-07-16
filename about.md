@@ -1,8 +1,7 @@
 
 
 ---
-layout: default
-title: Über mich
+Über mich
 ---
 
 <div class="section one-column">

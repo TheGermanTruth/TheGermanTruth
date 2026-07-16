@@ -20,7 +20,7 @@ Insbesondere in den Sektoren Verkehr und Gebäude klafft weiterhin eine erheblic
 Subventionen geschlossen werden müsste.
 
     
-      Deutschland ist aktuell für knapp 1,5 % der weltweiten CO2-Emissionen
+Deutschland ist aktuell für knapp 1,5 % der weltweiten CO2-Emissionen
 verantwortlich. Selbst wenn wir von heute auf morgen komplett emissionsfrei wären,
 würde das die globale Erwärmung physikalisch gesehen kaum messbar verlangsamen,
 solange Schwergewichte wie China (ca. 30 %), die USA (ca. 13 %) oder Indien (ca. 7 %)

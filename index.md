@@ -1,6 +1,6 @@
 
 ---
-Startseite
+Die Co2 Lüge
 ---
 
 <div class="section one-column">
@@ -12,8 +12,13 @@ Um diese Ziele zu erreichen, greift ein Mix aus gesetzlichen Vorgaben, finanziel
 Förderung und marktwirtschaftlichen Instrumenten. Erst kürzlich wurde das
 Klimaschutzprogramm 2026 mit 67 Einzelmaßnahmen verabschiedet, um
 verbleibende Lücken zu schließen.
-Die wichtigsten Maßnahmen und Instrumente lassen sich in fünf Kernbereiche
-unterteilen:
+Herausforderung & Kritik: Trotz dieser Maßnahmen zeigen die Projektionen des
+Umweltbundesamtes (UBA), dass Deutschland seine Klimaziele für 2030 und vor allem
+für 2040 (88 % Minderung) ohne noch drastischere Schritte knapp verfehlen könnte.
+Insbesondere in den Sektoren Verkehr und Gebäude klafft weiterhin eine erhebliche
+Öko-Lücke, die durch politische Anpassungen und den Abbau von fossilen
+Subventionen geschlossen werden müsste.
+
 </p>
 </div>
 
@@ -30,7 +35,14 @@ verringert.
 Nationaler Emissionshandel (nEHS): Besteuert fossile Brennstoffe in den
 Sektoren Wärme (Gebäude) und Verkehr (Benzin, Diesel, Heizöl, Erdgas). Der
 Preis pro Tonne CO2 steigt schrittweise an und soll ab 2027 über den Markt
-gebildet werden
+gebildet werden.
+      ---------------------------------------------------------
+      Deutschland ist aktuell für knapp 1,5 % der weltweiten CO2-Emissionen
+verantwortlich. Selbst wenn wir von heute auf morgen komplett emissionsfrei wären,
+würde das die globale Erwärmung physikalisch gesehen kaum messbar verlangsamen,
+solange Schwergewichte wie China (ca. 30 %), die USA (ca. 13 %) oder Indien (ca. 7 %)
+ihren Ausstoß nicht drastisch senken.
+
 </p>
   </div>
   <div>

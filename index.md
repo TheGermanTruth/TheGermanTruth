@@ -20,14 +20,14 @@ Insbesondere in den Sektoren Verkehr und Gebäude klafft weiterhin eine erheblic
 Subventionen geschlossen werden müsste.
 
     
-Deutschland ist aktuell für knapp 1,5 % der weltweiten CO2-Emissionen
+**Deutschland** ist aktuell für knapp 1,5 % der weltweiten CO2-Emissionen
 verantwortlich. Selbst wenn wir von heute auf morgen komplett emissionsfrei wären,
 würde das die globale Erwärmung physikalisch gesehen kaum messbar verlangsamen,
 solange Schwergewichte wie China (ca. 30 %), die USA (ca. 13 %) oder Indien (ca. 7 %)
 ihren Ausstoß nicht drastisch senken.
 
 
-Die Entscheider wissen, dass Deutschland das Klima nicht allein retten kann. Die
+**Die Entscheider** wissen, dass Deutschland das Klima nicht allein retten kann. Die
 Maßnahmen basieren auf der Wette, dass Deutschland als „Blaupause“ dient: Gelingt
 es einer hochindustrialisierten Nation, klimaneutral zu werden und gleichzeitig
 wohlhabend zu bleiben, werden andere Länder diesem Pfad folgen. Scheitert dieses

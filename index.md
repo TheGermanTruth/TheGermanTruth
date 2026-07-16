@@ -18,7 +18,8 @@ für 2040 (88 % Minderung) ohne noch drastischere Schritte knapp verfehlen könn
 Insbesondere in den Sektoren Verkehr und Gebäude klafft weiterhin eine erhebliche
 Öko-Lücke, die durch politische Anpassungen und den Abbau von fossilen
 Subventionen geschlossen werden müsste.
- ---------------------------------------------------------
+
+    
       Deutschland ist aktuell für knapp 1,5 % der weltweiten CO2-Emissionen
 verantwortlich. Selbst wenn wir von heute auf morgen komplett emissionsfrei wären,
 würde das die globale Erwärmung physikalisch gesehen kaum messbar verlangsamen,

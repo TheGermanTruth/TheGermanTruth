@@ -53,22 +53,17 @@ auch in der politischen Debatte immer lauter diskutiert werden.**
 
 <div class="section two-columns">
   <div>
-    <h2>Spalte 1</h2>
-    <p>1. CO2-Bepreisung (Das Leitinstrument)
-Das wichtigste marktwirtschaftliche Instrument ist die Bepreisung von CO2-
-Emissionen, die Unternehmen dazu zwingen soll, in klimafreundliche Alternativen zu
-investieren.
-EU-Emissionshandel (EU-ETS): Regelt die Emissionen der Energiewirtschaft und
-der schweren Industrie. Die Menge der erlaubten Zertifikate wird Jahr für Jahr
-verringert.
-Nationaler Emissionshandel (nEHS): Besteuert fossile Brennstoffe in den
-Sektoren Wärme (Gebäude) und Verkehr (Benzin, Diesel, Heizöl, Erdgas). Der
-Preis pro Tonne CO2 steigt schrittweise an und soll ab 2027 über den Markt
-gebildet werden.
-     
+    <h2> Die "Konsum-Pflicht" als Wirtschaftsmotor</h2>
+    <p>1. Unter dem Label des Klimaschutzes wird ein gigantisches Konjunkturprogramm für bestimmte Branchen organisiert.
+     **Der Vorwurf der Arroganz:** Zu glauben, der Rest der Welt warte nur darauf, dass das deutsche Modell funktioniert, blendet oft aus, dass andere Länder völlig
+andere Prioritäten (wie Armutsbekämpfung oder billigen Strom für die Industrialisierung) haben.
 
-</p>
+**Erzwungener Konsum:** Ob E-Auto, neue Heizung oder energetische Sanierung – den Bürgern wird politisch vorgegeben, wofür sie in den nächsten Jahren ihr mühsam erspartes Geld ausgeben müssen. Für die Industrie (Autobauer, Heizungshersteller, Handwerk) ist das eine staatlich garantierte Nachfrage. Wer das Geld nicht hat, fühlt sich zu Recht bevormundet und abgehängt. 
+    </p>
+    
   </div>
+
+  
   <div>
     <h2>Spalte 2</h2>
     <p>2. Energie & Stromerzeugung

@@ -26,6 +26,15 @@ würde das die globale Erwärmung physikalisch gesehen kaum messbar verlangsamen
 solange Schwergewichte wie China (ca. 30 %), die USA (ca. 13 %) oder Indien (ca. 7 %)
 ihren Ausstoß nicht drastisch senken.
 
+
+Die Entscheider wissen, dass Deutschland das Klima nicht allein retten kann. Die
+Maßnahmen basieren auf der Wette, dass Deutschland als „Blaupause“ dient: Gelingt
+es einer hochindustrialisierten Nation, klimaneutral zu werden und gleichzeitig
+wohlhabend zu bleiben, werden andere Länder diesem Pfad folgen. Scheitert dieses
+Experiment jedoch wirtschaftlich, wird kein anderes Land der Welt den deutschen Weg
+einschlagen.
+
+
 </p>
 </div>
 

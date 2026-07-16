@@ -6,8 +6,8 @@ title: "Die Co2 Lüge"
 
 <div class="section one-column" markdown="1">
   
-  <h1>Die Ziele der Bundesregierung</h1>
-  <p>Die Bundesregierung verfolgt das gesetzliche Ziel, die Treibhausgasemissionen in
+# Die Ziele der Bundesregierung
+Die Bundesregierung verfolgt das gesetzliche Ziel, die Treibhausgasemissionen in
 Deutschland bis 2030 um mindestens 65 % (gegenüber 1990) zu senken und bis 2045
 vollständig treibhausgasneutral zu werden.
 Um diese Ziele zu erreichen, greift ein Mix aus gesetzlichen Vorgaben, finanzieller
@@ -50,7 +50,7 @@ Ungleichheit an, zeigen sich drei zentrale Probleme, die
 auch in der politischen Debatte immer lauter diskutiert werden.**
 
 
-</p>
+
 </div>
 
 <div class="section two-columns" markdown="1">

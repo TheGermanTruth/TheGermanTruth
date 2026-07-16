@@ -1,7 +1,6 @@
 
 ---
-layout: default
-title: Startseite
+Startseite
 ---
 
 <div class="section one-column">

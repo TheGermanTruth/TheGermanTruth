@@ -1,6 +1,4 @@
----
-Die Co2 Lüge
----
+
 
 <div class="section one-column">
   <h1>Über mich</h1>

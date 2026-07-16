@@ -1,7 +1,7 @@
 
 ---
-layout: default
-title: "Die Co2 Lüge"
+
+"Die Co2 Lüge"
 ---
 
 <div class="section one-column">

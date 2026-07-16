@@ -1,10 +1,11 @@
 
 ---
-
-"Die Co2 Lüge"
+layout: default
+title: "Die Co2 Lüge"
 ---
 
-<div class="section one-column">
+<div class="section one-column" markdown="1">
+  
   <h1>Die Ziele der Bundesregierung</h1>
   <p>Die Bundesregierung verfolgt das gesetzliche Ziel, die Treibhausgasemissionen in
 Deutschland bis 2030 um mindestens 65 % (gegenüber 1990) zu senken und bis 2045
@@ -52,9 +53,11 @@ auch in der politischen Debatte immer lauter diskutiert werden.**
 </p>
 </div>
 
-<div class="section two-columns">
+<div class="section two-columns" markdown="1">
+  
   <div>
-    <h2> Die "Konsum-Pflicht" als Wirtschaftsmotor</h2>
+    
+<h2> Die "Konsum-Pflicht" als Wirtschaftsmotor</h2>
     <p> Unter dem Label des Klimaschutzes wird ein gigantisches Konjunkturprogramm für bestimmte Branchen organisiert.
      
       
@@ -85,7 +88,8 @@ den finanziellen Nutzen aber vermutlich nicht mehr erleben.
 
 </div>
 
-<div class="section one-column">
+<div class="section one-column" markdown="1">
+  
   <h2>Die soziale Schieflage der CO2-Abgabe (Regressive Wirkung)</h2>
   <p>Die CO2-Abgabe auf Heizen und Tanken trifft die Bevölkerung extrem ungleich. In der Ökonomie nennt man das eine **regressive Steuer:**
   
@@ -103,7 +107,8 @@ Bepreisung.
   </p>
 </div>
 
-<div class="section one-column">
+<div class="section one-column" markdown="1">
+  
   <h2>Das nicht eingelöste Versprechen: Das "Klimageld"</h2>
   <p>Eigentlich war von der Politik ein Schutzmechanismus versprochen worden, um genau diese soziale Schieflage zu verhindern: das sogenannte Klimageld.
   
@@ -122,7 +127,8 @@ weiten Teilen der Bevölkerung kollabiert ist.
   </p>
 </div>
 
-<div class="section one-column">
+<div class="section one-column" markdown="1">
+  
   <h2> Wenn Klimaschutz als elitäres Projekt wahrgenommen wird, das die Wirtschaft ankurbeln soll, während ältere
 Menschen und Geringverdiener die Zeche zahlen, verliert der Staat den
 gesellschaftlichen Rückhalt.</h2>

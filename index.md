@@ -57,7 +57,7 @@ auch in der politischen Debatte immer lauter diskutiert werden.**
     <p> Unter dem Label des Klimaschutzes wird ein gigantisches Konjunkturprogramm für bestimmte Branchen organisiert.
      
       
-      **Der Vorwurf der Arroganz:** Zu glauben, der Rest der Welt warte nur darauf, dass das deutsche Modell funktioniert, blendet oft aus, dass andere Länder völlig andere Prioritäten (wie Armutsbekämpfung oder billigen Strom für die Industrialisierung) haben.
+**Der Vorwurf der Arroganz:** Zu glauben, der Rest der Welt warte nur darauf, dass das deutsche Modell funktioniert, blendet oft aus, dass andere Länder völlig andere Prioritäten (wie Armutsbekämpfung oder billigen Strom für die Industrialisierung) haben.
 
 **Erzwungener Konsum:** Ob E-Auto, neue Heizung oder energetische Sanierung – den Bürgern wird politisch vorgegeben, wofür sie in den nächsten Jahren ihr mühsam erspartes Geld ausgeben müssen. Für die Industrie (Autobauer, Heizungshersteller, Handwerk) ist das eine staatlich garantierte Nachfrage. Wer das Geld nicht hat, fühlt sich zu Recht bevormundet und abgehängt. 
     </p>
@@ -66,80 +66,68 @@ auch in der politischen Debatte immer lauter diskutiert werden.**
 
   
   <div>
-    <h2>Spalte 2</h2>
-    <p>2. Energie & Stromerzeugung
-    Die Dekarbonisierung des Stromsektors ist das Fundament aller anderen
-Klimaschutzmaßnahmen.
-Kohleausstieg: Der gesetzlich verankerte Ausstieg aus der Kohleverstromung soll
-idealerweise bis 2030, spätestens jedoch bis 2038 abgeschlossen sein.
-      Ausbau der Erneuerbaren Energien (EEG): Bis 2030 sollen mindestens 80 % des
-deutschen Bruttostromverbrauchs aus erneuerbaren Quellen (vor allem
-Windkraft und Photovoltaik) stammen. Windkraftanlagen an Land erhielten dafür
-den Status des „überragenden öffentlichen Interesses“
-, um Genehmigungen
-drastisch zu beschleunigen.
-    </p>
+    <h2> Der demografische Wandel und das Investitions-Dilemma</h2>
+    <p>Der demografische Wandel verschärft dieses Problem massiv:
+
+      
+**Die "Generation Rentner":** Ein immer größerer Teil der Bevölkerung geht in den
+Ruhestand und lebt von festen, oft knappen Renten.
+
+
+**Lange Amortisationszeiten:** Eine Wärmepumpe oder eine Solaranlage rechnet
+sich oft erst nach 15 bis 20 Jahren durch eingesparte Energiekosten. Für einen 75-
+jährigen Rentner ist eine solche Investition von oft Zehntausenden Euro
+wirtschaftlich völlig irrational. Er erlebt nur die hohen Anschaffungskosten, wird
+den finanziellen Nutzen aber vermutlich nicht mehr erleben.
+ </p>
   </div>
+
 </div>
 
 <div class="section one-column">
-  <h2>3. Industrie & Wirtschaft</h2>
-  <p>Die Bundesregierung unterstützt Unternehmen beim Übergang zu klimaneutralen
-Prozessen, um eine Abwanderung von Industriebetrieben zu verhindern.
-  Klimaschutzverträge: Der Staat gleicht über diese Verträge die Mehrkosten aus,
-die Unternehmen entstehen, wenn sie auf noch teurere, aber CO2-freie
-Technologien (wie grünen Wasserstoff) umstellen.
-Förderung der Elektrifizierung: Gezielte Unterstützung bei der Anschaffung von
-industriellen Großwärmepumpen und der Elektrifizierung von Prozesswärme.
+  <h2>Die soziale Schieflage der CO2-Abgabe (Regressive Wirkung)</h2>
+  <p>Die CO2-Abgabe auf Heizen und Tanken trifft die Bevölkerung extrem ungleich. In der Ökonomie nennt man das eine **regressive Steuer:**
+  
+    
+**Wer viel verdient**, spürt die CO2-Abgabe kaum. Er fährt vielleicht ohnehin ein
+modernes E-Auto, wohnt in einem sanierten Eigenheim mit Solardach und zahlt
+die höheren Preise aus der Portokasse.
 
+
+**Wer wenig verdient**, wohnt oft zur Miete in schlecht gedämmten Altbauten mit
+fossiler Heizung (ohne Einfluss darauf zu haben) oder ist auf ein älteres, günstiges
+Verbrenner-Auto angewiesen, um zur Arbeit zu kommen. Diese Gruppe zahlt
+prozentual einen weitaus größeren Teil ihres Einkommens für die CO2-
+Bepreisung.
   </p>
 </div>
 
 <div class="section one-column">
-  <h2>4. Gebäude & Wärme</h2>
-  <p>Der Wärmesektor gilt traditionell als einer der schwierigsten Bereiche bei der CO2-
-Minderung
-Gebäudeenergiegesetz (GEG): Es regelt den schrittweisen Umstieg auf
-klimafreundliche Heizungen (z. B. Wärmepumpen), gekoppelt an die kommunale
-Wärmeplanung der Städte und Gemeinden.
-Ausbau der Fernwärme: Im Rahmen neuester Programme wird die
-Transformation und der Ausbau von klimaneutralen Wärmenetzen massiv
-gefördert.
+  <h2>Das nicht eingelöste Versprechen: Das "Klimageld"</h2>
+  <p>Eigentlich war von der Politik ein Schutzmechanismus versprochen worden, um genau diese soziale Schieflage zu verhindern: das sogenannte Klimageld.
+  
+    
+**Die Idee:** Die Einnahmen aus der CO2-Abgabe sollten eins zu eins und pro Kopf an alle
+Bürger zurückgezahlt werden. Da Menschen mit geringem Einkommen im Schnitt
+deutlich weniger CO2 verbrauchen (kleinere Wohnungen, kleinere Autos), hätten sie am
+Ende des Jahres mehr Geld zurückbekommen, als sie eingezahlt haben.
+Dass dieses Klimageld aufgrund technischer und budgetärer Hürden über Jahre hinweg
+verschleppt oder zweckentfremdet wurde, um stattdessen Industrie-Subventionen zu
+finanzieren, ist einer der Hauptgründe, warum die Akzeptanz für die Klimapolitik in
+weiten Teilen der Bevölkerung kollabiert ist.
 
-  </p>
-</div>
-
-<div class="section one-column">
-  <h2>5. Verkehr & Mobilität</h2>
-  <p>Der Verkehrssektor hinkt den Klimazielen am stärksten hinterher. Die Maßnahmen
-konzentrieren sich auf den Umstieg vom Verbrennungsmotor und die Stärkung der
-Schiene.
-
-Förderung der Elektromobilität: Neue Programme (darunter ein mit Milliarden
-gefördertes Programm speziell für Haushalte mit niedrigerem und mittlerem
-Einkommen) sollen den Absatz von E-Fahrzeugen ankurbeln. Zudem greifen die
-strengen EU-Flottengrenzwerte für Autohersteller.
-
-Schiene & ÖPNV: Das Deutschlandticket ist als langfristiges Instrument im
-Klimaschutzprogramm fest verankert, um den Umstieg vom Auto auf Bus und
-Bahn dauerhaft attraktiv zu machen. Zudem wird das Schienennetz
-generalsaniert.
 
 
   </p>
 </div>
 
 <div class="section one-column">
-  <h2>Herausforderung & Kritik</h2>
-  <p>Trotz dieser Maßnahmen zeigen die Projektionen des
-Umweltbundesamtes (UBA), dass Deutschland seine Klimaziele für 2030 und vor allem
-für 2040 (88 % Minderung) ohne noch drastischere Schritte knapp verfehlen könnte.
-Insbesondere in den Sektoren Verkehr und Gebäude klafft weiterhin eine erhebliche
-Öko-Lücke, die durch politische Anpassungen und den Abbau von fossilen
-Subventionen geschlossen werden müsste.
-
-
-
+  <h2> Wenn Klimaschutz als elitäres Projekt wahrgenommen wird, das die Wirtschaft ankurbeln soll, während ältere
+Menschen und Geringverdiener die Zeche zahlen, verliert der Staat den
+gesellschaftlichen Rückhalt.</h2>
+  <p>
   </p>
 </div>
+
+
 

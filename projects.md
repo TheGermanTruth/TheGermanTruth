@@ -19,7 +19,7 @@ title: "In Planung"
 # Grid Eins
 ---
 
-<div>
+</div>
     
 <div class="column" markdown="1">
 
@@ -29,7 +29,7 @@ title: "In Planung"
     
 </div>
 
-<div>
+</div>
 
 <div class="section one-column" markdown="1">
 

@@ -3,9 +3,10 @@ layout: default
 title: "Gesundheitssystem"
 ---
 
-<div class="section one-column">
+<div class="one-column">
     
 # GESUND? Wohl kaum!
+
 Text hier
 
 </div>
@@ -32,7 +33,7 @@ Text hier
 
 </div>   
 
-<div class="section one-column" markdown="1">
+<div class="one-column" markdown="1">
   
 # Die Kassen 
 Text hier...

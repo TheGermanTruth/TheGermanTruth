@@ -54,28 +54,21 @@ auch in der politischen Debatte immer lauter diskutiert werden.**
 
 
 <div class="section two-columns" markdown="1">
-    
+  
 # Die "Konsum-Pflicht" als Wirtschaftsmotor
 Unter dem Label des Klimaschutzes wird ein gigantisches Konjunkturprogramm für bestimmte Branchen organisiert.     
-   
 **Der Vorwurf der Arroganz:** Zu glauben, der Rest der Welt warte nur darauf, dass das deutsche Modell funktioniert, blendet oft aus, dass andere Länder völlig andere Prioritäten (wie Armutsbekämpfung oder billigen Strom für die Industrialisierung) haben.
-
 **Erzwungener Konsum:** Ob E-Auto, neue Heizung oder energetische Sanierung – den Bürgern wird politisch vorgegeben, wofür sie in den nächsten Jahren ihr mühsam erspartes Geld ausgeben müssen. Für die Industrie (Autobauer, Heizungshersteller, Handwerk) ist das eine staatlich garantierte Nachfrage. Wer das Geld nicht hat, fühlt sich zu Recht bevormundet und abgehängt. 
     
 </div> 
 
 
 <div class="section two-columns" markdown="2">
-    
 
 # Der demografische Wandel und das Investitions-Dilemma
 Der demografische Wandel verschärft dieses Problem massiv:
-
-      
 **Die "Generation Rentner":** Ein immer größerer Teil der Bevölkerung geht in den
 Ruhestand und lebt von festen, oft knappen Renten.
-
-
 **Lange Amortisationszeiten:** Eine Wärmepumpe oder eine Solaranlage rechnet
 sich oft erst nach 15 bis 20 Jahren durch eingesparte Energiekosten. Für einen 75-
 jährigen Rentner ist eine solche Investition von oft Zehntausenden Euro
@@ -88,16 +81,12 @@ den finanziellen Nutzen aber vermutlich nicht mehr erleben.
 
 <div class="section one-column" markdown="1">
 
-
 # Die soziale Schieflage der CO2-Abgabe (Regressive Wirkung)
   Die CO2-Abgabe auf Heizen und Tanken trifft die Bevölkerung extrem ungleich. In der Ökonomie nennt man das eine **regressive Steuer:**
-  
-    
+
 **Wer viel verdient**, spürt die CO2-Abgabe kaum. Er fährt vielleicht ohnehin ein
 modernes E-Auto, wohnt in einem sanierten Eigenheim mit Solardach und zahlt
 die höheren Preise aus der Portokasse.
-
-
 **Wer wenig verdient**, wohnt oft zur Miete in schlecht gedämmten Altbauten mit
 fossiler Heizung (ohne Einfluss darauf zu haben) oder ist auf ein älteres, günstiges
 Verbrenner-Auto angewiesen, um zur Arbeit zu kommen. Diese Gruppe zahlt
@@ -108,11 +97,9 @@ Bepreisung.
 
 <div class="section one-column" markdown="1">
   
-
- # Das nicht eingelöste Versprechen: Das "Klimageld"
+# Das nicht eingelöste Versprechen: Das "Klimageld"
 Eigentlich war von der Politik ein Schutzmechanismus versprochen worden, um genau diese soziale Schieflage zu verhindern: das sogenannte Klimageld.
-  
-    
+
 **Die Idee:** Die Einnahmen aus der CO2-Abgabe sollten eins zu eins und pro Kopf an alle
 Bürger zurückgezahlt werden. Da Menschen mit geringem Einkommen im Schnitt
 deutlich weniger CO2 verbrauchen (kleinere Wohnungen, kleinere Autos), hätten sie am
@@ -124,15 +111,12 @@ weiten Teilen der Bevölkerung kollabiert ist.
 
 </div>
 
-
-
-
 <div class="section one-column" markdown="1">
 
-
- ## Wenn Klimaschutz als elitäres Projekt wahrgenommen wird, das die Wirtschaft ankurbeln soll, während ältere
+# Wenn Klimaschutz als elitäres Projekt wahrgenommen wird, das die Wirtschaft ankurbeln soll, während ältere
 Menschen und Geringverdiener die Zeche zahlen, verliert der Staat den
 gesellschaftlichen Rückhalt.
+
 </div> 
 
 

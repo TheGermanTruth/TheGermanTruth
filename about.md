@@ -19,7 +19,8 @@ title: "Gesundheitssystem"
 <div class="column" markdown="1">
 
 >## Unser Gesundheitssystem I
->**Deutschland** 
+>**Deutschland**
+
 >Text hier...
 
 </div>
@@ -28,6 +29,7 @@ title: "Gesundheitssystem"
 
 >## Unser Gesundheitssystem II
 >**Die Frage**
+
 >Text hier...
 
 </div>

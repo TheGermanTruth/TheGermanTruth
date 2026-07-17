@@ -1,6 +1,8 @@
 ---
-Über mich
+layout: default
+title: "Gesundheitssystem"
 ---
+
 
 <div class="section one-column">
  #GESUND ? Wohl kaum!#
@@ -11,7 +13,7 @@
 
 <div class="column" markdown="1">
 
->###Unser Gesundheitssystem
+>#Unser Gesundheitssystem
 >**Deutschland** 
 Text hier...
 </div>
@@ -19,7 +21,7 @@ Text hier...
 <div class="column" markdown="1">
 
 ### Unser Gesundheitssystem
->**Die Frage
+>**Die Frage**
 Text hier...
 </div>
 

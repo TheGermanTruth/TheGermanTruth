@@ -30,8 +30,8 @@ nav a:hover {
 
 /* ===== Banner ===== */
 .banner img {
-  width: 100%;
-  height: auto;
+  width: 90%;
+  height: 400px;
   display: block;
 }
 

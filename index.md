@@ -64,16 +64,14 @@ Unter dem Label des Klimaschutzes wird ein gigantisches Konjunkturprogramm für 
 <div class="column" markdown="1">
 
 >### CO2-Emissionen Global 2024
-
->![Grafik](assets/Co2_2024.png)
+>![Konnte nicht geladen werden]({{ '/assets/Co2_2024.png' | relative_url }})
 
 </div>
 
 <div class="column" markdown="1">
 
->### Alle Treibhausgase
-
->![Grafik](assets/AlleGase_2024.png)
+>### Alle Treibhausgase Global 2024
+>![Konnte nicht geladen werden]({{ '/assets/AlleGase_2024.png' | relative_url }})
 
 </div>
 

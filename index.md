@@ -3,6 +3,7 @@
 layout: default
 title: "Die Co2 Lüge"
 ---
+<div class="section one-column" markdown="1">
 
 
 # Die Ziele der Bundesregierung
@@ -20,12 +21,13 @@ Insbesondere in den Sektoren Verkehr und Gebäude klafft weiterhin eine erheblic
 Öko-Lücke, die durch politische Anpassungen und den Abbau von fossilen
 Subventionen geschlossen werden müsste.
 
+</div>
 
 <div class="two-columns" markdown="1">
 
 <div class="column" markdown="1">
 
-### Linke Spalte
+### CO2-Emissionen
 **Deutschland** ist aktuell für etwa 1,6 % der weltweiten CO2-Emissionen
 verantwortlich. Selbst wenn wir von heute auf morgen komplett emissionsfrei wären,
 würde das die globale Erwärmung physikalisch gesehen kaum messbar verlangsamen,
@@ -36,7 +38,7 @@ ihren Ausstoß nicht drastisch senken.
 
 <div class="column" markdown="1">
 
-### Rechte Spalte
+### Die Wette
 **Die Entscheider** wissen, dass Deutschland das Klima nicht allein retten kann. Die
 Maßnahmen basieren auf der Wette, dass Deutschland als „Blaupause“ dient: Gelingt
 es einer hochindustrialisierten Nation, klimaneutral zu werden und gleichzeitig
@@ -46,50 +48,30 @@ einschlagen.
 
 </div>
 
-</div>    
+</div>   
 
-
-
-
-
-
-**Die tiefe Kluft** zwischen anspruchsvollen Transformationszielen und der
-Lebensrealität vieler Menschen.
-
-Es ist völlig berechtigt, das Ganze nicht als altruistisches „Weltrettungsprojekt“ zu
-sehen, sondern als ein knallhartes Wirtschaftsprogramm – das allerdings für viele
-Bürger wie eine erzwungene Konsumpflicht wirkt.
-
-
-**Schaut man sich die Schnittmenge aus Klimapolitik, Demografie und sozialer
-Ungleichheit an, zeigen sich drei zentrale Probleme, die
-auch in der politischen Debatte immer lauter diskutiert werden.**
-
-
-
-
-
-
+<div class="section one-column" markdown="1">
   
 # Die "Konsum-Pflicht" als Wirtschaftsmotor 
-Unter dem Label des Klimaschutzes wird ein gigantisches Konjunkturprogramm für bestimmte Branchen organisiert. **Der Vorwurf der Arroganz:** Zu glauben, der Rest der Welt warte nur darauf, dass das deutsche Modell funktioniert, blendet oft aus, dass andere Länder völlig andere Prioritäten (wie Armutsbekämpfung oder billigen Strom für die Industrialisierung) haben. **Erzwungener Konsum:** Ob E-Auto, neue Heizung oder energetische Sanierung – den Bürgern wird politisch vorgegeben, wofür sie in den nächsten Jahren ihr mühsam erspartes Geld ausgeben müssen. Für die Industrie (Autobauer, Heizungshersteller, Handwerk) ist das eine staatlich garantierte Nachfrage. Wer das Geld nicht hat, fühlt sich zu Recht bevormundet und abgehängt. 
+Unter dem Label des Klimaschutzes wird ein gigantisches Konjunkturprogramm für bestimmte Branchen organisiert. 
+**Der Vorwurf der Arroganz:** Zu glauben, der Rest der Welt warte nur darauf, dass das deutsche Modell funktioniert, blendet oft aus, dass andere Länder völlig andere Prioritäten (wie Armutsbekämpfung oder billigen Strom für die Industrialisierung) haben. 
+**Erzwungener Konsum:** Ob E-Auto, neue Heizung oder energetische Sanierung – den Bürgern wird politisch vorgegeben, wofür sie in den nächsten Jahren ihr mühsam erspartes Geld ausgeben müssen. Für die Industrie (Autobauer, Heizungshersteller, Handwerk) ist das eine staatlich garantierte Nachfrage. Wer das Geld nicht hat, fühlt sich zu Recht bevormundet und abgehängt. 
     
+</div>
 
-
-
-
-
+<div class="section one-column" markdown="1">
+  
 # Der demografische Wandel und das Investitions-Dilemma 
-Der demografische Wandel verschärft dieses Problem massiv:**Die "Generation Rentner":** Ein immer größerer Teil der Bevölkerung geht in den Ruhestand und lebt von festen, oft knappen Renten.**Lange Amortisationszeiten:** Eine Wärmepumpe oder eine Solaranlage rechnet sich oft erst nach 15 bis 20 Jahren durch eingesparte Energiekosten. Für einen 75 jährigen Rentner ist eine solche Investition von oft Zehntausenden Euro wirtschaftlich völlig irrational. Er erlebt nur die hohen Anschaffungskosten, wird den finanziellen Nutzen aber vermutlich nicht mehr erleben.
+Der demografische Wandel verschärft dieses Problem massiv:
+**Die "Generation Rentner":** Ein immer größerer Teil der Bevölkerung geht in den Ruhestand und lebt von festen, oft knappen Renten.
+**Lange Amortisationszeiten:** Eine Wärmepumpe oder eine Solaranlage rechnet sich oft erst nach 15 bis 20 Jahren durch eingesparte Energiekosten. Für einen 75 jährigen Rentner ist eine solche Investition von oft Zehntausenden Euro wirtschaftlich völlig irrational. Er erlebt nur die hohen Anschaffungskosten, wird den finanziellen Nutzen aber vermutlich nicht mehr erleben.
 
+</div>
 
-
-
-
-
+<div class="section one-column" markdown="1">
 
 # Die soziale Schieflage der CO2-Abgabe (Regressive Wirkung)
-  Die CO2-Abgabe auf Heizen und Tanken trifft die Bevölkerung extrem ungleich. In der Ökonomie nennt man das eine **regressive Steuer:**
+Die CO2-Abgabe auf Heizen und Tanken trifft die Bevölkerung extrem ungleich. In der Ökonomie nennt man das eine **regressive Steuer:**
 
 **Wer viel verdient**, spürt die CO2-Abgabe kaum. Er fährt vielleicht ohnehin ein
 modernes E-Auto, wohnt in einem sanierten Eigenheim mit Solardach und zahlt
@@ -100,9 +82,9 @@ Verbrenner-Auto angewiesen, um zur Arbeit zu kommen. Diese Gruppe zahlt
 prozentual einen weitaus größeren Teil ihres Einkommens für die CO2-
 Bepreisung.
 
+</div>
 
-
-
+<div class="section one-column" markdown="1">
   
 # Das nicht eingelöste Versprechen: Das "Klimageld"
 Eigentlich war von der Politik ein Schutzmechanismus versprochen worden, um genau diese soziale Schieflage zu verhindern: das sogenannte Klimageld.
@@ -116,15 +98,15 @@ verschleppt oder zweckentfremdet wurde, um stattdessen Industrie-Subventionen zu
 finanzieren, ist einer der Hauptgründe, warum die Akzeptanz für die Klimapolitik in
 weiten Teilen der Bevölkerung kollabiert ist.
 
+</div>
 
-
-
+<div class="section one-column" markdown="1">
 
 **Wenn Klimaschutz als elitäres Projekt wahrgenommen wird, das die Wirtschaft ankurbeln soll, während ältere
 Menschen und Geringverdiener die Zeche zahlen, verliert der Staat den
 gesellschaftlichen Rückhalt.**
 
-
+</div>
 
 
 

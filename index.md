@@ -63,7 +63,7 @@ Unter dem Label des Klimaschutzes wird ein gigantisches Konjunkturprogramm für 
 </div> 
 
 
-<div class="section two-columns" markdown="2">
+<div class="section two-columns" markdown="1">
 
 # Der demografische Wandel und das Investitions-Dilemma
 Der demografische Wandel verschärft dieses Problem massiv:
@@ -113,9 +113,9 @@ weiten Teilen der Bevölkerung kollabiert ist.
 
 <div class="section one-column" markdown="1">
 
-# Wenn Klimaschutz als elitäres Projekt wahrgenommen wird, das die Wirtschaft ankurbeln soll, während ältere
+**Wenn Klimaschutz als elitäres Projekt wahrgenommen wird, das die Wirtschaft ankurbeln soll, während ältere
 Menschen und Geringverdiener die Zeche zahlen, verliert der Staat den
-gesellschaftlichen Rückhalt.
+gesellschaftlichen Rückhalt.**
 
 </div> 
 

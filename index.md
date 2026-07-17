@@ -79,6 +79,35 @@ Unter dem Label des Klimaschutzes wird ein gigantisches Konjunkturprogramm für 
 </div>   
 
 <div class="section one-column" markdown="1">
+# Einige Fakten
+  
+**Kohlendioxid (CO₂):**
+Wichtigstes vom Menschen verursachtes Treibhausgas. Es bleibt teilweise über Jahrhunderte in der Atmosphäre und ist der größte Treiber der langfristigen Erderwärmung.
+
+**Lachgas (N₂O):**
+Entsteht vor allem in der Landwirtschaft. Es besitzt eine sehr hohe Treibhauswirkung und kann mehr als ein Jahrhundert in der Atmosphäre verbleiben.
+
+**Fluorierte Gase (F-Gase, z.B. HFKW):**
+Mengenmäßig gering, aber extrem klimawirksam. Einige F-Gase sind tausende Male stärker als CO₂ und können sehr lange in der Atmosphäre bestehen.
+
+**FCKW (Fluorchlorkohlenwasserstoffe):**
+Heute weitgehend verboten, aber historisch sehr problematisch. Sie wirken als starke Treibhausgase und zerstören zusätzlich die Ozonschicht.
+
+### CO₂	Größter Verursacher der langfristigen Erderwärmung
+### CH₄ (Methan)	Sehr starke kurzfristige Klimawirkung
+### N₂O (Lachgas)	Sehr langlebig und stark klimawirksam
+### F-Gase	Extrem starke Treibhauswirkung trotz geringer Mengen
+### FCKW	Schädigen Klima und Ozonschicht zugleich
+
+## CO₂ 
+verursacht den größten Teil der Erwärmung, 
+Methan beschleunigt sie besonders stark, 
+Lachgas wirkt lange nach, 
+und F-Gase zählen zu den stärksten bekannten Treibhausgasen.
+
+</div>
+
+<div class="section one-column" markdown="1">
   
 # Der demografische Wandel und das Investitions-Dilemma 
 Der demografische Wandel verschärft dieses Problem massiv:

@@ -1,41 +1,33 @@
-
-
 ---
 Über mich
 ---
 
 <div class="section one-column">
-  <h1>Über mich</h1>
-  <p>
-    Hallo! Ich bin ein leidenschaftlicher Entwickler, der gerne mit GitHub Pages arbeitet. 
-    Mein Fokus liegt auf klaren, strukturierten und leicht pflegbaren Webseiten, 
-    die auch ohne komplexe Frameworks auskommen.
-  </p>
+ #GESUND ? Wohl kaum!#
+
 </div>
 
-<div class="section two-columns">
-  <div>
-    <h2>Mein Hintergrund</h2>
-    <p>
-      Ich habe in den letzten Jahren an verschiedenen Projekten gearbeitet – 
-      von kleinen persönlichen Blogs bis hin zu größeren Dokumentationsseiten.  
-      Dabei lege ich Wert auf sauberen Code, gute Lesbarkeit und ein ansprechendes Design.
-    </p>
-  </div>
-  <div>
-    <h2>Meine Interessen</h2>
-    <p>
-      Neben Webentwicklung interessiere ich mich für UI/UX-Design, 
-      Automatisierung und Open-Source-Projekte.  
-      In meiner Freizeit schreibe ich gerne technische Artikel und teile mein Wissen.
-    </p>
-  </div>
+<div class="two-columns" markdown="1">
+
+<div class="column" markdown="1">
+
+>###Unser Gesundheitssystem
+>**Deutschland** 
+Text hier...
 </div>
 
-<div class="section one-column">
-  <h2>Kontakt</h2>
-  <p>
-    Wenn du mit mir zusammenarbeiten oder einfach nur Hallo sagen möchtest, 
-    findest du meine Kontaktdaten auf der <a href="contact.html">Kontaktseite</a>.
-  </p>
+<div class="column" markdown="1">
+
+### Unser Gesundheitssystem
+>**Die Frage
+Text hier...
+</div>
+
+</div>   
+
+<div class="section one-column" markdown="1">
+  
+# Die Kassen 
+Text hier...
+    
 </div>

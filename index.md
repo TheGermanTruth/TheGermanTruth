@@ -101,11 +101,15 @@ Heute weitgehend verboten, aber historisch sehr problematisch. Sie wirken als st
 ### FCKW	Schädigen Klima und Ozonschicht zugleich
 
 
-# CO₂ 
-verursacht den größten Teil der Erwärmung, 
-Methan beschleunigt sie besonders stark, 
-Lachgas wirkt lange nach, 
-und F-Gase zählen zu den stärksten bekannten Treibhausgasen.
+### CO₂ 
+
+### verursacht den größten Teil der Erwärmung, 
+
+### Methan beschleunigt sie besonders stark, 
+
+### Lachgas wirkt lange nach, 
+
+### und F-Gase zählen zu den stärksten bekannten Treibhausgasen.
 
 </div>
 

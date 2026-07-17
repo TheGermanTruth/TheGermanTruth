@@ -5,7 +5,8 @@ title: "Gesundheitssystem"
 
 
 <div class="section one-column">
- #GESUND ? Wohl kaum!#
+ 
+ # GESUND ? Wohl kaum!
 
 </div>
 
@@ -13,16 +14,18 @@ title: "Gesundheitssystem"
 
 <div class="column" markdown="1">
 
->#Unser Gesundheitssystem
+>## Unser Gesundheitssystem I
 >**Deutschland** 
-Text hier...
+>Text hier...
+
 </div>
 
 <div class="column" markdown="1">
 
-### Unser Gesundheitssystem
+## Unser Gesundheitssystem II
 >**Die Frage**
-Text hier...
+>Text hier...
+
 </div>
 
 </div>   

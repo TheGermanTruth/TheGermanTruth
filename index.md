@@ -51,11 +51,9 @@ auch in der politischen Debatte immer lauter diskutiert werden.**
 
 
 
-</div>
+
 
 <div class="section two-columns" markdown="1">
-  
-  <div>
     
 # Die "Konsum-Pflicht" als Wirtschaftsmotor
 Unter dem Label des Klimaschutzes wird ein gigantisches Konjunkturprogramm für bestimmte Branchen organisiert.
@@ -66,11 +64,11 @@ Unter dem Label des Klimaschutzes wird ein gigantisches Konjunkturprogramm für 
 **Erzwungener Konsum:** Ob E-Auto, neue Heizung oder energetische Sanierung – den Bürgern wird politisch vorgegeben, wofür sie in den nächsten Jahren ihr mühsam erspartes Geld ausgeben müssen. Für die Industrie (Autobauer, Heizungshersteller, Handwerk) ist das eine staatlich garantierte Nachfrage. Wer das Geld nicht hat, fühlt sich zu Recht bevormundet und abgehängt. 
     
     
-  </div>
+
 
   <div class="section two-columns" markdown="1">
     
-  <div>
+
 # Der demografische Wandel und das Investitions-Dilemma
 Der demografische Wandel verschärft dieses Problem massiv:
 
@@ -85,13 +83,13 @@ jährigen Rentner ist eine solche Investition von oft Zehntausenden Euro
 wirtschaftlich völlig irrational. Er erlebt nur die hohen Anschaffungskosten, wird
 den finanziellen Nutzen aber vermutlich nicht mehr erleben.
 
-  </div>
+
 
 
 
 <div class="section one-column" markdown="1">
 
-   <div>
+
 # Die soziale Schieflage der CO2-Abgabe (Regressive Wirkung)
   Die CO2-Abgabe auf Heizen und Tanken trifft die Bevölkerung extrem ungleich. In der Ökonomie nennt man das eine **regressive Steuer:**
   
@@ -107,11 +105,11 @@ Verbrenner-Auto angewiesen, um zur Arbeit zu kommen. Diese Gruppe zahlt
 prozentual einen weitaus größeren Teil ihres Einkommens für die CO2-
 Bepreisung.
 
-</div>
+
 
 <div class="section one-column" markdown="1">
   
-   <div>
+
  # Das nicht eingelöste Versprechen: Das "Klimageld"
 Eigentlich war von der Politik ein Schutzmechanismus versprochen worden, um genau diese soziale Schieflage zu verhindern: das sogenannte Klimageld.
   
@@ -128,16 +126,16 @@ weiten Teilen der Bevölkerung kollabiert ist.
 
 
 
-</div>
+
 
 <div class="section one-column" markdown="1">
 
-   <div>
+
  ## Wenn Klimaschutz als elitäres Projekt wahrgenommen wird, das die Wirtschaft ankurbeln soll, während ältere
 Menschen und Geringverdiener die Zeche zahlen, verliert der Staat den
 gesellschaftlichen Rückhalt.
  
-</div>
+
 
 
 

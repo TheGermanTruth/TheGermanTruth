@@ -49,7 +49,7 @@ Bürger wie eine erzwungene Konsumpflicht wirkt.
 Ungleichheit an, zeigen sich drei zentrale Probleme, die
 auch in der politischen Debatte immer lauter diskutiert werden.**
 
-  </div>
+</div>
 
 
 
@@ -63,7 +63,7 @@ Unter dem Label des Klimaschutzes wird ein gigantisches Konjunkturprogramm für 
 
 **Erzwungener Konsum:** Ob E-Auto, neue Heizung oder energetische Sanierung – den Bürgern wird politisch vorgegeben, wofür sie in den nächsten Jahren ihr mühsam erspartes Geld ausgeben müssen. Für die Industrie (Autobauer, Heizungshersteller, Handwerk) ist das eine staatlich garantierte Nachfrage. Wer das Geld nicht hat, fühlt sich zu Recht bevormundet und abgehängt. 
     
-     </div> 
+</div> 
 
 
   <div class="section two-columns" markdown="1">
@@ -83,7 +83,7 @@ jährigen Rentner ist eine solche Investition von oft Zehntausenden Euro
 wirtschaftlich völlig irrational. Er erlebt nur die hohen Anschaffungskosten, wird
 den finanziellen Nutzen aber vermutlich nicht mehr erleben.
 
-  </div>
+</div>
 
 
 
@@ -105,7 +105,7 @@ Verbrenner-Auto angewiesen, um zur Arbeit zu kommen. Diese Gruppe zahlt
 prozentual einen weitaus größeren Teil ihres Einkommens für die CO2-
 Bepreisung.
 
-
+</div>
 
 <div class="section one-column" markdown="1">
   
@@ -123,7 +123,7 @@ verschleppt oder zweckentfremdet wurde, um stattdessen Industrie-Subventionen zu
 finanzieren, ist einer der Hauptgründe, warum die Akzeptanz für die Klimapolitik in
 weiten Teilen der Bevölkerung kollabiert ist.
 
-
+</div>
 
 
 
@@ -134,7 +134,7 @@ weiten Teilen der Bevölkerung kollabiert ist.
  ## Wenn Klimaschutz als elitäres Projekt wahrgenommen wird, das die Wirtschaft ankurbeln soll, während ältere
 Menschen und Geringverdiener die Zeche zahlen, verliert der Staat den
 gesellschaftlichen Rückhalt.
- 
+</div> 
 
 
 

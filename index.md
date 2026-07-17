@@ -68,9 +68,10 @@ Unter dem Label des Klimaschutzes wird ein gigantisches Konjunkturprogramm für 
     
   </div>
 
-  
+  <div class="section two-columns" markdown="1">
+    
   <div>
-   # Der demografische Wandel und das Investitions-Dilemma
+# Der demografische Wandel und das Investitions-Dilemma
 Der demografische Wandel verschärft dieses Problem massiv:
 
       
@@ -86,10 +87,11 @@ den finanziellen Nutzen aber vermutlich nicht mehr erleben.
 
   </div>
 
-</div>
+
 
 <div class="section one-column" markdown="1">
-  
+
+   <div>
 # Die soziale Schieflage der CO2-Abgabe (Regressive Wirkung)
   Die CO2-Abgabe auf Heizen und Tanken trifft die Bevölkerung extrem ungleich. In der Ökonomie nennt man das eine **regressive Steuer:**
   
@@ -109,6 +111,7 @@ Bepreisung.
 
 <div class="section one-column" markdown="1">
   
+   <div>
  # Das nicht eingelöste Versprechen: Das "Klimageld"
 Eigentlich war von der Politik ein Schutzmechanismus versprochen worden, um genau diese soziale Schieflage zu verhindern: das sogenannte Klimageld.
   
@@ -128,7 +131,8 @@ weiten Teilen der Bevölkerung kollabiert ist.
 </div>
 
 <div class="section one-column" markdown="1">
-  
+
+   <div>
  ## Wenn Klimaschutz als elitäres Projekt wahrgenommen wird, das die Wirtschaft ankurbeln soll, während ältere
 Menschen und Geringverdiener die Zeche zahlen, verliert der Staat den
 gesellschaftlichen Rückhalt.

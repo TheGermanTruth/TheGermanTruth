@@ -55,19 +55,16 @@ auch in der politischen Debatte immer lauter diskutiert werden.**
 
 <div class="section two-columns">
   
-# Die "Konsum-Pflicht" als Wirtschaftsmotor Unter dem Label des Klimaschutzes wird ein gigantisches Konjunkturprogramm für bestimmte Branchen organisiert.     
-**Der Vorwurf der Arroganz:** Zu glauben, der Rest der Welt warte nur darauf, dass das deutsche Modell funktioniert, blendet oft aus, dass andere Länder völlig andere Prioritäten (wie Armutsbekämpfung oder billigen Strom für die Industrialisierung) haben. **Erzwungener Konsum:** Ob E-Auto, neue Heizung oder energetische Sanierung – den Bürgern wird politisch vorgegeben, wofür sie in den nächsten Jahren ihr mühsam erspartes Geld ausgeben müssen. Für die Industrie (Autobauer, Heizungshersteller, Handwerk) ist das eine staatlich garantierte Nachfrage. Wer das Geld nicht hat, fühlt sich zu Recht bevormundet und abgehängt. 
+# Die "Konsum-Pflicht" als Wirtschaftsmotor 
+Unter dem Label des Klimaschutzes wird ein gigantisches Konjunkturprogramm für bestimmte Branchen organisiert. **Der Vorwurf der Arroganz:** Zu glauben, der Rest der Welt warte nur darauf, dass das deutsche Modell funktioniert, blendet oft aus, dass andere Länder völlig andere Prioritäten (wie Armutsbekämpfung oder billigen Strom für die Industrialisierung) haben. **Erzwungener Konsum:** Ob E-Auto, neue Heizung oder energetische Sanierung – den Bürgern wird politisch vorgegeben, wofür sie in den nächsten Jahren ihr mühsam erspartes Geld ausgeben müssen. Für die Industrie (Autobauer, Heizungshersteller, Handwerk) ist das eine staatlich garantierte Nachfrage. Wer das Geld nicht hat, fühlt sich zu Recht bevormundet und abgehängt. 
     
 </div> 
 
 
 <div class="section two-columns">
 
-# Der demografische Wandel und das Investitions-Dilemma Der demografische Wandel verschärft dieses Problem massiv:
-**Die "Generation Rentner":** Ein immer größerer Teil der Bevölkerung geht in den Ruhestand und lebt von festen, oft knappen Renten.
-**Lange Amortisationszeiten:** Eine Wärmepumpe oder eine Solaranlage rechnet sich oft erst nach 15 bis 20 Jahren durch eingesparte Energiekosten. Für einen 75-
-jährigen Rentner ist eine solche Investition von oft Zehntausenden Euro wirtschaftlich völlig irrational. Er erlebt nur die hohen Anschaffungskosten, wird
-den finanziellen Nutzen aber vermutlich nicht mehr erleben.
+# Der demografische Wandel und das Investitions-Dilemma 
+Der demografische Wandel verschärft dieses Problem massiv:**Die "Generation Rentner":** Ein immer größerer Teil der Bevölkerung geht in den Ruhestand und lebt von festen, oft knappen Renten.**Lange Amortisationszeiten:** Eine Wärmepumpe oder eine Solaranlage rechnet sich oft erst nach 15 bis 20 Jahren durch eingesparte Energiekosten. Für einen 75 jährigen Rentner ist eine solche Investition von oft Zehntausenden Euro wirtschaftlich völlig irrational. Er erlebt nur die hohen Anschaffungskosten, wird den finanziellen Nutzen aber vermutlich nicht mehr erleben.
 
 </div>
 

@@ -22,7 +22,7 @@ title: "Gesundheitssystem"
 
 <div class="column" markdown="1">
 
-## Unser Gesundheitssystem II
+>## Unser Gesundheitssystem II
 >**Die Frage**
 >Text hier...
 

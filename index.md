@@ -38,13 +38,13 @@ Subventionen geschlossen werden müsste.
 
 <div class="column" markdown="1">
 
-### Die Wette
-**Die Entscheider** wissen, dass Deutschland das Klima nicht allein retten kann. Die
-Maßnahmen basieren auf der Wette, dass Deutschland als „Blaupause“ dient: Gelingt
-es einer hochindustrialisierten Nation, klimaneutral zu werden und gleichzeitig
-wohlhabend zu bleiben, werden andere Länder diesem Pfad folgen. Scheitert dieses
-Experiment jedoch wirtschaftlich, wird kein anderes Land der Welt den deutschen Weg
-einschlagen.
+>### Die Wette
+>**Die Entscheider** wissen, dass Deutschland das Klima nicht allein retten kann. Die
+>Maßnahmen basieren auf der Wette, dass Deutschland als „Blaupause“ dient: Gelingt
+>es einer hochindustrialisierten Nation, klimaneutral zu werden und gleichzeitig
+>wohlhabend zu bleiben, werden andere Länder diesem Pfad folgen. Scheitert dieses
+>Experiment jedoch wirtschaftlich, wird kein anderes Land der Welt den deutschen Weg
+>einschlagen.
 
 </div>
 

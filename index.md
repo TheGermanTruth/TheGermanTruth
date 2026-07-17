@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: "Die Co2 Lüge"

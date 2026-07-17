@@ -3,14 +3,10 @@ layout: default
 title: "Gesundheitssystem"
 ---
 
-
 <div class="section one-column">
-
-
-
     
- # GESUND? Wohl kaum!
- Text hier
+# GESUND? Wohl kaum!
+Text hier
 
 </div>
 

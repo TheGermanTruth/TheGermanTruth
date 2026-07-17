@@ -37,7 +37,8 @@ nav a:hover {
 
 /* ===== Inhaltsbereiche ===== */
 .section {
-  padding-left: 50px;
+  /*padding-left: 50px;*/
+  padding: 20px 40px; /* Gleichmäßiger Abstand links und rechts */
   background: white;
   margin: 20px auto;
   max-width: 1100px;
@@ -49,8 +50,10 @@ nav a:hover {
 
 .two-columns {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 20px;
+  grid-template-columns: 1fr 1fr; /* 2 gleich große Spalten */
+  gap: 40px; /* Abstand zwischen den Spalten */
+  max-width: 800px;               /* Macht den Spaltenbereich kompakter (z.B. 800px statt 1100px) */
+  margin: 0 auto;                 /* Zentriert das komplette 2-Spalten-Raster im weißen Kasten */
 }
 
 .one-column {

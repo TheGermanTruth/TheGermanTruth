@@ -4,7 +4,7 @@ layout: default
 title: "Die Co2 Lüge"
 ---
 
-<div class="section one-column" markdown="1">
+<div class="section one-column">
   
 # Die Ziele der Bundesregierung
 Die Bundesregierung verfolgt das gesetzliche Ziel, die Treibhausgasemissionen in
@@ -53,7 +53,7 @@ auch in der politischen Debatte immer lauter diskutiert werden.**
 
 
 
-<div class="section two-columns" markdown="1">
+<div class="section two-columns">
   
 # Die "Konsum-Pflicht" als Wirtschaftsmotor
 Unter dem Label des Klimaschutzes wird ein gigantisches Konjunkturprogramm für bestimmte Branchen organisiert.     
@@ -63,7 +63,7 @@ Unter dem Label des Klimaschutzes wird ein gigantisches Konjunkturprogramm für 
 </div> 
 
 
-<div class="section two-columns" markdown="1">
+<div class="section two-columns">
 
 # Der demografische Wandel und das Investitions-Dilemma
 Der demografische Wandel verschärft dieses Problem massiv:
@@ -79,7 +79,7 @@ den finanziellen Nutzen aber vermutlich nicht mehr erleben.
 
 
 
-<div class="section one-column" markdown="1">
+<div class="section one-column">
 
 # Die soziale Schieflage der CO2-Abgabe (Regressive Wirkung)
   Die CO2-Abgabe auf Heizen und Tanken trifft die Bevölkerung extrem ungleich. In der Ökonomie nennt man das eine **regressive Steuer:**
@@ -95,7 +95,7 @@ Bepreisung.
 
 </div>
 
-<div class="section one-column" markdown="1">
+<div class="section one-column">
   
 # Das nicht eingelöste Versprechen: Das "Klimageld"
 Eigentlich war von der Politik ein Schutzmechanismus versprochen worden, um genau diese soziale Schieflage zu verhindern: das sogenannte Klimageld.
@@ -111,7 +111,7 @@ weiten Teilen der Bevölkerung kollabiert ist.
 
 </div>
 
-<div class="section one-column" markdown="1">
+<div class="section one-column">
 
 **Wenn Klimaschutz als elitäres Projekt wahrgenommen wird, das die Wirtschaft ankurbeln soll, während ältere
 Menschen und Geringverdiener die Zeche zahlen, verliert der Staat den

@@ -99,8 +99,7 @@ Heute weitgehend verboten, aber historisch sehr problematisch. Sie wirken als st
 ### N₂O (Lachgas)	Sehr langlebig und stark klimawirksam
 ### F-Gase	Extrem starke Treibhauswirkung trotz geringer Mengen
 ### FCKW	Schädigen Klima und Ozonschicht zugleich
-
-
+---
 ### CO₂ verursacht den größten Teil der Erwärmung, 
 
 ### Methan beschleunigt sie besonders stark, 

@@ -79,6 +79,7 @@ Unter dem Label des Klimaschutzes wird ein gigantisches Konjunkturprogramm für 
 </div>   
 
 <div class="section one-column" markdown="1">
+  
 # Einige Fakten
   
 **Kohlendioxid (CO₂):**
@@ -99,7 +100,8 @@ Heute weitgehend verboten, aber historisch sehr problematisch. Sie wirken als st
 ### F-Gase	Extrem starke Treibhauswirkung trotz geringer Mengen
 ### FCKW	Schädigen Klima und Ozonschicht zugleich
 
-## CO₂ 
+
+# CO₂ 
 verursacht den größten Teil der Erwärmung, 
 Methan beschleunigt sie besonders stark, 
 Lachgas wirkt lange nach, 

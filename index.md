@@ -4,7 +4,6 @@ layout: default
 title: "Die Co2 Lüge"
 ---
 
-<div class="section one-column">
   
 # Die Ziele der Bundesregierung
 Die Bundesregierung verfolgt das gesetzliche Ziel, die Treibhausgasemissionen in
@@ -49,7 +48,7 @@ Bürger wie eine erzwungene Konsumpflicht wirkt.
 Ungleichheit an, zeigen sich drei zentrale Probleme, die
 auch in der politischen Debatte immer lauter diskutiert werden.**
 
-</div>
+
 
 
 

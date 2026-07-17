@@ -4,7 +4,7 @@ layout: default
 title: "Die Co2 Lüge"
 ---
 
-  
+
 # Die Ziele der Bundesregierung
 Die Bundesregierung verfolgt das gesetzliche Ziel, die Treibhausgasemissionen in
 Deutschland bis 2030 um mindestens 65 % (gegenüber 1990) zu senken und bis 2045
@@ -20,20 +20,37 @@ Insbesondere in den Sektoren Verkehr und Gebäude klafft weiterhin eine erheblic
 Öko-Lücke, die durch politische Anpassungen und den Abbau von fossilen
 Subventionen geschlossen werden müsste.
 
-    
-__Deutschland__ ist aktuell für etwa 1,6 % der weltweiten CO2-Emissionen
+
+<div class="two-columns" markdown="1">
+
+<div class="column" markdown="1">
+
+### Linke Spalte
+**Deutschland** ist aktuell für etwa 1,6 % der weltweiten CO2-Emissionen
 verantwortlich. Selbst wenn wir von heute auf morgen komplett emissionsfrei wären,
 würde das die globale Erwärmung physikalisch gesehen kaum messbar verlangsamen,
 solange Schwergewichte wie China (ca. 30 %), die USA (ca. 13 %) oder Indien (ca. 7 %)
 ihren Ausstoß nicht drastisch senken.
 
+</div>
 
+<div class="column" markdown="1">
+
+### Rechte Spalte
 **Die Entscheider** wissen, dass Deutschland das Klima nicht allein retten kann. Die
 Maßnahmen basieren auf der Wette, dass Deutschland als „Blaupause“ dient: Gelingt
 es einer hochindustrialisierten Nation, klimaneutral zu werden und gleichzeitig
 wohlhabend zu bleiben, werden andere Länder diesem Pfad folgen. Scheitert dieses
 Experiment jedoch wirtschaftlich, wird kein anderes Land der Welt den deutschen Weg
 einschlagen.
+
+</div>
+
+</div>    
+
+
+
+
 
 
 **Die tiefe Kluft** zwischen anspruchsvollen Transformationszielen und der

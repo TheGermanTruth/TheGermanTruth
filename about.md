@@ -3,7 +3,7 @@ layout: default
 title: "Gesundheitssystem"
 ---
 
-<div class="section one-column">
+<div class="section one-column" markdown="1">
     
 # GESUND? Wohl kaum!
 

@@ -52,24 +52,24 @@ auch in der politischen Debatte immer lauter diskutiert werden.**
 
 
 
-<div class="section two-columns">
+
   
 # Die "Konsum-Pflicht" als Wirtschaftsmotor 
 Unter dem Label des Klimaschutzes wird ein gigantisches Konjunkturprogramm für bestimmte Branchen organisiert. **Der Vorwurf der Arroganz:** Zu glauben, der Rest der Welt warte nur darauf, dass das deutsche Modell funktioniert, blendet oft aus, dass andere Länder völlig andere Prioritäten (wie Armutsbekämpfung oder billigen Strom für die Industrialisierung) haben. **Erzwungener Konsum:** Ob E-Auto, neue Heizung oder energetische Sanierung – den Bürgern wird politisch vorgegeben, wofür sie in den nächsten Jahren ihr mühsam erspartes Geld ausgeben müssen. Für die Industrie (Autobauer, Heizungshersteller, Handwerk) ist das eine staatlich garantierte Nachfrage. Wer das Geld nicht hat, fühlt sich zu Recht bevormundet und abgehängt. 
     
-</div> 
 
 
-<div class="section two-columns">
+
+
 
 # Der demografische Wandel und das Investitions-Dilemma 
 Der demografische Wandel verschärft dieses Problem massiv:**Die "Generation Rentner":** Ein immer größerer Teil der Bevölkerung geht in den Ruhestand und lebt von festen, oft knappen Renten.**Lange Amortisationszeiten:** Eine Wärmepumpe oder eine Solaranlage rechnet sich oft erst nach 15 bis 20 Jahren durch eingesparte Energiekosten. Für einen 75 jährigen Rentner ist eine solche Investition von oft Zehntausenden Euro wirtschaftlich völlig irrational. Er erlebt nur die hohen Anschaffungskosten, wird den finanziellen Nutzen aber vermutlich nicht mehr erleben.
 
-</div>
 
 
 
-<div class="section one-column">
+
+
 
 # Die soziale Schieflage der CO2-Abgabe (Regressive Wirkung)
   Die CO2-Abgabe auf Heizen und Tanken trifft die Bevölkerung extrem ungleich. In der Ökonomie nennt man das eine **regressive Steuer:**
@@ -83,9 +83,9 @@ Verbrenner-Auto angewiesen, um zur Arbeit zu kommen. Diese Gruppe zahlt
 prozentual einen weitaus größeren Teil ihres Einkommens für die CO2-
 Bepreisung.
 
-</div>
 
-<div class="section one-column">
+
+
   
 # Das nicht eingelöste Versprechen: Das "Klimageld"
 Eigentlich war von der Politik ein Schutzmechanismus versprochen worden, um genau diese soziale Schieflage zu verhindern: das sogenannte Klimageld.
@@ -99,15 +99,15 @@ verschleppt oder zweckentfremdet wurde, um stattdessen Industrie-Subventionen zu
 finanzieren, ist einer der Hauptgründe, warum die Akzeptanz für die Klimapolitik in
 weiten Teilen der Bevölkerung kollabiert ist.
 
-</div>
 
-<div class="section one-column">
+
+
 
 **Wenn Klimaschutz als elitäres Projekt wahrgenommen wird, das die Wirtschaft ankurbeln soll, während ältere
 Menschen und Geringverdiener die Zeche zahlen, verliert der Staat den
 gesellschaftlichen Rückhalt.**
 
-</div> 
+
 
 
 

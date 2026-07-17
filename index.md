@@ -63,9 +63,9 @@ Unter dem Label des Klimaschutzes wird ein gigantisches Konjunkturprogramm für 
 
 <div class="column" markdown="1">
 
->### CO2-Emissionen
+>### CO2-Emissionen Global 2024
 
->GRAFIK
+>![Grafik](assets/Co2_2024.png)
 
 </div>
 
@@ -73,7 +73,7 @@ Unter dem Label des Klimaschutzes wird ein gigantisches Konjunkturprogramm für 
 
 >### Alle Treibhausgase
 
->GRAFIK
+>![Grafik](assets/AlleGase_2024.png)
 
 </div>
 

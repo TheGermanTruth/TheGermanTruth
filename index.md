@@ -59,6 +59,26 @@ Unter dem Label des Klimaschutzes wird ein gigantisches Konjunkturprogramm für 
     
 </div>
 
+<div class="two-columns" markdown="1">
+
+<div class="column" markdown="1">
+
+>### CO2-Emissionen
+
+>GRAFIK
+
+</div>
+
+<div class="column" markdown="1">
+
+>### Alle Treibhausgase
+
+>GRAFIK
+
+</div>
+
+</div>   
+
 <div class="section one-column" markdown="1">
   
 # Der demografische Wandel und das Investitions-Dilemma 

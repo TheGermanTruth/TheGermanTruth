@@ -17,12 +17,10 @@ title: "Wer ich bin"
 
 ---
 
-
-
-
-
-
-
+<br>&nbsp;
+<br>&nbsp;
+<br>&nbsp;
+  
 # Wer ich bin
 
 Ich bin Klaus Runge, Geboren 1958, aufgewachsen in der Nähe von Hannover und seit jeher getrieben von

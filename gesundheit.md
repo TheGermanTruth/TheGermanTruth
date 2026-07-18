@@ -37,15 +37,15 @@ Hier ist die direkte Übersicht der harten Fakten (jeweils normiert auf 1.000 Ei
 
 ## Die Kosten
 
-Daten der OECD (Stand 2024/2025)
+### Daten der OECD (Stand 2024/2025)
 
-    • Deutschland: 12,3 %
-    • Frankreich: 11,5 %
-    • Schweiz: 11,4 %
-    • Großbritannien: 11,1 %
-    • Niederlande: 10,1 %
-    • Dänemark: 9,4 %
-    • Spanien: 9,2 %
+Deutschland: 12,3 %
+Frankreich: 11,5 %
+Schweiz: 11,4 %
+Großbritannien: 11,1 %
+Niederlande: 10,1 %
+Dänemark: 9,4 %
+Spanien: 9,2 %
     
 (Zum Vergleich: Der offizielle OECD-Durchschnitt liegt bei ca. 9,3 %).
 
@@ -71,30 +71,32 @@ Betrachtet man die Zufriedenheit der Bevölkerung, zeigt sich ein extrem interes
 
 ## Die Spitzengruppe: Vertrauen trotz hoher Kosten
 
-    • Schweiz (ca. 92 % Zufriedenheit): Die Schweiz führt internationale Rankings fast durchgehend an. Die Menschen klagen zwar über die extrem hohen privaten Krankenkassenprämien, schätzen aber die exzellente Infrastruktur, die absolute Wahlfreiheit bei Ärzten und das Fehlen von Wartezeiten.
+Schweiz (ca. 92 % Zufriedenheit): Die Schweiz führt internationale Rankings fast durchgehend an. Die Menschen klagen zwar über die extrem hohen privaten Krankenkassenprämien, schätzen aber die exzellente Infrastruktur, die absolute Wahlfreiheit bei Ärzten und das Fehlen von Wartezeiten.
     
-    • Niederlande (ca. 83 % Zufriedenheit): Das dortige "Managed-Competition"-System (stark regulierter Wettbewerb privater Kassen) genießt in der Bevölkerung ein sehr hohes Vertrauen. Das System gilt als fair, modern und digital gut organisiert.
+Niederlande (ca. 83 % Zufriedenheit): Das dortige "Managed-Competition"-System (stark regulierter Wettbewerb privater Kassen) genießt in der Bevölkerung ein sehr hohes Vertrauen. Das System gilt als fair, modern und digital gut organisiert.
     
 ## Das solide Mittelfeld: Hoher Standard, wachsende Sorgen
 
-       • Dänemark (ca. 79–81 % Zufriedenheit): Das rein steuerfinanzierte System wird von den Dänen grundsätzlich sehr geschätzt. Es gibt jedoch regional leichte Unzufriedenheit, wenn es um die Schließung kleinerer Krankenhäuser zugunsten von Super-Kliniken geht.
+Dänemark (ca. 79–81 % Zufriedenheit): Das rein steuerfinanzierte System wird von den Dänen grundsätzlich sehr geschätzt. Es gibt jedoch regional leichte Unzufriedenheit, wenn es um die Schließung kleinerer Krankenhäuser zugunsten von Super-Kliniken geht.
        
-    • Deutschland (ca. 74–76 % Zufriedenheit): Die Deutschen schätzen nach wie vor den schnellen Zugang zu Fachärzten und die freie Arztwahl. Allerdings sinkt der Wert seit einigen Jahren. Hauptgründe für den Unmut: zunehmender Ärztemangel im ländlichen Raum, lange Wartezeiten für Kassenpatienten bei bestimmten Fachärzten und das Gefühl einer "Zwei-Klassen-Medizin".
+Deutschland (ca. 74–76 % Zufriedenheit): Die Deutschen schätzen nach wie vor den schnellen Zugang zu Fachärzten und die freie Arztwahl. Allerdings sinkt der Wert seit einigen Jahren. Hauptgründe für den Unmut: zunehmender Ärztemangel im ländlichen Raum, lange Wartezeiten für Kassenpatienten bei bestimmten Fachärzten und das Gefühl einer "Zwei-Klassen-Medizin".
     
-    • Frankreich (ca. 72–75 % Zufriedenheit): Das System wird für seine hohe medizinische Qualität gelobt. Die größte Sorge der Franzosen sind jedoch die sogenannten Déserts médicaux (medizinische Wüsten) – ländliche Regionen, in denen es kaum noch Haus- oder Fachärzte gibt.
+Frankreich (ca. 72–75 % Zufriedenheit): Das System wird für seine hohe medizinische Qualität gelobt. Die größte Sorge der Franzosen sind jedoch die sogenannten Déserts médicaux (medizinische Wüsten) – ländliche Regionen, in denen es kaum noch Haus- oder Fachärzte gibt.
 
 ## Die Krisenzonen: Spardruck hinterlässt Spuren
-    • Spanien (ca. 65–68 % Zufriedenheit): Das spanische System leidet seit Jahren unter Budgetkürzungen. Die Spanier schätzen ihre Ärzte und das Personal zwar menschlich sehr, sind aber frustriert über überlastete Notaufnahmen und lange Wartezeiten auf planbare Operationen.
+Spanien (ca. 65–68 % Zufriedenheit): Das spanische System leidet seit Jahren unter Budgetkürzungen. Die Spanier schätzen ihre Ärzte und das Personal zwar menschlich sehr, sind aber frustriert über überlastete Notaufnahmen und lange Wartezeiten auf planbare Operationen.
     
-    • Großbritannien (historisches Tief, oft unter 60 %): Der staatliche NHS (National Health Service) war einst der Stolz der Nation. Heute ist die Zufriedenheit auf einem Tiefpunkt. Berichte über verstopfte Notaufnahmen, monatelange Wartezeiten selbst auf Krebsbehandlungen und massive Streiks des Pflegepersonals haben das Vertrauen der Briten schwer beschädigt.
+Großbritannien (historisches Tief, oft unter 60 %): Der staatliche NHS (National Health Service) war einst der Stolz der Nation. Heute ist die Zufriedenheit auf einem Tiefpunkt. Berichte über verstopfte Notaufnahmen, monatelange Wartezeiten selbst auf Krebsbehandlungen und massive Streiks des Pflegepersonals haben das Vertrauen der Briten schwer beschädigt.
 
 </div>
     
 <div class="column" markdown="1">
 
----
-# Grid Zwei
----
+
+### Die Menschen sind dort am zufriedensten, 
+wo das System verlässlich und schnell funktioniert (Schweiz, Niederlande) – selbst wenn es sie privat viel Geld kostet. Reine Steuersysteme (UK, Spanien) geraten in Krisenzeiten durch staatlichen Spardruck am schnellsten in die Kritik der Bevölkerung.
+
+![BESCHREIBUNG]({{ '/images/betten.png' | relative_url }}){: width="100%"}
     
 </div>
 

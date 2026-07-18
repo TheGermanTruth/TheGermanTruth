@@ -36,8 +36,6 @@ Neues, Durchdachtes und Solides zu erschaffen.
 ---
 
 ![Klaus Runge]({{ '/images/me.png' | relative_url }}){: width="100%"}
-
----
     
 </div>
 
@@ -47,6 +45,6 @@ Neues, Durchdachtes und Solides zu erschaffen.
 
 <div class="one-column" markdown="1">
 
-## Diese Webseiten sind rein privat. Sie dienen ausschließlich dem Zweck meine Gedanken zu teilen!
+# Diese Webseiten sind rein privat. Sie dienen ausschließlich dem Zweck meine Gedanken zu teilen!
 
 </div>

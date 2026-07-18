@@ -29,8 +29,6 @@ Hier ist die direkte Übersicht der harten Fakten (jeweils normiert auf 1.000 Ei
 
 ![BESCHREIBUNG]({{ '/images/tabelle.png' | relative_url }}){: width="100%"}
 
----
-
 </div>
 
 <div class="column" markdown="1">
@@ -57,14 +55,14 @@ Spanien: 9,2 %
 
 Deutschland führt diese Gruppe deutlich an und gibt relativ gesehen am meisten Geld für sein Gesundheitssystem aus, dicht gefolgt von Frankreich und der Schweiz. Spanien und Dänemark steuern ihre rein steuerfinanzierten Systeme deutlich kosteneffizienter nahe am beziehungsweise leicht unter dem OECD-Schnitt.
 
----
-
 </div>
 
 </div>   
 
 <div class="section one-column" markdown="1">
   
+---
+
 # Die Zufriedenheit der Menschen 
 
 Betrachtet man die Zufriedenheit der Bevölkerung, zeigt sich ein extrem interessanter Trend: Viel Geld bedeutet nicht automatisch maximale Zufriedenheit. Nach der Corona-Pandemie ist die Zufriedenheit zudem in fast allen europäischen Ländern spürbar gesunken.
@@ -110,6 +108,8 @@ wo das System verlässlich und schnell funktioniert (Schweiz, Niederlande) – s
 
 <div class="section one-column" markdown="1">
 
+---
+
 ## Der deutsche "Betten-Wahn": 
 
 Deutschland hat dreimal so viele Krankenhausbetten pro Kopf wie Dänemark, die Niederlande oder Großbritannien. Das bedeutet: In Deutschland wird man viel schneller und häufiger stationär im Krankenhaus aufgenommen als in fast jedem anderen Land.
@@ -126,6 +126,26 @@ Das hatte jedoch einen fatalen Nebeneffekt:
 Weil Deutschland sich den Luxus von so vielen (oft kleinen) Krankenhäusern leistet, passiert genau das: Ein kleines Krankenhaus auf dem Land hat gar nicht die Fallzahlen und die hochspezialisierten Fachärzte, um hochkomplexe Eingriffe (wie z. B. schwierige Krebs-Operationen) routiniert durchzuführen.
 Wenn eine Klinik eine solche Operation aber nur dreimal im Jahr macht, fehlt dem Team die Routine. Studien zeigen immer wieder:
 Die Komplikations- und Sterberaten sind in Kliniken mit geringen Fallzahlen deutlich höher.
+
+---
+
+# Was wird dagegen getan? (Die Krankenhausreform 2026)
+
+Genau wegen dieser Argumente wurde die aktuelle Krankenhausreform auf den Weg gebracht. Sie soll das System grundlegend ändern:
+
+>**Abkehr vom reinen Spardruck:**
+>
+>Kliniken sollen künftig feste Vorhaltepauschalen bekommen (ca. 60 % ihrer Kosten). Das bedeutet: Sie kriegen Geld dafür, dass sie Personal und Technik bereithalten, damit sie nicht mehr gezwungen sind, so viel wie möglich zu operieren, um zu überleben.
+>
+>**Konzentration und Qualitätsregeln:**
+>
+>Krankenhäuser dürfen bestimmte Eingriffe künftig nur noch machen, wenn sie nachweisen können, dass sie das nötige Fachpersonal und eine Mindestanzahl an jährlichen Fällen haben. Kleine Kliniken werden dadurch gezwungen, sich auf Basisversorgung (Notaufnahme, Altersmedizin) zu konzentrieren. Komplexe OPs wandern in große Zentren.
+
+# Ist das System also zu retten?
+
+Man kann sagen: Es hat sich in eine Sackgasse manövriert. Das deutsche System wurde mit der Absicht gebaut, jedem Bürger maximale Sicherheit und Nähe zu garantieren (an jeder Ecke ein Krankenhaus). In einer modernen, hochspezialisierten Medizin führt dieser Ansatz jedoch zu **Ineffizienz, Fehlanreizen und Qualitätsrisiken**.
+
+Der Umbau hin zu einem System wie in Dänemark (wenige, hochspezialisierte Zentren) hat begonnen – aber der Widerstand vor Ort, wo Menschen um "ihr" kleines Krankenhaus bangen, bleibt riesig.
 
 ---
 

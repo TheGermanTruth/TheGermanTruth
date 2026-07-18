@@ -16,18 +16,18 @@ Text hier
 <div class="column" markdown="1">
 
 >## Unser Gesundheitssystem I
->**Deutschland**
+**Deutschland**
 
->Text hier...
+Text hier...
 
 </div>
 
 <div class="column" markdown="1">
 
 >## Unser Gesundheitssystem II
->**Die Frage**
+**Die Frage**
 
->Text hier...
+Text hier...
 
 </div>
 

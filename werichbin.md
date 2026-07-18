@@ -42,3 +42,11 @@ Neues, Durchdachtes und Solides zu erschaffen.
 </div>
 
 </div>
+
+---
+
+<div class="one-column" markdown="1">
+
+## Diese Webseiten sind rein privat. Sie dienen ausschließlich dem Zweck meine Gedanken zu teilen!
+
+</div>

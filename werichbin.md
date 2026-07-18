@@ -15,7 +15,7 @@ einer einfachen Motivation: **Ich möchte Dinge nicht nur nutzen, sondern verste
 gestalten.**
 
 ---
-Ich lebe seit etwa 40 Jahren in Norddeutschland.
+### Ich lebe seit etwa 40 Jahren in Norddeutschland.
 ---
 
 Mein beruflicher und kreativer Weg ist vielseitig. Ich habe in Agenturen gearbeitet, war

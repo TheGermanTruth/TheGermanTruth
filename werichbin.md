@@ -45,6 +45,6 @@ Neues, Durchdachtes und Solides zu erschaffen.
 
 <div class="section one-column" markdown="1">
 
-# Diese Webseiten sind rein privat. Sie dienen ausschließlich dem Zweck meine Gedanken zu teilen!
+### Diese Webseiten sind rein privat. Sie dienen ausschließlich dem Zweck meine Gedanken zu teilen!
 
 </div>

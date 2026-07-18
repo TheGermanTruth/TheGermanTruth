@@ -59,7 +59,57 @@ Deutschland führt diese Gruppe deutlich an und gibt relativ gesehen am meisten 
 
 <div class="section one-column" markdown="1">
   
-# Die Kassen 
-Text hier...
+# Die Zufriedenheit der Menschen 
+
+Betrachtet man die Zufriedenheit der Bevölkerung, zeigt sich ein extrem interessanter Trend: Viel Geld bedeutet nicht automatisch maximale Zufriedenheit. Nach der Corona-Pandemie ist die Zufriedenheit zudem in fast allen europäischen Ländern spürbar gesunken.
     
 </div>
+
+<div class="two-columns" markdown="1">
+
+<div class="column" markdown="1">
+
+## Die Spitzengruppe: Vertrauen trotz hoher Kosten
+
+    • Schweiz (ca. 92 % Zufriedenheit): Die Schweiz führt internationale Rankings fast durchgehend an. Die Menschen klagen zwar über die extrem hohen privaten Krankenkassenprämien, schätzen aber die exzellente Infrastruktur, die absolute Wahlfreiheit bei Ärzten und das Fehlen von Wartezeiten.
+    
+    • Niederlande (ca. 83 % Zufriedenheit): Das dortige "Managed-Competition"-System (stark regulierter Wettbewerb privater Kassen) genießt in der Bevölkerung ein sehr hohes Vertrauen. Das System gilt als fair, modern und digital gut organisiert.
+    
+## Das solide Mittelfeld: Hoher Standard, wachsende Sorgen
+
+       • Dänemark (ca. 79–81 % Zufriedenheit): Das rein steuerfinanzierte System wird von den Dänen grundsätzlich sehr geschätzt. Es gibt jedoch regional leichte Unzufriedenheit, wenn es um die Schließung kleinerer Krankenhäuser zugunsten von Super-Kliniken geht.
+       
+    • Deutschland (ca. 74–76 % Zufriedenheit): Die Deutschen schätzen nach wie vor den schnellen Zugang zu Fachärzten und die freie Arztwahl. Allerdings sinkt der Wert seit einigen Jahren. Hauptgründe für den Unmut: zunehmender Ärztemangel im ländlichen Raum, lange Wartezeiten für Kassenpatienten bei bestimmten Fachärzten und das Gefühl einer "Zwei-Klassen-Medizin".
+    
+    • Frankreich (ca. 72–75 % Zufriedenheit): Das System wird für seine hohe medizinische Qualität gelobt. Die größte Sorge der Franzosen sind jedoch die sogenannten Déserts médicaux (medizinische Wüsten) – ländliche Regionen, in denen es kaum noch Haus- oder Fachärzte gibt.
+
+## Die Krisenzonen: Spardruck hinterlässt Spuren
+    • Spanien (ca. 65–68 % Zufriedenheit): Das spanische System leidet seit Jahren unter Budgetkürzungen. Die Spanier schätzen ihre Ärzte und das Personal zwar menschlich sehr, sind aber frustriert über überlastete Notaufnahmen und lange Wartezeiten auf planbare Operationen.
+    
+    • Großbritannien (historisches Tief, oft unter 60 %): Der staatliche NHS (National Health Service) war einst der Stolz der Nation. Heute ist die Zufriedenheit auf einem Tiefpunkt. Berichte über verstopfte Notaufnahmen, monatelange Wartezeiten selbst auf Krebsbehandlungen und massive Streiks des Pflegepersonals haben das Vertrauen der Briten schwer beschädigt.
+
+</div>
+    
+<div class="column" markdown="1">
+
+---
+# Grid Zwei
+---
+    
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

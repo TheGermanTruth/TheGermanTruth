@@ -108,7 +108,28 @@ wo das System verlässlich und schnell funktioniert (Schweiz, Niederlande) – s
 
 </div>
 
+<div class="section one-column" markdown="1">
 
+## Der deutsche "Betten-Wahn": 
+
+Deutschland hat dreimal so viele Krankenhausbetten pro Kopf wie Dänemark, die Niederlande oder Großbritannien. Das bedeutet: In Deutschland wird man viel schneller und häufiger stationär im Krankenhaus aufgenommen als in fast jedem anderen Land.
+
+## Der Fehlanreiz: Das Fallpauschalen-System (DRG)
+
+Bis in die 2000er Jahre bekamen deutsche Kliniken Geld pro Tag, den ein Patient im Bett lag. Um das zu stoppen, führte man das System der Fallpauschalen (DRGs) ein: Ein Krankenhaus bekommt seitdem für eine bestimmte Diagnose und deren Behandlung (z. B. ein neues Hüftgelenk) einen festen Geldbetrag – egal, ob der Patient drei oder acht Tage bleibt.
+Das hatte jedoch einen fatalen Nebeneffekt:
+>Mengen-Anreiz: Um profitabel zu sein oder die Kosten zu decken, mussten Kliniken anfangen, wie Wirtschaftsbetriebe zu denken. Geld verdient man in diesem System nur, wenn man viele und möglichst lukrative Operationen durchführt.
+>Die Folge: In Deutschland wird im internationalen Vergleich extrem viel operiert (z. B. bei Bandscheiben, Hüft- und Knieprothesen). Oft besteht der Verdacht, dass eine Operation eher wirtschaftlich als medizinisch notwendig war.
+
+## Der Qualitäts-Mangel: Die "Gelegenheits-Chirurgie"
+
+Weil Deutschland sich den Luxus von so vielen (oft kleinen) Krankenhäusern leistet, passiert genau das: Ein kleines Krankenhaus auf dem Land hat gar nicht die Fallzahlen und die hochspezialisierten Fachärzte, um hochkomplexe Eingriffe (wie z. B. schwierige Krebs-Operationen) routiniert durchzuführen.
+Wenn eine Klinik eine solche Operation aber nur dreimal im Jahr macht, fehlt dem Team die Routine. Studien zeigen immer wieder:
+Die Komplikations- und Sterberaten sind in Kliniken mit geringen Fallzahlen deutlich höher.
+
+---
+
+</div>
 
 
 

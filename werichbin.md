@@ -10,10 +10,12 @@ title: "Wer ich bin"
 ---
 # Wer ich bin
 
-Ich bin Klaus Runge, Baujahr 1958, aufgewachsen in der Nähe von Hannover und seit jeher getrieben von
+Ich bin Klaus Runge, Geboren 1958, aufgewachsen in der Nähe von Hannover und seit jeher getrieben von
 einer einfachen Motivation: **Ich möchte Dinge nicht nur nutzen, sondern verstehen und
 gestalten.**
-
+---
+Ich lebe seit etwa 40 Jahren in Norddeutschland.
+---
 Mein beruflicher und kreativer Weg ist vielseitig. Ich habe in Agenturen gearbeitet, war
 selbstständig und habe über viele Jahre lang als Künstler Gemälde, Objekte
 und Möbel entworfen. Gleichzeitig fasziniert mich die digitale und technische Welt. Seit den frühen 90er
@@ -22,6 +24,7 @@ noch C# als neue Sprache hinzu.
 Ob Logik oder Kunst, Code oder Handwerk: Am Ende geht es mir immer darum, etwas
 Neues, Durchdachtes und Solides zu erschaffen.
 
+
 ---
 
 </div>
@@ -29,7 +32,7 @@ Neues, Durchdachtes und Solides zu erschaffen.
 <div class="column" markdown="1">
 
 ---
-# Grid Zwei
+![Klaus Runge]({{ '/images/me.png' | relative_url }}){: width="100%"}
 ---
     
 </div>

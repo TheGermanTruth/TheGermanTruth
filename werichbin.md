@@ -3,6 +3,14 @@ layout: default
 title: "Wer ich bin"
 ---
 
+<div class="section one-column" markdown="1">
+   
+</div>
+
+<div class="section one-column" markdown="1">
+   
+</div>
+
 <div class="two-columns" markdown="1">
 
 <div class="column" markdown="1">

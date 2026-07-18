@@ -25,19 +25,33 @@ Hier ist die direkte Übersicht der harten Fakten (jeweils normiert auf 1.000 Ei
 
 <div class="column" markdown="1">
 
->## Unser Gesundheitssystem I
-**Deutschland**
+## Die Gesundheits-Systeme
 
-Text hier...
+![BESCHREIBUNG]({{ '/images/tabelle.png' | relative_url }}){: width="100%"}
+
+---
 
 </div>
 
 <div class="column" markdown="1">
 
->## Unser Gesundheitssystem II
-**Die Frage**
+## Die Kosten
 
-Text hier...
+Daten der OECD (Stand 2024/2025)
+
+    • Deutschland: 12,3 %
+    • Frankreich: 11,5 %
+    • Schweiz: 11,4 %
+    • Großbritannien: 11,1 %
+    • Niederlande: 10,1 %
+    • Dänemark: 9,4 %
+    • Spanien: 9,2 %
+    
+(Zum Vergleich: Der offizielle OECD-Durchschnitt liegt bei ca. 9,3 %).
+
+Deutschland führt diese Gruppe deutlich an und gibt relativ gesehen am meisten Geld für sein Gesundheitssystem aus, dicht gefolgt von Frankreich und der Schweiz. Spanien und Dänemark steuern ihre rein steuerfinanzierten Systeme deutlich kosteneffizienter nahe am beziehungsweise leicht unter dem OECD-Schnitt.
+
+---
 
 </div>
 

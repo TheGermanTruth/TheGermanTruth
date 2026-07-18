@@ -40,11 +40,17 @@ Hier ist die direkte Übersicht der harten Fakten (jeweils normiert auf 1.000 Ei
 ### Daten der OECD (Stand 2024/2025)
 
 Deutschland: 12,3 %
+
 Frankreich: 11,5 %
+
 Schweiz: 11,4 %
+
 Großbritannien: 11,1 %
+
 Niederlande: 10,1 %
+
 Dänemark: 9,4 %
+
 Spanien: 9,2 %
     
 (Zum Vergleich: Der offizielle OECD-Durchschnitt liegt bei ca. 9,3 %).

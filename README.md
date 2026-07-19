@@ -3,6 +3,8 @@ layout: default
 title: "Readme"
 ---
 
+* 🌐 [_zurüück zur Startseite](https://dein-blog-link.de)
+
 # Klaus Runge: Das Profil einer unermüdlichen Neugier
 
 <div class="section one-column" markdown="1">
@@ -50,7 +52,7 @@ Der Aufstieg des Rechtspopulismus und die Etablierung der AfD sind symptomatisch
 ### Ein Gesundheitssystem am Limit
 Am Beispiel des Gesundheitssystems zeigt sich für den gelernten Programmierer und Gestalter das größte strukturelle Versagen. Ein System, das der Fürsorge und der Wissenschaft dienen sollte, hat sich in ein bürokratisches, renditegetriebenes Monster verwandelt. Runge blickt hier auf die harten Realitäten: den chronischen Mangel an Empathie und Ressourcen auf der einen Seite, die Ineffizienz und die technologische Rückständigkeit auf der anderen. Auch hier fehlt das, was Runge in all seinen Arbeiten sucht: Ein durchdachtes, solides Fundament, das den Menschen in den Mittelpunkt stellt, statt ihn als Posten in einer Excel-Tabelle zu verwalten.
 
-> „Wenn ein System – ob Code oder das Gesundheitssystem – seine innere Logik verliert, hilft kein Pflaster mehr. Dann müssen wir an die Architektur ran.“
+> „Wenn ein System – egal welches – seine innere Logik verliert, hilft kein Pflaster mehr. Dann müssen wir an die Architektur ran.“
 
 ---
 

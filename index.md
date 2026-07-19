@@ -56,7 +56,10 @@ Etwa 30 Prozent der Einwohner sind mindestens 60 Jahre alt.
 
 </div>
 
+---
+
 <div class="section one-column" markdown="1">
+
 
 
 # Die Ziele der Bundesregierung

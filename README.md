@@ -3,12 +3,12 @@ layout: default
 title: "Readme"
 ---
 
-* 🌐 [_zurüück zur Startseite](https://thegermantruth.github.io/TheGermanTruth/)
+[_zurüück zur Startseite](https://thegermantruth.github.io/TheGermanTruth/)
   
 
-# Klaus Runge: Das Profil einer unermüdlichen Neugier
-
 <div class="section one-column" markdown="1">
+
+# Klaus Runge: Das Profil einer unermüdlichen Neugier
 
 ### Der Leitgedanke: Wer nicht gestaltet, wird gestaltet
 Es gibt Menschen, die nehmen die Welt als gegeben hin. Und es gibt Klaus Runge. Geboren 1958 in der Nähe von Hannover und seit nunmehr vier Jahrzehnten im rauen, ehrlichen Norden Deutschlands zu Hause, folgt sein Leben einem klaren, unumstößlichen Credo: Dinge nicht nur stumpf zu nutzen, sondern sie im Kern zu durchdringen, sie zu sezieren und letztendlich aktiv mitzugestalten. In einer Zeit, in der Oberflächlichkeit oft den Ton angibt, setzt Runge auf das Fundament. Ob in der analogen Werkstatt oder im digitalen Code – der Antrieb bleibt derselbe: Es geht um die unermüdliche Suche nach Wahrheit, Logik und handwerklicher wie intellektueller Substanz.
@@ -21,15 +21,23 @@ Es gibt Menschen, die nehmen die Welt als gegeben hin. Und es gibt Klaus Runge. 
 
 <div class="two-columns" markdown="1">
 
+<div class="column" markdown="1">
+  
 ### Zwischen Leinwand und Werbewelt
 Der berufliche und kreative Weg von Klaus Runge verläuft nicht in geraden Linien, sondern in tiefen, bewussten Zyklen. Über lange Jahre war er eine feste Größe in der Werbebranche. Er lernte die Mechanismen der Massenmedien und der Kommunikation in namhaften Agenturen von der Pike auf kennen, führte später sein eigenes Unternehmen in der Selbstständigkeit und durchschaut bis heute, wie Meinungen gemacht, Emotionen bewirtschaftet und Botschaften strategisch transportiert werden. 
 
 Doch die reine kommerzielle Kommunikation war ihm nie genug. Als freier Künstler suchte und fand er den Ausgleich im greifbaren Handwerk. Über Jahrzehnte hinweg entstanden in seinem Atelier Gemälde, skulpturale Objekte und avantgardistische Möbel. Jedes Stück ein Beweis dafür, dass Kunst nicht nur Dekoration ist, sondern das Ergebnis eines tiefen, oft streitbaren Denkprozesses. Für Runge gibt es keinen Unterschied zwischen der Präzision eines handgefertigten Möbels und der Schärfe eines prägnanten Arguments.
 
+</div>
+
+<div class="column" markdown="1">
+
 ### Die digitale Evolution: Code kennt kein Alter
 Parallel zur analogen Kunst entwickelte Runge eine tiefe Faszination für die technologische Infrastruktur unserer modernen Gesellschaft. Bereits in den frühen 1990er-Jahren – als das Internet für die meisten noch Neuland war – begann er zu programmieren. Während andere die Digitalisierung als Bedrohung sahen, begriff er sie als neues Werkzeug zur Gestaltung. 
 
 Dass Neugier und geistige Beweglichkeit keine Frage des Geburtsdatums sind, bewies er eindrucksvoll im Alter von 60 Jahren: Statt sich auf dem Erreichten auszuruhen, eignete er sich C# als völlig neue, komplexe Programmiersprache an. Diese Symbiose aus Technologie und Ästhetik zieht sich wie ein roter Faden durch sein Leben. Code ist für ihn kein steriles Werkzeug, sondern eine lebendige Sprache, mit der man – genau wie mit Pinsel oder Meißel – durchdachte und absolut solide Strukturen erschaffen kann.
+
+</div>
 
 </div>
 
@@ -57,10 +65,15 @@ Am Beispiel des Gesundheitssystems zeigt sich für den gelernten Programmierer u
 
 ---
 
+---
+
 ### Die Mission dieser Plattform
 Diese Webseiten sind kein kommerzielles Schaufenster und keine digitale Visitenkarte für den Massengeschmack. Sie sind ein rein privates, unabhängiges Refugium. Ihr einziger, kompromissloser Zweck ist das Teilen von Gedanken, Analysen und unbequemen Wahrheiten. Es ist der digitale Marktplatz eines Mannes, der weitermacht, wo andere aufhören – ein Raum für alle, die das Nachdenken noch nicht verlernt haben.
 
 ---
+
+---
+
 *Dokumentiert im Juli 2026*
 
 </div>

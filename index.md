@@ -9,10 +9,29 @@ title: "Die Co2 Lüge"
 
 >83.500.000 Millionen Menschen.
 >
->Sollen die Verantwortun übernehmen für
+>Werden in die Verantwortung genommen für
 >
 >8.300.000.000 Milliarden Menschen. 
 
+In Deutschland leben aktuell rund 83,5 Millionen Menschen. Die Bevölkerungszahl ist damit leicht gesunken, da die Nettozuwanderung das Geburtendefizit nicht mehr vollständig ausgleichen konnte. 
+
+Rund 15 Prozent der Gesamtbevölkerung besitzen keine deutsche Staatsbürgerschaft (ca. 12,4 Millionen).
+
+Etwa 30 Prozent der Einwohner sind mindestens 60 Jahre alt.
+
+###Anteil der Staaten an der Weltbevölkerung (2026)
+
+**Indien:** 17,8 % (ca. 1,48 Milliarden Menschen)
+
+**China:** 17,0 % (ca. 1,41 Milliarden Menschen)
+
+**USA:** 4,2 % (ca. 349 Millionen Menschen)
+
+**Indonesien:** 3,5 % (ca. 288 Millionen Menschen)
+
+**Pakistan:** 3,1 % (ca. 259 Millionen Menschen)
+
+**Restliche Staaten & Regionen:** 54,4 % (die restlichen über 190 Länder der Welt teilen sich etwa 4,5 Milliarden Menschen)
 
 </div>
 

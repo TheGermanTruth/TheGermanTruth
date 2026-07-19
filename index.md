@@ -23,6 +23,9 @@ title: "Die Co2 Lüge"
 Die Bundesregierung verfolgt das gesetzliche Ziel, die Treibhausgasemissionen in
 Deutschland bis 2030 um mindestens 65 % (gegenüber 1990) zu senken und bis 2045
 vollständig treibhausgasneutral zu werden.
+
+### Das ist gut! Aber Treibhausgase halten sich nicht an Ländergrenzen!
+
 Um diese Ziele zu erreichen, greift ein Mix aus gesetzlichen Vorgaben, finanzieller
 Förderung und marktwirtschaftlichen Instrumenten. Erst kürzlich wurde das
 Klimaschutzprogramm 2026 mit 67 Einzelmaßnahmen verabschiedet, um

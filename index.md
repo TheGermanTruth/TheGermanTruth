@@ -13,7 +13,7 @@ title: "Die Co2 Lüge"
 >
 >in die Verantwortung genommen für
 >
->8.300.000.000 Milliarden Menschen.
+>8.300.000.000 Milliarden Menschen?
 
 ---
 
@@ -199,6 +199,51 @@ prozentual einen weitaus größeren Teil ihres Einkommens für die CO2-
 Bepreisung.
 
 </div>
+
+<div class="two-columns" markdown="1">
+
+<div class="column" markdown="1">
+
+## Einkommen in Deutschland
+
+Die einkommensstärksten 10 Prozent der Menschen in Deutschland verfügen über knapp ein Viertel des gesamten verfügbaren Einkommens.
+
+Um die genaue Verteilung sichtbar zu machen, teilt die amtliche Statistik die Bevölkerung in zehn gleich große Gruppen (Dezile) ein – von den ärmsten 10 Prozent bis zu den reichsten 10 Prozent.
+
+## Welcher Anteil am Gesamteinkommen entfällt auf welche Gruppe?
+
+Würde das Geld absolut gleich verteilt sein, müsste jede Zehn-Prozent-Gruppe exakt 10 Prozent des gesamten Volkseinkommens erhalten. In der Realität sieht die Verteilung wie folgt aus:
+
+1. Die obersten 10 % (Das reichste Dezil): Erhalten ca. 23,3 Prozent des gesamten Einkommenskuchens.
+
+2. Die oberen Mitte (Plätze 11 % bis 30 %): Diese zwei Dezile erhalten zusammen ca. 27,2 Prozent.
+
+3. Die breite Mitte (Plätze 31 % bis 60 %): Diese drei Dezile kommen gemeinsam auf ca. 27,8 Prozent.
+
+4. Die untere Mitte (Plätze 61 % bis 80 %): Diese zwei Dezile erhalten zusammen ca. 14,0 Prozent.
+
+5. Die untersten 20 % (Die einkommensschwächsten Gruppen): Erhalten zusammen ca. 7,7 Prozent des Gesamteinkommens. (Das unterste Zehntel allein verfügt lediglich über etwa 3,2 Prozent).
+
+</div>
+
+<div class="column" markdown="1">
+
+## Direktvergleich: Einkommensgrenzen für Singles (Monatsnetto)
+
+
+| Monatliches Nettoeinkommen | Wo steht man damit in Deutschland? (Kumulierter Anteil) |
+| :--- | :--- |
+| **ab 1.310 €** | Sie gehören zu den einkommensstärksten **85 %** (15 % verdienen weniger) |
+| **ab 2.190 €** | Sie haben den exakten **Median (50 %)** erreicht (Die Hälfte verdient mehr, die Hälfte weniger) |
+| **ab 3.285 €** | Sie gehören zu den einkommensstärksten **20 %** (80 % verdienen weniger) |
+| **ab 4.400 €** | Sie gehören zu den einkommensstärksten **10 %** (Beginn der Oberschicht) |
+| **ab 5.780 €** | Sie gehören zu den einkommensstärksten **5 %** der Bevölkerung |
+| **ab 12.760 €** | Sie gehören zu den einkommensstärksten **1 %** (Das reichste Perzentil) |
+
+
+</div>
+
+</div>   
 
 <div class="section one-column" markdown="1">
   

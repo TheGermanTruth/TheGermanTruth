@@ -127,6 +127,40 @@ Weil Deutschland sich den Luxus von so vielen (oft kleinen) Krankenhäusern leis
 Wenn eine Klinik eine solche Operation aber nur dreimal im Jahr macht, fehlt dem Team die Routine. Studien zeigen immer wieder:
 Die Komplikations- und Sterberaten sind in Kliniken mit geringen Fallzahlen deutlich höher.
 
+</div>
+
+<div class="section one-column" markdown="1">
+
+---
+
+# Das Paradoxon: Viel Geld, durchschnittliche Ergebnisse
+
+Obwohl Deutschland das teuerste Gesundheitssystem der EU betreibt, führt das hohe OP-Volumen statistisch nicht zu einer gesünderen Bevölkerung. 
+Die Lebenserwartung in Deutschland liegt trotz der vielen Eingriffe lediglich im europäischen Durchschnitt und ist teilweise sogar niedriger als in Ländern, 
+die deutlich weniger operieren (wie Spanien oder Italien).
+
+# Der europäische Operationsvergleich im Überblick
+
+Die folgende Übersicht verdeutlicht das hohe OP-Volumen in Deutschland im Vergleich zu anderen europäischen Staaten (exemplarisch basierend auf typischen
+Indikatoren der OECD-Daten):
+
+### Die Tabelle zeigt das hohe OP-Volumen und die Infrastruktur in Deutschland im Vergleich zum OECD- bzw. EU-Durchschnitt (Fälle je 100.000 Einwohner):
+
+| Eingriff / Indikator | Deutschland | EU- / OECD-Schnitt | Status Deutschland |
+| :--- | :---: | :---: | :--- |
+| **Künstliche Hüftgelenke** | ~300 | ~175 | **Spitzenreiter in Europa** |
+| **Künstliche Kniegelenke** | ~213 | ~130 | **Platz 1–2 in Europa** |
+| **Herzkatheter-Eingriffe** | Extrem hoch | Niedrig | **Spitzenplatz** |
+| **Krankenhausbetten** (je 1.000 Einw.) | **7,7** | **4,2** | **Massive Überkapazität** |
+| **Gesundheitsausgaben** (% des BIP) | **12,8 %** | **~10,0 %** | **Höchste Ausgaben in der EU** |
+
+*Datenquellen: OECD Health Statistics / Deutsche Gesellschaft für Chirurgie (DGCH)*
+
+
+</div>
+
+<div class="section one-column" markdown="1">
+    
 ---
 
 # Was wird dagegen getan? (Die Krankenhausreform 2026)

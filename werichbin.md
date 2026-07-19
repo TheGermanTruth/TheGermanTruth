@@ -31,11 +31,14 @@ gestalten.**
 ### Ich lebe seit etwa 40 Jahren in Norddeutschland.
 ---
 
-Mein beruflicher und kreativer Weg ist vielseitig. Ich habe in Agenturen gearbeitet, war
-selbstständig und habe über viele Jahre lang als Künstler Gemälde, Objekte
-und Möbel entworfen. Gleichzeitig fasziniert mich die digitale und technische Welt. Seit den frühen 90er
-Jahren programmiere ich, und die Neugier hat mich nie verlassen – so kam im Alter von 60 Jahren
-noch C# als neue Sprache hinzu.
+Mein beruflicher und kreativer Weg ist vielseitig. 
+
+Ich habe in Agenturen gearbeitet, war selbstständig und habe über viele Jahre lang als Künstler Gemälde, Objekte
+und Möbel entworfen. 
+
+Gleichzeitig fasziniert mich die digitale und technische Welt. Seit den frühen 90er Jahren programmiere ich, und die Neugier hat mich nie verlassen – so kam im Alter von 60 Jahren noch C# als neue Sprache hinzu.
+
+
 Ob Logik oder Kunst, Code oder Handwerk: Am Ende geht es mir immer darum, etwas
 Neues, Durchdachtes und Solides zu erschaffen.
 
@@ -58,6 +61,6 @@ Neues, Durchdachtes und Solides zu erschaffen.
 
 <div class="section one-column" markdown="1">
 
-### Diese Webseiten sind rein privat. Sie dienen ausschließlich dem Zweck meine Gedanken zu teilen!
+>Diese Webseiten sind rein privat. Sie dienen ausschließlich dem Zweck meine Gedanken zu teilen!
 
 </div>

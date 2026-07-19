@@ -65,8 +65,6 @@ Neues, Durchdachtes und Solides zu erschaffen.
 
 Diese Webseiten sind rein privat. Sie dienen ausschließlich dem Zweck meine Gedanken zu teilen! Juli 2026.
 
-[_mehr erfahren](https://thegermantruth.github.io/TheGermanTruth/README)
-
 </div>
 
 </div>

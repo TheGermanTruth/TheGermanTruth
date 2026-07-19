@@ -3,7 +3,8 @@ layout: default
 title: "Readme"
 ---
 
-* 🌐 [_zurüück zur Startseite](https://dein-blog-link.de)
+* 🌐 [_zurüück zur Startseite](https://thegermantruth.github.io/TheGermanTruth/)
+  
 
 # Klaus Runge: Das Profil einer unermüdlichen Neugier
 

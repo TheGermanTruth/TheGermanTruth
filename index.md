@@ -39,6 +39,20 @@ Etwa 30 Prozent der Einwohner sind mindestens 60 Jahre alt.
 
 **Restliche Staaten & Regionen:** 54,4 % (die restlichen über 190 Länder der Welt teilen sich etwa 4,5 Milliarden Menschen)
 
+---
+
+### Hier zeigt sich deutlich, dass Indien und China zusammen einen großen Teil der Weltbevölkerung ausmachen, während die anderen Länder kleinere, aber signifikante Anteile beitragen.
+
+Staat |	Geschätzte Bevölkerung (Mrd.) |	Anteil an Weltbevölkerung
+Indien |	1,465 |	17,7 %
+China |	1,410 |	17,0 %
+USA |	0,345 |	4,2 %
+Indonesien |	0,285 |	3,4 %
+Pakistan |	0,255 |	3,1 %
+Deutschland |	0,084 |	1,0 %
+Rest der Welt |	4,456 |	53,7 %
+
+
 </div>
 
 <div class="section one-column" markdown="1">

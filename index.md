@@ -7,7 +7,7 @@ title: "Die Co2 Lüge"
 
 # Kann 1% der Weltbevölkerung das Klima retten? 
 
-![Ein Prozent]({{ '/assets/1Prozent.png' | relative_url }}){: width="50%"}
+![Ein Prozent]({{ '/images/1Prozent.png' | relative_url }}){: width="50%"}
 
 >Werden
 >

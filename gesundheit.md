@@ -181,9 +181,11 @@ Man kann sagen: Es hat sich in eine Sackgasse manövriert. Das deutsche System w
 
 Der Umbau hin zu einem System wie in Dänemark (wenige, hochspezialisierte Zentren) hat begonnen – aber der Widerstand vor Ort, wo Menschen um "ihr" kleines Krankenhaus bangen, bleibt riesig.
 
-## Mein Fazit: Die Reform kommt viel zu Spät. Sie ist nicht ausreichend Konsequent und es werden sich noch Stolpersteine zeigen, an die Heute noch Niemand denkt.
+---
 
-# Es muss der Mensch und seine Gesundheit wieder in den Vordergrund! Nicht die Frage was das kostet.
+### Mein Fazit: Die Reform kommt viel zu Spät. Sie ist nicht ausreichend Konsequent und es werden sich noch Stolpersteine zeigen, an die Heute noch Niemand denkt.
+
+### Es muss der Mensch und seine Gesundheit wieder in den Vordergrund! Nicht die Frage was das kostet.
 
 ---
 

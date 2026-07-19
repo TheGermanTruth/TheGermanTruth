@@ -5,7 +5,7 @@ title: "Die Co2 Lüge"
 
 <div class="section one-column" markdown="1">
 
-# Kann 1% der Weltbevölkerung das Klima retten?![1 Prozent]({{ '/assets/1Prozent.png' | relative_url }}){: width="100%"}
+# Kann 1% der Weltbevölkerung das Klima retten? <img src="1Prozent.png" height="50" alt="1 Prozent">
 
 >Werden
 >

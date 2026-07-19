@@ -61,6 +61,6 @@ Neues, Durchdachtes und Solides zu erschaffen.
 
 <div class="section one-column" markdown="1">
 
->Diese Webseiten sind rein privat. Sie dienen ausschließlich dem Zweck meine Gedanken zu teilen!
+<center>*Diese Webseiten sind rein privat. Sie dienen ausschließlich dem Zweck meine Gedanken zu teilen! Juli 2026.*</center>
 
 </div>

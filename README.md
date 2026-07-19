@@ -3,7 +3,7 @@ layout: default
 title: "Readme"
 ---
 
-[_zurüück zur Startseite](https://thegermantruth.github.io/TheGermanTruth/)
+[_zurück zur Startseite](https://thegermantruth.github.io/TheGermanTruth/)
   
 
 <div class="section one-column" markdown="1">

@@ -3,8 +3,6 @@
 # 🌐 The German Truth
 ### Meine Wahrheit – oder warum wir die Welt nicht retten können.
 
-[![GitHub Pages](https://shields.io)](https://github.io)
-[![E-Mail](https://shields.io)](mailto:runge.post@outlook.de)
 
 ---
 
@@ -13,7 +11,7 @@
 Schön, dass Du hierher gefunden hast. Auf diesem Profil und der dazugehörigen Webseite 
 setze ich mich kritisch mit den Fragen unserer Zeit auseinander. 
 
-👉 **[Direkt zur Webseite wechseln und mehr erfahren](https://github.io)** 👈
+👉 **[Direkt zur Webseite wechseln und mehr erfahren](https://thegermantruth.github.io/TheGermanTruth/)** 👈
 
 ---
 </div>
@@ -26,7 +24,7 @@ setze ich mich kritisch mit den Fragen unserer Zeit auseinander.
 * **Inhalte:** Essays, Gesellschaftskritik, Denkanstöße
 
 ## 📬 Kontakt & Austausch
-Wenn Sie Fragen zu den Texten haben, Kritik äußern möchten oder den Austausch suchen, können Sie mich jederzeit direkt per E-Mail erreichen:
+Wenn Du Fragen zu den Texten hast, Kritik äußern möchtest oder den Austausch suchst, kannst Du mich jederzeit direkt per E-Mail erreichen:
 
 📧 **runge.post@outlook.de**
 

@@ -5,7 +5,9 @@ title: "Die Co2 Lüge"
 
 <div class="section one-column" markdown="1">
 
-# Kann 1% der Weltbevölkerung das Klima retten? <img src="1Prozent.png" height="50" alt="1 Prozent">
+# Kann 1% der Weltbevölkerung das Klima retten? 
+
+<img src="1Prozent.png" height="50" alt="1 Prozent">
 
 >Werden
 >

@@ -200,6 +200,8 @@ Bepreisung.
 
 </div>
 
+---
+
 <div class="two-columns" markdown="1">
 
 <div class="column" markdown="1">
@@ -243,7 +245,39 @@ Würde das Geld absolut gleich verteilt sein, müsste jede Zehn-Prozent-Gruppe e
 
 </div>
 
-</div>   
+</div>  
+
+<div class="section one-column" markdown="1">
+
+# In Deutschland leben aktuell 16,1 Prozent der Bevölkerung unter der amtlichen Armutsgefährdungsgrenze.
+
+Das entspricht rund 13,3 Millionen Menschen. 
+ 
+Erweitert man den Blick auf Menschen, die knapp an der Grenze leben oder von sozialer Ausgrenzung bedroht sind,
+ 
+steigt der Anteil sogar auf 21,2 Prozent (ca. **17,6 Millionen Betroffene**).
+
+## Die zwei offiziellen Messgrößen
+
+1. **Reine Einkommensarmut (16,1 %):** Diese Menschen haben weniger als 60 % des mittleren Einkommens (Median) zur Verfügung. Für einen Single liegt diese
+Armutsgrenze aktuell bei 1.445 Euro netto im Monat. Für eine Familie mit zwei Kindern unter 14 Jahren liegt sie bei rund 3.035 Euro.
+
+2. **Armut oder soziale Ausgrenzung (21,2 %):** Diese EU-weit einheitliche Kennzahl (sogenannte AROPE-Quote) umfasst alle Personen, die entweder einkommensarm
+sind,unter erheblicher materieller/sozialer Entbehrung leiden oder in einem Haushalt mit sehr geringer Erwerbsbeteiligung leben.
+
+## Besonders betroffene Risikogruppen
+
+Die Armut ist in Deutschland extrem ungleich verteilt. Bestimmte Gruppen tragen ein überproportional hohes Risiko, unter die Grenze von 1.445 Euro zu rutschen:
+
+1. **Erwerbslose:** Mit 64,9 Prozent sind fast zwei Drittel aller Arbeitslosen von Einkommensarmut betroffen.
+2. **Alleinlebende:** Hier liegt die Quote bei 30,9 Prozent.
+3. **Alleinerziehende:** Haushalte von Alleinerziehenden sind zu 28,7 Prozent von Armut betroffen.
+4. **Junge Erwachsene:** In der Altersgruppe der 18- bis 24-Jährigen lebt fast jede vierte Person (ca. 24 %) unter der Schwelle.
+5. **Rentner:** Unter den Personen im Ruhestand liegt die Quote bei 19,1 Prozent
+
+</div>
+
+---
 
 <div class="section one-column" markdown="1">
   

@@ -7,7 +7,10 @@ title: "Die Co2 Lüge"
 
 # Kann 1% der Weltbevölkerung das Klima retten?
 
->83.500.000 Millionen Menschen. Sollen die Verantwortun übernehmen für
+>83.500.000 Millionen Menschen.
+>
+>Sollen die Verantwortun übernehmen für
+>
 >8.300.000.000 Milliarden Menschen. 
 
 

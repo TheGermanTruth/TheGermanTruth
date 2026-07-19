@@ -5,6 +5,16 @@ title: "Die Co2 Lüge"
 
 <div class="section one-column" markdown="1">
 
+# Kann 1% der Weltbevölkerung das Klima retten?
+
+>83.500.000 Millionen Menschen. Sollen die Verantwortun übernehmen für
+>8.300.000.000 Milliarden Menschen. 
+
+
+</div>
+
+<div class="section one-column" markdown="1">
+
 
 # Die Ziele der Bundesregierung
 Die Bundesregierung verfolgt das gesetzliche Ziel, die Treibhausgasemissionen in

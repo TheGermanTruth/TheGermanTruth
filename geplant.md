@@ -6,7 +6,7 @@ title: "In Planung"
 <div class="section one-column" markdown="1">
 
 ---
-# Bolck Eins
+# Wann entwickelt eine KI / AI ein Bewustsein?
 ---
     
 </div>
@@ -16,7 +16,7 @@ title: "In Planung"
 <div class="column" markdown="1">
 
 ---
-# Grid Eins
+
 ---
 
 </div>
@@ -24,7 +24,7 @@ title: "In Planung"
 <div class="column" markdown="1">
 
 ---
-# Grid Zwei
+
 ---
     
 </div>
@@ -34,7 +34,7 @@ title: "In Planung"
 <div class="section one-column" markdown="1">
 
 ---
-# Bolck Zwei
+
 ---
     
 </div>

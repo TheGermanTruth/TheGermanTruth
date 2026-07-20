@@ -3,14 +3,33 @@ layout: default
 title: "Gesundheitssystem"
 ---
 
-<div class="section one-column" markdown="1">
-    
+---
+
+<div class="two-columns" markdown="1">
+
+<div class="column" markdown="1">
+
+<br>&nbsp;
+
 # Das deutsche Gesundheitssystem ist krank!
 
-Unser Gesunheitssystem ist über 140 Jahre alt. 
-Das deutsche System ist so teuer und ineffizient, weil es historisch darauf ausgelegt ist, es allen recht zu machen – den Bundesländern, den Ärzten, den Kliniken und den Patienten. Wer dieses Spinnennetz an Interessen zerschlagen will, verbrennt sich politisch fast unweigerlich die Finger.
-Wenn ein System über 140 Jahre so tief in den Institutionen, Gesetzen und den Köpfen der Menschen verankert ist, ist der Ausstieg unbezahlbar und politisch extrem riskant.
-Die Politik hat schlicht Angst vor dem Wähler. Jede echte Strukturreform bedeutet im ersten Schritt immer schmerzhafte Veränderungen. Wenn Krankenhäuser spezialisiert oder zusammengelegt werden sollen, protestiert die Bevölkerung vor Ort, weil das nächste Krankenhaus dann weiter weg ist. Wenn Kosten gesenkt werden müssen, drohen Zuzahlungen oder Beitragserhöhungen.
+Unser Gesunheitssystem ist über 140 Jahre alt. Das deutsche System ist so teuer und ineffizient, weil es historisch darauf ausgelegt ist, es allen recht zu machen – den Bundesländern, den Ärzten, den Kliniken und den Patienten. Wer dieses Spinnennetz an Interessen zerschlagen will, verbrennt sich politisch fast unweigerlich die Finger. Wenn ein System über 140 Jahre so tief in den Institutionen, Gesetzen und den Köpfen der Menschen verankert ist, ist der Ausstieg unbezahlbar und politisch extrem riskant. Die Politik hat schlicht Angst vor dem Wähler. Jede echte Strukturreform bedeutet im ersten Schritt immer schmerzhafte Veränderungen. Wenn Krankenhäuser spezialisiert oder zusammengelegt werden sollen, protestiert die Bevölkerung vor Ort, weil das nächste Krankenhaus dann weiter weg ist. Wenn Kosten gesenkt werden müssen, drohen Zuzahlungen oder Beitragserhöhungen.
+
+</div>
+
+<div class="column" markdown="1">
+  
+![Ein Prozent]({{ '/images/1Prozent.png' | relative_url }}){: width="100%"}
+
+</div>
+
+</div>
+
+---
+
+<div class="section one-column" markdown="1">
+    
+---
 
 # VERGLEICH EINIGER LÄNDER
 

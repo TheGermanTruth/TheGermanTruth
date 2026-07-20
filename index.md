@@ -3,21 +3,32 @@ layout: default
 title: "Die Co2 Lüge"
 ---
 
-<div class="section one-column" markdown="1">
+<div class="two-columns" markdown="1">
 
-# Kann 1% der Weltbevölkerung das Klima retten? 
+<div class="column" markdown="1">
 
-![Ein Prozent]({{ '/images/1Prozent.png' | relative_url }}){: width="50%"}
+## Kann 1% der Weltbevölkerung das Klima retten? 
 
->Werden
->
->83.500.000 Millionen Menschen.
->
->in die Verantwortung genommen für
->
->8.300.000.000 Milliarden Menschen?
+### Können
 
+### 83.500.000 Millionen Menschen.
+
+### die Verantwortung übernehmen für
+
+### 8.300.000.000 Milliarden Menschen?
+
+</div>
+
+<div class="column" markdown="1">
+  
+![Ein Prozent]({{ '/images/1Prozent.png' | relative_url }}){: width="100%"}
+
+</div>
+
+</div>
 ---
+
+<div class="section one-column" markdown="1">
 
 ### In Deutschland leben aktuell rund 83,5 Millionen Menschen. 
 

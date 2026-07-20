@@ -3,9 +3,15 @@ layout: default
 title: "Die Co2 Lüge"
 ---
 
+---
+
 <div class="two-columns" markdown="1">
 
 <div class="column" markdown="1">
+
+<br>&nbsp;
+<br>&nbsp;
+<br>&nbsp;
 
 ## Kann 1% der Weltbevölkerung das Klima retten? 
 

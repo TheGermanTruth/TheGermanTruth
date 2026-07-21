@@ -41,18 +41,35 @@ Hier wird noch gearbeitet!
 ---
 ## Sind diese Ängste berechtigt?
 
-1. Arbeitsplatzverlust : Ja, aber es entstehen auch neue Arbeitsplätze.
-2. Kontrollverlust : Ja, wenn wir uns fragen wer KI kontrolliert.
-3. Deepfakes : Ja, sehr berechtigte Angst! Hier muss besserer Schutz her!
-4. Desinformation : Ja, auch hier muss eine bessere Kontrolle her!
-5. Datenschutzverletzung : Ja, das ist zu befürchten.
-6. Fremdbestimmung : Ja, nicht wir Alle haben die Kontrolle, sondern wenige!
-7. Diskriminierung (Bias) : Ja, die KI kann menschliche Vorurteile widerspiegeln.
+1. Arbeitsplatzverlust : **Ja, aber es entstehen auch neue Arbeitsplätze.**
+2. Kontrollverlust : **Ja, wenn wir uns fragen wer KI kontrolliert.**
+3. Deepfakes : **Ja, sehr berechtigte Angst! Hier muss besserer Schutz her!**
+4. Desinformation : **Ja, auch hier muss eine bessere Kontrolle her!**
+5. Datenschutzverletzung : **Ja, das ist zu befürchten.**
+6. Fremdbestimmung : **Ja, nicht wir Alle haben die Kontrolle, sondern wenige!**
+7. Diskriminierung (Bias) : **Ja, die KI kann menschliche Vorurteile widerspiegeln.**
 
 ---
     
 </div>
 
+</div>
+
+<div class="section one-column" markdown="1">
+
+---
+## Meinung
+
+**AI / KI ist ein sehr mächtiges Werkzeug! Vermutlich die wichtigste Entwicklung in diesem Jahrhundert.**
+
+## Und wenn ich mir anschaue was künstliche Inteligenz Heute schon kann, ist die Generation KI in 10 Jahren die gefährlichste Waffe auf diesem Planeten!
+
+Die Kontrolle dieses Werkzeugs darf nicht nur von wenigen, immer wirtschaftlich und / oder ideologisch orientierten, Einzelunternehmen ausgehen!
+Die Kontrolle muss ein globales Kontrollorgan übernehmen. Keine Politiker, sondern Wissenschaftler, Philosophen, Künstler und andere Vertreter der Gesellschaft!
+Und die (besser Reglementierte) Nutzung muss für alle Menschen frei zugänglich sein! 
+
+---
+    
 </div>
 
 <div class="section one-column" markdown="1">

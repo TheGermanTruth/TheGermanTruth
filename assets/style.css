@@ -10,10 +10,10 @@ body {
 /* ===== Menü ===== */
 nav {
   background-color: #2c3e50; /* Dunkles Blau-Grau */
-  padding: 102px;
+  padding: 20px;
   text-align: center;
   position: sticky;
-  top: 10;
+  top: 0;
   z-index: 1000;
 }
 

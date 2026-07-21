@@ -58,11 +58,13 @@ title: "In Planung"
 ---
 ### Wie definiert man Bewusstsein?
 
-Bewusstsein ist eines der schwierigsten Konzepte in Philosophie, Psychologie und Neurowissenschaft. Es gibt keine allgemein akzeptierte Definition, aber die 
-
+Bewusstsein ist eines der schwierigsten Konzepte in Philosophie, Psychologie und Neurowissenschaft. Es gibt keine allgemein akzeptierte Definition, aber die
 meisten Definitionen kreisen um die Fähigkeit, **Erlebnisse zu haben und sich seiner selbst oder seiner Umgebung bewusst zu sein**.
 
-Bewusstsein ist das subjektive Erleben der Welt und des eigenen Daseins.
+---
+
+### Bewusstsein ist das subjektive Erleben der Welt und des eigenen Daseins.
+
 ---
     
 </div>

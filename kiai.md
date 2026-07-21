@@ -20,7 +20,16 @@ title: "In Planung"
 <div class="column" markdown="1">
 
 ---
-1
+## Diese Ängste kann man klar formulieren!
+
+1. Arbeitsplatzverlust
+2. Kontrollverlust
+3. Deepfakes
+4. Desinformation
+5. Datenschutzverletzung
+6. Fremdbestimmung
+7. Diskriminierung (Bias)
+
 ---
 
 </div>
@@ -28,7 +37,10 @@ title: "In Planung"
 <div class="column" markdown="1">
 
 ---
-2
+## Sind diese Ängste berechtigt?
+
+
+
 ---
     
 </div>

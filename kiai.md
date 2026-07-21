@@ -41,7 +41,13 @@ Hier wird noch gearbeitet!
 ---
 ## Sind diese Ängste berechtigt?
 
-
+1. Arbeitsplatzverlust : Ja, aber es entstehen auch neue Arbeitsplätze.
+2. Kontrollverlust : Ja, wenn wir uns fragen wer KI kontrolliert.
+3. Deepfakes : Ja, sehr berechtigte Angst! Hier muss besserer Schutz her!
+4. Desinformation : Ja, auch hier muss eine bessere Kontrolle her!
+5. Datenschutzverletzung : Ja, das ist zu befürchten.
+6. Fremdbestimmung : Ja, nicht wir Alle haben die Kontrolle, sondern wenige!
+7. Diskriminierung (Bias) : Ja, die KI kann menschliche Vorurteile widerspiegeln.
 
 ---
     

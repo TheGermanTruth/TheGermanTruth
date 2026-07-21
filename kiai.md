@@ -9,7 +9,7 @@ title: "In Planung"
 # Die Angst vor künstlicher Inteligenz.
 ---
 
-![Geselschaft 2063]({{ '/images/mischung.png' | relative_url }}){: width="100%"}
+![Gesellschaft 2063]({{ '/images/mischung.png' | relative_url }}){: width="100%"}
     
 </div>
 

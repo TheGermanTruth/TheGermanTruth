@@ -3,6 +3,26 @@ layout: default
 title: "In Planung"
 ---
 
+<div class="two-columns" markdown="1">
+
+<div class="column" markdown="1">
+
+---
+1
+---
+
+</div>
+    
+<div class="column" markdown="1">
+
+---
+2
+---
+    
+</div>
+
+</div>
+
 <div class="section one-column" markdown="1">
 
 ---

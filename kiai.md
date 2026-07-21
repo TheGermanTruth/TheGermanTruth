@@ -9,7 +9,7 @@ title: "In Planung"
 # Die Angst vor künstlicher Inteligenz.
 ---
 
-![Gesellschaft 2063]({{ '/images/mischung.png' | relative_url }}){: width="100%"}
+![Gesellschaft 2063]({{ '/images/mischung.jpg' | relative_url }}){: width="100%"}
     
 </div>
 
@@ -48,7 +48,7 @@ title: "In Planung"
 <div class="column" markdown="1">
 
 ---
-![Altag 2063]({{ '/images/handlung.png' | relative_url }}){: width="100%"}
+![Altag 2063]({{ '/images/handlung.jpg' | relative_url }}){: width="100%"}
 ---
 
 </div>

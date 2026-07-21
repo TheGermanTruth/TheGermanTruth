@@ -62,9 +62,9 @@ Hier wird noch gearbeitet!
 
 **AI / KI ist ein sehr mächtiges Werkzeug! Vermutlich die wichtigste Entwicklung in diesem Jahrhundert.**
 
-### Wenn ich mir anschaue was künstliche Inteligenz Heute schon kann, ist die kommende KI Generation in 10 Jahren die gefährlichste Waffe auf diesem Planeten!
+**Wenn ich mir anschaue was künstliche Inteligenz Heute schon kann, ist die kommende KI Generation in 10 Jahren die gefährlichste Waffe auf diesem Planeten!**
 
-Die Kontrolle dieses Werkzeugs darf nicht nur von wenigen, immer wirtschaftlich und / oder ideologisch orientierten, Einzelunternehmen ausgehen!
+Die Kontrolle dieses Werkzeugs darf nicht nur von wenigen, immer wirtschaftlich und / oder ideologisch orientierten Einzelunternehmen ausgehen!
 Die Kontrolle muss ein globales Kontrollorgan übernehmen. Keine Politiker, sondern Wissenschaftler, Philosophen, Künstler und andere Vertreter der Gesellschaft!
 Und die (besser Reglementierte) Nutzung muss für alle Menschen frei zugänglich sein! 
 

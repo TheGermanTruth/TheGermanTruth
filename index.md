@@ -9,6 +9,8 @@ title: "Die Co2 Lüge"
 
 <div class="column" markdown="1">
 
+---
+
 <br>&nbsp;
 <br>&nbsp;
 <br>&nbsp;
@@ -26,6 +28,8 @@ title: "Die Co2 Lüge"
 </div>
 
 <div class="column" markdown="1">
+
+---
   
 ![Ein Prozent]({{ '/images/1Prozent.png' | relative_url }}){: width="100%"}
 
@@ -66,7 +70,7 @@ Etwa 30 Prozent der Einwohner sind mindestens 60 Jahre alt.
 ### Hier zeigt sich deutlich, dass Indien und China zusammen einen großen Teil der Weltbevölkerung ausmachen, während die anderen Länder kleinere, aber signifikante Anteile beitragen.
 
 | Staat | Geschätzte Bevölkerung (Mrd.) | Anteil an Weltbevölkerung |
-| :--- | :--- | :--- |
+| :--- | :---: | :---: |
 | **Indien** | 1,465 | 17,7 % |
 | **China** | 1,410 | 17,0 % |
 | **USA** | 0,345 | 4,2 % |
@@ -89,7 +93,7 @@ Die Bundesregierung verfolgt das gesetzliche Ziel, die Treibhausgasemissionen in
 Deutschland bis 2030 um mindestens 65 % (gegenüber 1990) zu senken und bis 2045
 vollständig treibhausgasneutral zu werden.
 
-### Das ist gut! Aber Treibhausgase halten sich nicht an Ländergrenzen!
+### Das ist gut! Aber Treibhausgase halten sich leider nicht an Ländergrenzen!
 
 Um diese Ziele zu erreichen, greift ein Mix aus gesetzlichen Vorgaben, finanzieller
 Förderung und marktwirtschaftlichen Instrumenten. Erst kürzlich wurde das
@@ -181,7 +185,9 @@ Heute weitgehend verboten, aber historisch sehr problematisch. Sie wirken als st
 ### N₂O (Lachgas)	Sehr langlebig und stark klimawirksam
 ### F-Gase	Extrem starke Treibhauswirkung trotz geringer Mengen
 ### FCKW	Schädigen Klima und Ozonschicht zugleich
+
 ---
+
 ### CO₂ verursacht den größten Teil der Erwärmung, 
 
 ### Methan beschleunigt sie besonders stark, 
@@ -189,6 +195,7 @@ Heute weitgehend verboten, aber historisch sehr problematisch. Sie wirken als st
 ### Lachgas wirkt lange nach, 
 
 ### und F-Gase zählen zu den stärksten bekannten Treibhausgasen.
+
 ---
 
 </div>
@@ -236,15 +243,16 @@ Um die genaue Verteilung sichtbar zu machen, teilt die amtliche Statistik die Be
 
 Würde das Geld absolut gleich verteilt sein, müsste jede Zehn-Prozent-Gruppe exakt 10 Prozent des gesamten Volkseinkommens erhalten. In der Realität sieht die Verteilung wie folgt aus:
 
-1. Die obersten 10 % (Das reichste Dezil): Erhalten ca. 23,3 Prozent des gesamten Einkommenskuchens.
+### 1. Die obersten 10 % (Das reichste Dezil): Erhalten ca. 23,3 Prozent des gesamten Einkommenskuchens.
 
-2. Die oberen Mitte (Plätze 11 % bis 30 %): Diese zwei Dezile erhalten zusammen ca. 27,2 Prozent.
+### 2. Die oberen Mitte (Plätze 11 % bis 30 %): Diese zwei Dezile erhalten zusammen ca. 27,2 Prozent.
 
-3. Die breite Mitte (Plätze 31 % bis 60 %): Diese drei Dezile kommen gemeinsam auf ca. 27,8 Prozent.
+### 3. Die breite Mitte (Plätze 31 % bis 60 %): Diese drei Dezile kommen gemeinsam auf ca. 27,8 Prozent.
 
-4. Die untere Mitte (Plätze 61 % bis 80 %): Diese zwei Dezile erhalten zusammen ca. 14,0 Prozent.
+### 4. Die untere Mitte (Plätze 61 % bis 80 %): Diese zwei Dezile erhalten zusammen ca. 14,0 Prozent.
 
-5. Die untersten 20 % (Die einkommensschwächsten Gruppen): Erhalten zusammen ca. 7,7 Prozent des Gesamteinkommens. (Das unterste Zehntel allein verfügt lediglich über etwa 3,2 Prozent).
+### 5. Die untersten 20 % (Die einkommensschwächsten Gruppen): Erhalten zusammen ca. 7,7 Prozent des Gesamteinkommens. (Das unterste Zehntel allein verfügt
+lediglich über etwa 3,2 Prozent).
 
 </div>
 
@@ -268,6 +276,8 @@ Würde das Geld absolut gleich verteilt sein, müsste jede Zehn-Prozent-Gruppe e
 </div>  
 
 <div class="section one-column" markdown="1">
+
+---
 
 # In Deutschland leben aktuell 16,1 Prozent der Bevölkerung unter der amtlichen Armutsgefährdungsgrenze.
 
@@ -317,10 +327,13 @@ weiten Teilen der Bevölkerung kollabiert ist.
 
 <div class="section one-column" markdown="1">
 
-**Wenn Klimaschutz als elitäres Projekt wahrgenommen wird, das die Wirtschaft ankurbeln soll, während ältere
-Menschen und Geringverdiener die Zeche zahlen, verliert der Staat den
-gesellschaftlichen Rückhalt.**
+---
+---
 
+**Wenn Klimaschutz als elitäres Projekt wahrgenommen wird, das eher die Wirtschaft ankurbeln soll und kaum Einfluss auf das Klima hat, während ältere
+Menschen und Geringverdiener die Zeche zahlen, verliert der Staat den gesellschaftlichen Rückhalt.**
+
+---
 ---
 
 </div>

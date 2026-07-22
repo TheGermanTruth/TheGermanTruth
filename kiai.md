@@ -3,8 +3,6 @@ layout: default
 title: "Künstliche Inteligenz"
 ---
 
-Hier wird noch gearbeitet!
-
 <div class="section one-column" markdown="1">
 
 ---

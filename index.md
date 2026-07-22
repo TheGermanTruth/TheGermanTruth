@@ -3,6 +3,26 @@ layout: default
 title: "Die Co2 Lüge"
 ---
 
+<div class="section one-column" markdown="1">
+
+---
+
+# Klimawandel und Klimakrise
+
+**Die Wesentliche Erkenntnisse!**
+Natürlicher Abkühlungstrend: Von der Römerzeit bis zum Ende des 19. Jahrhunderts kühlte sich Europa langsam (um ca. 0,1 bis 0,3 °C pro Jahrtausend) ab,
+hauptsächlich bedingt durch geringfügige Änderungen der Erdbahnelemente und vulkanische Aktivität.
+
+Kleine Eiszeit als prägendste Kältephase: Zwischen ca. 1300 und 1850 erlebte Europa die kältesten Jahrhunderte der jüngeren Erdgeschichte mit dramatischen
+gesellschaftlichen Folgen (Missernten, Hungersnöte).
+
+Ausmaß der Gegenwart: Die Erwärmung der letzten Jahrzehnte hat nicht nur das Niveau der Mittelalterlichen Wärmeperiode und der Römischen Wärmeperiode
+übertroffen, sondern verläuft um ein Vielfaches schneller als alle natürlichen Schwankungen der vergangenen zwei Jahrtausende.
+
+---
+    
+</div>
+
 ---
 
 <div class="two-columns" markdown="1">

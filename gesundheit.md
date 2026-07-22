@@ -22,8 +22,6 @@ Kosten gesenkt werden müssen, drohen Zuzahlungen oder Beitragserhöhungen.
 <br>&nbsp;
 <br>&nbsp;
 
----
-
 </div>
 
 <div class="column" markdown="1">
@@ -31,8 +29,6 @@ Kosten gesenkt werden müssen, drohen Zuzahlungen oder Beitragserhöhungen.
 # Ist Gesundheit eine Frage Deiner Geldbörse?
   
 ![Gesundheits Geld]({{ '/images/unbezahlbar.png' | relative_url }}){: width="100%"}
-
----
 
 </div>
 

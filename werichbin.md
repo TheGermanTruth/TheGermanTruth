@@ -53,7 +53,7 @@ Heute bin ich Rentner. Ich arbeite, in Teilzeit, bei einem internationalen Pharm
 
 ---
 
-![Klaus Runge]({{ '/images/me.jpg' | relative_url }}){: width="100%"}
+![Klaus Runge]({{ '/images/Klaus_Runge.jpg' | relative_url }}){: width="100%"}
     
 </div>
 

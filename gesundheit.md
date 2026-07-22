@@ -3,6 +3,18 @@ layout: default
 title: "Gesundheitssystem"
 ---
 
+<div class="section one-column" markdown="1">
+
+---
+# Sozialstaat? Sozialabgaben? Krankenversicherung? Zwangsabgaben?
+---
+In der Rechtswissenschaft und Volkswirtschaftslehre fallen unter den Begriff "Zwangsabgaben" neben Beiträgen auch Steuern und Sozialabgaben, die der Staat
+seinen Bürgern gesetzlich auferlegt.
+
+---
+    
+</div>
+
 ---
 
 <div class="two-columns" markdown="1">

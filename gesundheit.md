@@ -8,8 +8,8 @@ title: "Gesundheitssystem"
 ---
 # Sozialstaat? Sozialabgaben? Krankenversicherung? Zwangsabgaben?
 ---
-In der Rechtswissenschaft und Volkswirtschaftslehre fallen unter den Begriff "Zwangsabgaben" neben Beiträgen auch Steuern und Sozialabgaben, die der Staat
-seinen Bürgern gesetzlich auferlegt.
+**In der Rechtswissenschaft und Volkswirtschaftslehre fallen unter den Begriff "Zwangsabgaben" neben Beiträgen auch Steuern und Sozialabgaben, die der Staat
+seinen Bürgern gesetzlich auferlegt.**
 
 ---
     

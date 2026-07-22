@@ -51,7 +51,7 @@ Neues, Durchdachtes und Solides zu erschaffen.
 
 ---
 
-![Klaus Runge]({{ '/images/me.png' | relative_url }}){: width="100%"}
+![Klaus Runge]({{ '/images/me.jpg' | relative_url }}){: width="100%"}
     
 </div>
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "In Planung"
+title: "Künstliche Inteligenz"
 ---
 
 Hier wird noch gearbeitet!
@@ -440,7 +440,9 @@ intelligenter unsere Werkzeuge werden, desto wichtiger wird die Frage, wie wir s
 <div class="column" markdown="1">
 
 ---
+
 ![Altag 2063]({{ '/images/handlung.jpg' | relative_url }}){: width="100%"}
+
 ---
 
 </div>
@@ -448,6 +450,7 @@ intelligenter unsere Werkzeuge werden, desto wichtiger wird die Frage, wie wir s
 <div class="column" markdown="1">
 
 ---
+
 ### Wie definiert man Bewusstsein?
 
 Bewusstsein ist eines der schwierigsten Konzepte in Philosophie, Psychologie und Neurowissenschaft. Es gibt keine allgemein akzeptierte Definition, aber die
@@ -464,7 +467,7 @@ Bewusstsein ist die Fähigkeit eines Wesens, subjektive Erfahrungen zu machen, s
 
 ---
 
-Trotz jahrzehntelanger Forschung bleibt offen, wie genau Bewusstsein entsteht und ob es vollständig durch physikalische Prozesse im Gehirn erklärt werden kann.
+**Trotz jahrzehntelanger Forschung bleibt offen, wie genau Bewusstsein entsteht und ob es vollständig durch physikalische Prozesse im Gehirn erklärt werden kann.**
 
 ---
     
@@ -475,7 +478,8 @@ Trotz jahrzehntelanger Forschung bleibt offen, wie genau Bewusstsein entsteht un
 <div class="section one-column" markdown="1">
 
 ---
-3
+## Sollten wir Angst vor künstlicher Inteligenz haben? **Nein!** Aber wir sollten Angst haben vor Menschen die KI missbrauchen und vor allem vor den Menschen die KI kontrollieren! Es zeigt sich also was sich **immer** zeigt: Nicht eine Technologie macht Angst, sondern **immer** der Mensch dahinter!
+
 ---
     
 </div>

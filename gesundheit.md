@@ -19,6 +19,8 @@ die Finger. Wenn ein System über 140 Jahre so tief in den Institutionen, Gesetz
 politisch extrem riskant. Die Politik hat schlicht Angst vor dem Wähler. Jede echte Strukturreform bedeutet im ersten Schritt immer schmerzhafte Veränderungen.
 Wenn Krankenhäuser spezialisiert oder zusammengelegt werden sollen, protestiert die Bevölkerung vor Ort, weil das nächste Krankenhaus dann weiter weg ist. Wenn
 Kosten gesenkt werden müssen, drohen Zuzahlungen oder Beitragserhöhungen.
+<br>&nbsp;
+<br>&nbsp;
 
 ---
 

@@ -251,8 +251,8 @@ Würde das Geld absolut gleich verteilt sein, müsste jede Zehn-Prozent-Gruppe e
 
 ### 4. Die untere Mitte (Plätze 61 % bis 80 %): Diese zwei Dezile erhalten zusammen ca. 14,0 Prozent.
 
-### 5. Die untersten 20 % (Die einkommensschwächsten Gruppen): Erhalten zusammen ca. 7,7 Prozent des Gesamteinkommens. (Das unterste Zehntel allein verfügt
-lediglich über etwa 3,2 Prozent).
+### 5. Die untersten 20 % (Die einkommensschwächsten Gruppen): Erhalten zusammen ca. 7,7 Prozent des Gesamteinkommens. 
+### (Das unterste Zehntel allein verfügt lediglich über etwa 3,2 Prozent).
 
 </div>
 

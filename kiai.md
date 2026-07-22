@@ -75,6 +75,16 @@ Und die (besser Reglementierte) Nutzung muss für alle Menschen frei zugänglich
 <div class="section one-column" markdown="1">
 
 ---
+## *Gespräch mit einer künstlichen Inteligenz!*
+
+### Frage:
+---
+    
+</div>
+
+<div class="section one-column" markdown="1">
+
+---
 # Kann eine künstliche Inteligenz ein Bewusstsein entwickeln?
 ---
     

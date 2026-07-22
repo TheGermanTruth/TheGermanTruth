@@ -479,7 +479,7 @@ Bewusstsein ist die Fähigkeit eines Wesens, subjektive Erfahrungen zu machen, s
 
 ---
 
-## Sollten wir Angst vor künstlicher Inteligenz haben? **Nein!** Aber wir sollten Angst haben vor Menschen die KI missbrauchen und vor allem vor den Menschen die KI kontrollieren! Es zeigt sich also was sich **immer** zeigt: Nicht eine Technologie macht Angst, sondern **immer** der Mensch dahinter!
+## Sollten wir Angst vor künstlicher Inteligenz haben? **Nein!** Aber wir sollten Angst haben vor den Menschen die KI missbrauchen und vor allem vor den Menschen die KI kontrollieren! Es zeigt sich also was sich **immer** zeigt: Nicht eine Technologie macht Angst, sondern **immer der Mensch dahinter!**
 
 ---
     

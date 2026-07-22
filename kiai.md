@@ -458,6 +458,15 @@ meisten Definitionen kreisen um die Fähigkeit, **Erlebnisse zu haben und sich s
 ### Bewusstsein ist das subjektive Erleben der Welt und des eigenen Daseins.
 
 ---
+
+**Kurzdefinition**
+Bewusstsein ist die Fähigkeit eines Wesens, subjektive Erfahrungen zu machen, seine Umwelt wahrzunehmen und in gewissem Maße sich selbst als existierend zu erkennen.
+
+---
+
+Trotz jahrzehntelanger Forschung bleibt offen, wie genau Bewusstsein entsteht und ob es vollständig durch physikalische Prozesse im Gehirn erklärt werden kann.
+
+---
     
 </div>
 

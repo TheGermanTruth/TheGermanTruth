@@ -19,9 +19,9 @@ Unser Gesunheitssystem ist über 140 Jahre alt. Das deutsche System ist so teuer
 
 <div class="column" markdown="1">
   
+# Ist Gesundheit eine Frage Deiner Geldbörse?
+  
 ![Gesundheits Geld]({{ '/images/unbezahlbar.png' | relative_url }}){: width="100%"}
-
-**Wenn Gesundheit eine Frage des Vermögens ist!**
 
 ---
 

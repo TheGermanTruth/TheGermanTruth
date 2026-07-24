@@ -11,6 +11,8 @@ title: "Rechts"
     
 </div>
 
+![BESCHREIBUNG]({{ '/images/rechts.jpg' | relative_url }}){: width="100%"}
+
 <div class="section one-column" markdown="1">
 
 ---

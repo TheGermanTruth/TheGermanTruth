@@ -11,3 +11,10 @@ title: "Rechts"
     
 </div>
 
+<div class="section one-column" markdown="1">
+
+---
+### Ich frage mich warum so eine Vereinigung menschenverachtender Personen auf Bundes- und Landesebene an der Gestaltung dieses Landes mitwirken darf.
+---
+    
+</div>

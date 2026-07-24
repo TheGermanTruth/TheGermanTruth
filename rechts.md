@@ -89,3 +89,77 @@ title: "Rechts"
     
 </div>
 
+<div class="section one-column" markdown="1">
+
+---
+**In Deutschland gilt der Grundsatz: Keine Behörde und keine Regierungsstelle darf eine politische Partei verbieten oder deren parlamentarische Arbeit unterbinden.**
+
+---
+
+**Ein Parteiverbot ist im Grundgesetz bewusst als schärfstes Schwert („ultima ratio“) vorgesehen. Ein Antrag bringt erhebliche Risiken und Hürden mit sich:**
+
+---
+
+**Das Demokratisches Prinzip: Die Rolle der Wählerinnen und Wähler.**
+
+*In einer freiheitlichen Demokratie gilt das Vertrauen auf das Volk als Souverän. Grundsätzlich entzieht das System politische Meinungen und Parteien nicht per
+Verbot dem Diskurs, solange die Grenze zur Beseitigung der Demokratie selbst nach strengsten juristischen Maßstäben nicht überschritten ist.*
+
+*Der Gesetzgeber hat für Parteien, die verfassungsfeindlich sind, aber (noch) nicht die Gefährlichkeit für ein Vollverbot erreichen, zusätzlich die Möglichkeit
+geschaffen, sie von der staatlichen Parteienfinanzierung auszuschließen (Art. 21 Abs. 3 GG) – auch dies entscheidet jedoch ausschließlich das
+Bundesverfassungsgericht.*
+
+---
+
+### Es gibt zwei Wege, wie mit einer solchen Entwicklung umgegangen werden kann:
+
+1. **Der juristisch-staatliche Weg (Die Instrumente der wehrhaften Demokratie)**
+
+*Machtorgane des Staates haben konkrete verfassungsrechtliche Werkzeuge, die unabhängig vom Wählerwillen greifen können:*
+
+>Ein Parteiverbot (Art. 21 Abs. 2 GG):
+>Antragsberechtigt sind ausschließlich Bundestag, Bundesrat oder die Bundesregierung. Stellen diese Verfassungsorgane einen Antrag und urteilt das
+>Bundesverfassungsgericht (BVerfG), dass die Partei verfassungsfeindlich agiert, wird sie sofort aufgelöst, ihr Vermögen beschlagnahmt und Mandate verfallen.
+>
+>Ausschluss von der Parteienfinanzierung (Art. 21 Abs. 3 GG):
+>Der Staat kann verfassungsfeindlichen Parteien die finanziellen Mittel entziehen (wie 2024 bei der rechtsextremen Partei Die Heimat, vormals NPD, entschieden).
+>Auch hierüber urteilt das BVerfG auf Antrag von Politik/Regierung.
+>
+>Verwirrung von Grundrechten (Art. 18 GG):
+>Einzelnen Personen, die ihre Grundrechte zum Kampf gegen die freiheitliche demokratische Grundordnung missbrauchen, können bestimmte Rechte (wie das passive
+>Wahlrecht, also das Recht, gewählt zu werden) gerichtlich entzogen werden.
+>
+>Dienst- und Disziplinarrecht:
+>Beamte, Richter oder Soldaten, die sich rechtsextremistisch betätigen, können vom Staat aus dem Staatsdienst entfernt werden.
+
+
+
+2. **Der politisch-gesellschaftliche Weg (Der Wähler & die Zivilgesellschaft**
+
+*Gleichzeitig bleibt der Wähler die primäre Kontrollinstanz:*
+
+>Wahlergebnisse & Mehrheiten: Durch die Wahlentscheidung bestimmen die Bürger, ob eine Partei Regierungsverantwortung erhält oder in der Opposition bleibt.
+>
+>Brandmauern / Koalitionen: Andere Parteien entscheiden eigenständig, ob sie mit einer Partei zusammenarbeiten oder sie isolieren.
+>
+>Zivilgesellschaftlicher Druck: Demonstrationen, Debatten und zivilgesellschaftliches Engagement beeinflussen die öffentliche Meinung und setzen der Ausbreitung
+>von Extremismus gesellschaftliche Grenzen.
+
+---
+
+**Der Wähler entscheidet im Regelfall über den politischen Erfolg.** 
+
+Wenn eine Organisation jedoch die Grenze zur aktiven Bekämpfung der Demokratie überschreitet, liegt die Verantwortung beim Bundestag, dem Bundesrat und der
+Bundesregierung, den juristischen Weg vor dem Bundesverfassungsgericht einzuleiten.
+
+---
+    
+</div>
+
+
+
+
+
+
+
+

@@ -159,8 +159,58 @@ Wenn eine Organisation jedoch die Grenze zur aktiven Bekämpfung der Demokratie 
 Bundesregierung, den juristischen Weg vor dem Bundesverfassungsgericht einzuleiten.
 
 ---
-    
+
+---
+
+**Wollen wir wirklich eine extremistische, antidemokratische und autoritäre Form der Politik, die auf der Idee beruht, dass das Wohl einer als überlegen
+angesehenen Nation oder „Rasse“ über allem steht?** 
+
+**Individuelle Freiheit, Menschenrechte oder die Vielfalt einer offenen Gesellschaft werden dafür komplett untergeordnet oder vernichtet.**
+
+---
+---
+
+***Stell Dir selbst die Fragen:*** 
+
+### Willst Du wirklich:
+
+**Willst Du einen Führerkult & eine Diktatur?**
+
+**Willst Du Radikalen Nationalismus / Ultranationalismus?**
+
+**Willst Du Feindbilder & Sündenböcke?**
+
+**Willst Du Ablehnung von Demokratie & Pluralismus?**
+
+**Willst Du Verherrlichung von Gewalt und Militär?**
+
+**Willst Du ein Anti-Gleichheits-Prinzip?**
+
+---
+---
+
+<br>&nbsp;
+<br>&nbsp;
+<br>&nbsp;
+
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

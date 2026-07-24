@@ -13,7 +13,7 @@ title: "Rechts"
 
 <div align="center">
 
-![BESCHREIBUNG]({{ '/images/rechts.jpg' | relative_url }}){: width="100%"}
+![Rechte Angst]({{ '/images/rechts.jpg' | relative_url }}){: width="100%"}
 
 </div>
 

@@ -63,5 +63,26 @@ title: "Rechts"
 
 ---
 
+<div class="section one-column" markdown="1">
 
+---
+
+**Was bedeuten die Einstufungsstufen?**
+
+| Stufe | Bedeutung | Befugnisse Verfassungsschutz |
+| :---: | :---: | :---: |
+| Verdachtsfall | Hinreichende Anhaltspunkte für verfassungsfeindliche Bestrebungen liegen vor. | Observation, V-Leute und Telekommunikationsüberwachung unter gesetzlichen Auflagen zulässig. |
+| Gesichert extremistische Bestrebung | Gewissheit über verfassungsfeindliche Ausrichtung ist nach Überzeugung der Behörde belegt. | Umfassendere Überwachung und öffentlichere Warnung/Information möglich. |
+
+---
+
+>**Zusammenfassend:**
+>
+>**Auf Landesebene gilt die AfD in mehreren Bundesländern rechtskräftig oder Behörden-seitig als gesichert rechtsextrem. Auf Bundesebene stufte
+>der Verfassungsschutz sie zwar so ein, dies ist jedoch wegen des schwebenden Gerichtsverfahrens vorläufig ausgesetzt, weshalb sie dort aktuell formal als
+>Verdachtsfall behandelt wird**.
+
+---
+    
+</div>
 

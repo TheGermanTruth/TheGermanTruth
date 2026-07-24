@@ -35,13 +35,14 @@ title: "Rechts"
 
 **1. Bundesebene (Gesamtpartei)**
 
->Mai 2025: Das Bundesamt für Verfassungsschutz (BfV) stufte die AfD auf Bundesebene als „gesichert rechtsextremistische Bestrebung“ ein.  
+>Mai 2025: Das Bundesamt für Verfassungsschutz (BfV) stufte die AfD auf Bundesebene als **„gesichert rechtsextremistische Bestrebung“** ein.  
 >
 >Aktueller juristischer Status (Februar 2026): Die AfD legte dagegen einen Eilantrag beim Verwaltungsgericht (VG) Köln ein. Im Eilverfahren entschied das VG
 >Köln Ende Februar 2026, dass das BfV die Gesamtpartei vorerst nicht als gesichert rechtsextremistisch führen darf, solange das Hauptsacheverfahren läuft.  
 >
->Status Quo auf Bundesebene: Rechtskräftig bestätigt ist die Einstufung als rechtsextremistischer Verdachtsfall (bestätigt durch das OVG NRW im Mai 2024). Auf
->dieser Stufe darf der Verfassungsschutz bereits nachrichtendienstliche Mittel einsetzen.
+>Status Quo auf Bundesebene: Rechtskräftig bestätigt ist die Einstufung als **rechtsextremistischer Verdachtsfall** (bestätigt durch das OVG NRW im Mai 2024).
+> 
+>Auf dieser Stufe darf der Verfassungsschutz bereits nachrichtendienstliche Mittel einsetzen.
 
 ---
 
@@ -57,7 +58,7 @@ title: "Rechts"
 
 >Auf Ebene der einzelnen Bundesländer ist die Rechtslage teils weiter fortgeschritten:
 >
->In fünf Landesverbänden gilt die AfD als gesichert rechtsextremistisch (u. a. Thüringen, Sachsen, Sachsen-Anhalt, Brandenburg und Niedersachsen). 
+>In fünf Landesverbänden gilt die AfD als **gesichert rechtsextremistisch** (u. a. Thüringen, Sachsen, Sachsen-Anhalt, Brandenburg und Niedersachsen). 
 >
 >In Sachsen wurde diese Einstufung beispielsweise bereits vom Oberverwaltungsgericht Bautzen gerichtlich bestätigt.
 >

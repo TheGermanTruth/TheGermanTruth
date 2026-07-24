@@ -3,15 +3,15 @@ layout: default
 title: "Rechts"
 ---
 
-<div class="section one-column" markdown="1">
+<div class="section one-column" markdown="1" align="center">
 
 ---
-### Ein gesunder Menschenverstand würde sagen: " Die AFD ist eine rechtsextremistische Partei"!
----
-    
-</div>
 
-<div align="center">
+### Ethnopluralismus ● Schuldkult ● Umvolkung ● Systempresse ● Deutschland den Deutschen ● Alles für Deutschland ● Blut und Boden ● Meine Ehre heißt Treue ● White Power
+
+---
+
+---
 
 ![Rechte Angst]({{ '/images/rechts.jpg' | relative_url }}){: width="100%"}
 
@@ -20,7 +20,7 @@ title: "Rechts"
 <div class="section one-column" markdown="1">
 
 ---
-### Ich frage mich, warum so eine Vereinigung menschenverachtender Personen, auf Bundes- und Landesebene an der Gestaltung dieses Landes mitwirken darf.
+### Ich frage mich, warum eine Vereinigung menschenverachtender Personen wie die AFD, auf Bundes- und Landesebene an der Gestaltung dieses Landes mitwirken darf.
 ---
     
 </div>

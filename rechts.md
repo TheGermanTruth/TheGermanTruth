@@ -79,11 +79,11 @@ title: "Rechts"
 
 ---
 
-# Ein neues Gutachten der Gesellschaft für Freiheitsrechte.
+# Ein neues Gutachten der Gesellschaft für Freiheitsrechte. 
 
 ---
 
-## Die AfD ist nachweislich verfassungswidrig!
+## Die AfD ist nachweislich verfassungswidrig! (Quelle: Campact-Team)
 
 >Ein achtköpfiges Team der Gesellschaft für Freiheitsrechte (GFF) hat über drei Millionen Datenpunkte zur AfD ausgewertet.
 >

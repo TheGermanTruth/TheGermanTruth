@@ -212,6 +212,11 @@ angesehenen Nation oder „Rasse“ über allem steht?**
 **Individuelle Freiheit, Menschenrechte oder die Vielfalt einer offenen Gesellschaft werden dafür komplett untergeordnet oder vernichtet.**
 
 ---
+
+---
+
+![Willst Du wirklich?]({{ '/images/willstdu.jpg' | relative_url }}){: width="100%"}
+
 ---
 
 ***Stell Dir selbst die Fragen:*** 
@@ -222,16 +227,16 @@ angesehenen Nation oder „Rasse“ über allem steht?**
 >Absoluter Gehorsam, Du hast keine Stimme mehr, Kontrollinstanzen werden ausßer Kraft gesetzt.
 
 **Willst Du Radikalen Nationalismus / Ultranationalismus?**
->Menschenrechte brauchst Du nicht! Du stellst dich über andere Völker. Recherchier einmal wo DU herkommst!
+>Menschenrechte brauchst Du nicht? Du stellst dich selbst über andere Völker? Recherchier einmal wo Deine Wurzeln sind!
 
 **Willst Du Feindbilder & Sündenböcke?**
->Was wenn Du plötzlich ins Visier der Faschisten gerätst? Wie schnell das geht hat die Geschichte uns gelehrt.
+>Was wenn Du plötzlich selbst ins Visier deiner "Götter" gerätst? Wie schnell das geht hat die Geschichte uns gelehrt.
 
 **Willst Du Ablehnung von Demokratie & Pluralismus?**
->In der Demokratie kannst Du dein Land mitgestalten, auch wenn sich das manchmal anders anfühlt. Bist Du kein Individuum?
+>In der Demokratie kannst Du dein Land mitgestalten, auch wenn sich das manchmal anders anfühlt. In der Diktatur hat Du nichts zu melden!
 
 **Willst Du Verherrlichung von Gewalt und Militär?**
->Du hast noch keinen Krieg erlebt! Mach die Augen auf! Du stirbst, denn Du bist für Niemanden von Bedeutung!
+>Du hast noch keinen Krieg erlebt! Mach doch die Augen auf! Du stirbst, denn Du bist für Niemanden von Bedeutung!
 
 **Willst Du ein Anti-Gleichheits-Prinzip?**
 >Artikel 3 Grundgesetz: „Alle Menschen sind vor dem Gesetz gleich“! Willst Du nicht genauso behandelt werden wie alle anderen Menschen? 

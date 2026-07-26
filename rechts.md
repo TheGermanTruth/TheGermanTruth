@@ -64,6 +64,7 @@ title: "Rechts"
 >
 >In anderen Bundesländern gilt die AfD weiterhin als Verdachtsfall oder wird in Prüfprozessen beobachtet.
 >
+<br>&nbsp;
 
 ---
     
@@ -71,6 +72,32 @@ title: "Rechts"
 
 </div>
 
+---
+---
+
+<div class="section one-column" markdown="1">
+
+---
+# NEWS
+---
+
+## Die AfD ist nachweislich verfassungswidrig!
+
+>Ein achtköpfiges Team der Gesellschaft für Freiheitsrechte (GFF) hat über drei Millionen Datenpunkte zur AfD ausgewertet.
+>Das Gutachten der Gesellschaft für Freiheitsrechte zeigt: **Die AfD ist nachweislich verfassungswidrig.**
+>Die „Alternative für Deutschland“ (AfD) ist im Sinne des Artikel 21 Absatz 2 des Grundgesetzes verfassungswidrig.
+>Das GFF-Gutachten schließt eine wichtige Lücke in der Debatte um ein Verbot der AfD.
+>Im Gutachten des Bundesamts für Verfassungsschutz blieb vieles offen, denn der Verfassungsschutz fragte nur: **Ist die AfD rechtsextrem?**
+>Beim Parteiverbot geht es aber um die Frage: **Ist die AfD verfassungswidrig?**
+>---
+>Das Gutachten liefert eine belastbare Datengrundlage für die politische Debatte über ein mögliches AfD-Verbot. Damit ist ein zentrales Argument gegen ein >Verbotsverfahren – nämlich die Unklarheit der Faktenlage – entkräftet. Das Gutachten weist nach, dass die gesamte Partei verfassungswidrig ist, weil sie
+>insbesondere die Menschenwürde bestimmter Personengruppen und das Demokratieprinzip verletzt.
+    
+---
+
+</div>
+
+---
 ---
 
 <div class="section one-column" markdown="1">

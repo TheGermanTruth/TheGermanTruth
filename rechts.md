@@ -105,6 +105,8 @@ title: "Rechts"
 >
 >Das Gutachten weist nach, dass die gesamte Partei verfassungswidrig ist, weil sie insbesondere die Menschenwürde bestimmter Personengruppen und das
 Demokratieprinzip verletzt.
+>
+>(Quelle: Campact-Team)
     
 ---
 

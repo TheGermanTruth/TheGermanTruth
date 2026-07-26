@@ -6,7 +6,7 @@ title: "Künstliche Inteligenz"
 <div class="section one-column" markdown="1">
 
 ---
-# Die Angst vor künstlicher Inteligenz.
+# Die große Angst vor künstlicher Inteligenz.
 ---
 
 ![Gesellschaft 2063]({{ '/images/mischung.jpg' | relative_url }}){: width="100%"}

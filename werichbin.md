@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Wer ich bin"
+title: "Ich bin"
 ---
 
 <div class="section one-column" markdown="1">
@@ -23,7 +23,7 @@ title: "Wer ich bin"
   
 # Wer ich bin
 
-Ich bin Klaus Runge, Geboren 1958, aufgewachsen in der Nähe von Hannover und seit jeher getrieben von
+Klaus Runge, Geboren 1958, aufgewachsen in der Nähe von Hannover und seit jeher getrieben von
 einer einfachen Motivation: **Ich möchte Dinge nicht nur nutzen, sondern verstehen und
 gestalten.**
 

@@ -12,9 +12,10 @@ title: "Startseite"
 <div class="section one-column" markdown="1">
 
 ---
+
 <div align="center">
     
-![Logo]({{ '/images/logo.jpg' | relative_url }}){: width="40%"}
+![Logo]({{ '/images/logo.jpg' | relative_url }}){: width="50%"}
 
 </div>
 

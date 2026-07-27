@@ -15,7 +15,7 @@ title: "Startseite"
 
 <div align="center">
     
-![LOGO]({{ '/images/logo.jpg' | relative_url }}){: width="100%"}
+![Ein Prozent]({{ '/images/1Prozent.png' | relative_url }}){: width="100%"}
 
 </div>
 

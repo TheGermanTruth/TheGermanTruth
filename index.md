@@ -16,6 +16,7 @@ title: "Startseite"
 <div align="center">
     
 ![Logo]({{ '/images/logo.jpg' | relative_url }}){: width="50%"}
+![BESCHREIBUNG]({{ '/images/logo.jpg' | relative_url }}){: width="70%"}
 
 </div>
 

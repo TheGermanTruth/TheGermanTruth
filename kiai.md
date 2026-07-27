@@ -6,7 +6,7 @@ title: "Künstliche Inteligenz"
 <div class="section one-column" markdown="1">
 
 ---
-### Die große Angst vor künstlicher Inteligenz, und die Frage: Was ist Wahr und was ist Lüge!
+## Die große Angst vor künstlicher Inteligenz, und die Frage: Was ist Wahr und was ist Lüge!
 ---
 
 ![Gesellschaft 2063]({{ '/images/mischung.jpg' | relative_url }}){: width="100%"}

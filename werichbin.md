@@ -21,7 +21,7 @@ title: "Ich bin"
 <br>&nbsp;
 <br>&nbsp;
   
-# Wer ich bin
+# Ich bin
 
 Klaus Runge, Geboren 1958, aufgewachsen in der Nähe von Hannover und seit jeher getrieben von
 einer einfachen Motivation: **Ich möchte Dinge nicht nur nutzen, sondern verstehen und

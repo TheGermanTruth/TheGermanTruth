@@ -19,7 +19,11 @@ title: "Startseite"
 
 </div>
 
+</div>
+
 ---
+
+<div class="section one-column" markdown="1">
 
 ## Willkommen bei The German Truth
 

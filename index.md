@@ -5,6 +5,54 @@ title: "Startseite"
 
 ---
 
+
+
+---
+
+<div class="section one-column" markdown="1">
+
+---
+
 ![Logo]({{ '/images/logo.jpg' | relative_url }}){: width="100%"}
 
 ---
+
+## Willkommen bei The German Truth
+
+### Perspektiven für die drängenden Fragen unserer Zeit
+
+>**Herzlich willkommen! The German Truth ist das persönliche Projekt von Klaus Runge. Diese Webseite dient als unabhängige Plattform für fundierte
+>Gedanken,detaillierte Analysen und kritische Essays zu gesellschaftlichen, politischen und globalen Entwicklungen.**
+
+## Wofür diese Plattform steht
+
+>**In der modernen, oft emotional geführten Debatte gerät eine realistische und ungeschönte Betrachtung von Problemen häufig ins Hintertreffen. Genau hier setzt
+>The German Truth an. Mein Ziel ist es, den Blick wieder auf die Fakten zu lenken, auch wenn diese manchmal unbequem sind. Auf diesem Profil und der
+>dazugehörigen Webseite setze ich mich kritisch, sachlich und differenziert mit den großen Herausforderungen unserer Gegenwart auseinander.**
+
+## Die inhaltlichen Schwerpunkte umfassen:
+
+### 1.Gesellschaftliche Entwicklungen: Eine ehrliche Analyse von sozialen Spannungsfeldern, demografischen Herausforderungen und wirtschaftlichen Realitäten.
+
+### 2.Politische Entscheidungen: Das kritische Hinterfragen aktueller politischer Diskurse, Maßnahmen und deren tatsächlicher Auswirkungen auf die Bürger.
+
+### 3.Globale Dynamiken: Die Einordnung nationaler Debatten in den weltweiten geopolitischen und ökonomischen Kontext.
+
+## Mein Anspruch
+
+### Als Autor lade ich Sie dazu ein, gängige Narrative zu hinterfragen und sich einer Debatte anzuschließen, die auf Pragmatismus statt auf Ideologie basiert. Es
+### geht auf dieser Seite nicht darum, einfache Antworten auf komplexe Probleme zu liefern, sondern die Realität so anzuerkennen, wie sie ist – und daraus
+### durchdachte Schlüsse zu ziehen.
+
+---
+
+### Nehmen Sie sich die Zeit, die Beiträge zu lesen. Ich hoffe, dass meine Analysen Ihnen neue Perspektiven eröffnen und einen Anstoß zur Reflexion bieten.
+    
+</div>
+
+
+
+
+
+
+

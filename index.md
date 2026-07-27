@@ -5,17 +5,11 @@ title: "Startseite"
 
 ---
 
-
-
----
-
 <div class="section one-column" markdown="1">
-
----
 
 <div align="center">
     
-![Ein Prozent]({{ '/images/1Prozent.png' | relative_url }}){: width="100%"}
+![Ein Prozent]({{ '/images/logo.jpg' | relative_url }}){: width="50%"}
 
 </div>
 

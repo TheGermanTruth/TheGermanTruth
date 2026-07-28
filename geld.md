@@ -25,3 +25,19 @@ title: "Geld"
     
 </div>
 
+---
+
+<div class="section one-column" markdown="1">
+
+---
+### Überall versteckte Steuern!
+---
+
+![Versteckte Steuern]({{ '/images/steuern5.jpg' | relative_url }}){: .shadow-img width="100%"}
+    
+</div>
+
+---
+
+---
+

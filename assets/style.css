@@ -76,3 +76,21 @@ h1, h2, h3 {
   text-decoration: underline;
 }
 
+/* ===== Schatten-Effekt ===== */
+.shadow-img {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  border-radius: 4px; /* Optional: Rundet die Ecken des Bildes minimal ab */
+  transition: transform 0.2s ease, box-shadow 0.2s ease; /* Bereitet Hover-Effekt vor */
+}
+
+
+/* ===== Schatten-Effekt bei Mauszeiger (Hover) ===== */
+.shadow-img:hover {
+  transform: translateY(-2px); /* Bild hebt sich leicht an */
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25); /* Schatten wird tiefer */
+}
+
+
+
+
+

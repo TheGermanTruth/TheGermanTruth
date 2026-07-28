@@ -20,13 +20,13 @@ title: "Startseite"
 ### Perspektiven für die drängenden Fragen unserer Zeit
 
 >**Herzlich willkommen! The German Truth ist das persönliche Projekt von Klaus Runge. Diese Webseite dient als unabhängige Plattform für fundierte
->Gedanken,detaillierte Analysen und kritische Essays zu gesellschaftlichen, politischen und globalen Entwicklungen.**
+>Gedanken, detaillierte Analysen und kritische Essays zu gesellschaftlichen, politischen und globalen Entwicklungen.**
 
 ## Wofür diese Plattform steht
 
->**In der modernen, oft emotional geführten Debatte gerät eine realistische und ungeschönte Betrachtung von Problemen häufig ins Hintertreffen. Genau hier setzt
+>**In der modernen, oft emotional geführten Debatte gerät eine realistische und ungeschönte Betrachtung von Problemen häufig in den Hintergrund. Genau hier setzt
 >The German Truth an. Mein Ziel ist es, den Blick wieder auf die Fakten zu lenken, auch wenn diese manchmal unbequem sind. Auf diesem Profil und der
->dazugehörigen Webseite setze ich mich kritisch, sachlich und differenziert mit den großen Herausforderungen unserer Gegenwart auseinander.**
+>dazugehörigen Webseite setze ich mich kritisch, sachlich und differenziert mit den Herausforderungen unserer Gegenwart auseinander.**
 
 ## Die inhaltlichen Schwerpunkte umfassen:
 
@@ -38,13 +38,13 @@ title: "Startseite"
 
 ## Mein Anspruch
 
-### Als Autor lade ich Sie dazu ein, gängige Narrative zu hinterfragen und sich einer Debatte anzuschließen, die auf Pragmatismus statt auf Ideologie basiert. Es
-### geht auf dieser Seite nicht darum, einfache Antworten auf komplexe Probleme zu liefern, sondern die Realität so anzuerkennen, wie sie ist – und daraus
+### Als Autor lade ich Dich dazu ein, gängige Narrative zu hinterfragen und sich einer Debatte anzuschließen, die auf Pragmatismus statt auf Ideologie basiert.
+### Es geht auf dieser Seite nicht darum, einfache Antworten auf komplexe Probleme zu liefern, sondern die Realität so anzuerkennen, wie sie ist – und daraus
 ### durchdachte Schlüsse zu ziehen.
 
 ---
 
-### Nehmen Sie sich die Zeit, die Beiträge zu lesen. Ich hoffe, dass meine Analysen Ihnen neue Perspektiven eröffnen und einen Anstoß zur Reflexion bieten.
+### Nimm Dir die Zeit, meine Beiträge zu lesen. Ich hoffe, dass meine Analysen Dir neue Perspektiven eröffnen und einen Anstoß zur Reflexion bieten kann!
     
 </div>
 

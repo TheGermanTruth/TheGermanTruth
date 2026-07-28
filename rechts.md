@@ -109,6 +109,7 @@ Demokratieprinzip verletzt.
 >(Quelle: Campact-Team)
 
 <a href="[https://example.com](https://www.campact.de/rechtsextremismus/afd-verbot/)" target="_blank" rel="noopener">anschauen</a>
+[Seite besuchen]([https://example.com](https://www.campact.de/rechtsextremismus/afd-verbot/)){:target="_blank" rel="noopener"}
     
 ---
 

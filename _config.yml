@@ -6,7 +6,7 @@ description: Meine Warheit, oder warum wir die Welt nicht retten können.
 theme: null
 markdown: kramdown
 
-remote_theme: jekyll/minima # Falls Sie ein Theme nutzen, ansonsten weglassen
+# remote_theme: jekyll/minima # Falls Sie ein Theme nutzen, ansonsten weglassen
 plugins:
   - jekyll-sitemap
 

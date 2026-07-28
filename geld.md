@@ -9,7 +9,7 @@ title: "Geld"
 ### Wohin verschwindet eigentlich das verdammte Geld?
 ---
 
-![STEUERN]({{ '/images/steuern.png' | relative_url }}){: .shadow-img width="50%"}
+![STEUERN]({{ '/images/steuern.png' | relative_url }}){: .shadow-img width="100%"}
     
 </div>
 
@@ -21,7 +21,7 @@ title: "Geld"
 ### Wohin das Geld im Alltag fliesst.
 ---
 
-![AUSGABEN]({{ '/images/abfluss.png' | relative_url }}){: .shadow-img width="50%"}
+![AUSGABEN]({{ '/images/abfluss.jpg' | relative_url }}){: .shadow-img width="100%"}
     
 </div>
 

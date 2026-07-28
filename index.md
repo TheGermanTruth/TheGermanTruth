@@ -7,7 +7,7 @@ title: "Startseite"
 
 <div class="section one-column" align="center" markdown="1">
    
-![LOGO]({{ '/images/logo.jpg' | relative_url }}){: width="50%"}
+![LOGO]({{ '/images/logo.jpg' | relative_url }}){: .shadow-img width="50%"}
 
 </div>
 

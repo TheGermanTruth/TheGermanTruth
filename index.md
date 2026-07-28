@@ -45,7 +45,9 @@ title: "Startseite"
 ---
 
 ### Nimm Dir die Zeit, meine Beiträge zu lesen. Ich hoffe, dass meine Analysen Dir neue Perspektiven eröffnen und einen Anstoß zur Reflexion bieten kann!
-    
+
+---
+
 </div>
 
 <br>&nbsp;
@@ -56,8 +58,9 @@ title: "Startseite"
    
 ×º°”˜`”°º×juli 2026×º°”˜`”°º×
 
-</div>
 ---
+
+</div>
 
 
 

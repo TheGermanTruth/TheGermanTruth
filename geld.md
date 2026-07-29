@@ -135,6 +135,55 @@ Steuern, die von Städten und Gemeinden individuell erhoben werden.
 
 ---
 
+### Einige Beispiele: 
+ 
+Bei fast allen Einkäufen greift der Staat **doppelt** zu: Über eine **spezifische Steuer** (Sekt-, Tabak-, Energiesteuer usw.) und zusätzlich über die
+**Mehrwertsteuer** (die meist auch auf die spezifische Steuer berechnet wird).
+
+---
+
+### 1. 10 Liter Super Benzin (Gesamtpreis: 21,90 €)
+
+1. **Energiesteuer:** Fix **65,45 Cent** pro Liter → **6,55 €**
+
+2. **Mehrwertsteuer (19 %):** Die Steuer wird auf den Bruttopreis zurückgerechnet (ca. 15,97 % des Endpreises) → **3,50 €**
+       
+3. **CO₂-Abgabe (Anteil am Literpreis ca. 12-15 Cent):** Ein Teil fließt in staatliche Töpfe/Zertifikate → ca. **1,15 €**
+       
+***Der Staat bekommt:*** ca. **11,20 €** (rund **51 %** des Gesamtpreises).
+
+---
+
+### 2. Eine Schachtel Zigaretten (20 Stück, Gesamtpreis: 8,80 €)
+
+1. **Tabaksteuer:** Kombination aus Stücksteuer (ca. 11 Cent/Zigarette) + prozentualem Anteil am Verkaufspreis → ca. **3,70 €**
+       
+2. **Mehrwertsteuer (19 %):** Enthält **1,40 €** MwSt.
+       
+**Der Staat bekommt:** ca. **5,10 €** (rund **58 %** des Gesamtpreises).
+
+---
+
+### 3. Eine Flasche Whisky (0,7 Liter, 40 % Vol., Gesamtpreis: 15,00 €)
+
+1. **Alkoholsteuer:** Beträgt 1.303 € pro Hektoliter reinen Alkohol. Für 0,7l mit 40 % (0,28l reiner Alkohol) → **3,65 €**
+       
+2. **Mehrwertsteuer (19 %):** Enthält **2,39 €** MwSt.
+       
+**Der Staat bekommt:** ca. **6,04 €** (rund **40 %** des Gesamtpreises).
+
+---
+
+### 4. 100 km Bahnfahrt (Fernverkehr, Ticketpreis z. B. 35,00 €)
+
+1. **Spezielle Steuern:** Keine.
+       
+2. **Mehrwertsteuer:** Seit 2020 gilt für Bahnreisen im Fernverkehr (wie im Nahverkehr) der **ermäßigte Steuersatz von 7 %** → **2,29 €**
+
+**Der Staat bekommt: 2,29 €** (rund **6,5 %** des Ticketpreises).
+
+---
+
 </div>
 
 

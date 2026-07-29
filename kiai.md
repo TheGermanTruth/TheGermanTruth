@@ -92,17 +92,17 @@ Das Internet revolutionierte Kommunikation.
 
 KI hingegen greift in einen Bereich ein, den wir lange als ausschließlich menschlich betrachtet haben:
 
-    >Denken
-    >Lernen
-    >Planen
-    >Problemlösen
-    >Wissensarbeit
+>Denken
+>Lernen
+>Planen
+>Problemlösen
+>Wissensarbeit
     
 Dadurch ist KI eher eine **Meta-Technologie.** Sie verbessert potenziell fast jede andere Technologie.
 
 Beispiele:
 
-    >Medizin: schnellere Diagnosen, Medikamentenentwicklung
+>Medizin: schnellere Diagnosen, Medikamentenentwicklung
     >Forschung: Analyse riesiger Datenmengen
     >Bildung: personalisierte Lernsysteme
     >Robotik: intelligentere Maschinen

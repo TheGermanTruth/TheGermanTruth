@@ -24,11 +24,12 @@ title: "Ich bin"
 # Ich bin
 
 Klaus Runge, Geboren 1958, aufgewachsen in der Nähe von Hannover und seit jeher getrieben von
-einer einfachen Motivation: **Ich möchte Dinge nicht nur nutzen, sondern verstehen und
-gestalten.**
+einer einfachen Motivation: 
+
+**Ich möchte Dinge nicht nur nutzen, sondern verstehen und gestalten.**
 
 ---
-### Ich lebe seit etwa 40 Jahren in Norddeutschland.
+### Ich lebe seit etwa 40 Jahren im Norden Deutschlands.
 ---
 
 Mein beruflicher und kreativer Weg ist vielseitig. 
@@ -36,14 +37,16 @@ Mein beruflicher und kreativer Weg ist vielseitig.
 Ich habe in Agenturen gearbeitet, war selbstständig und habe über viele Jahre lang als Künstler Gemälde, Objekte
 und Möbel entworfen. 
 
-Gleichzeitig fasziniert mich die digitale und technische Welt. Seit den frühen 90er Jahren programmiere ich, und die Neugier hat mich nie verlassen – so kam im Alter von 60 Jahren noch C# als neue Sprache hinzu.
+Gleichzeitig fasziniert mich auch immer die digitale und technische Welt. In den frühen 90er Jahren habe ich programmieren gelernt, und die Neugier hat mich nie
+verlassen – so kam jetzt noch C# als neue Programmiersprache hinzu.
 
 
-Ob Logik oder Kunst, Code oder Handwerk: Am Ende geht es mir immer darum, etwas
-Neues, Durchdachtes und Solides zu erschaffen.
+Ob Logik, Physik oder Kunst, Code oder Handwerk: Am Ende geht es mir immer darum, etwas
+Neues, Durchdachtes und Solides zu erschaffen oder zu verstehen.
 
 ---
-Heute bin ich Rentner. Ich arbeite, in Teilzeit, bei einem internationalen Pharma-Konzern am Empfang. Dieses Unternehmen entwickelt Medikamente und Impfstoffe für Nutz- und Haustiere. Ich mag meine Aufgaben dort sehr, und freue mich über die vielen Kontakte zu anderen Menschen.
+Heute bin ich Rentner. Ich arbeite, in Teilzeit, bei einem internationalen Pharma-Konzern am Empfang. Dieses Unternehmen entwickelt Medikamente und Impfstoffe für
+Nutz- und Haustiere. Ich mag meine Aufgaben dort sehr, und freue mich über die vielen Kontakte zu anderen Menschen.
 
 ---
 

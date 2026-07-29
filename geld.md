@@ -35,7 +35,7 @@ title: "Geld"
 
 ![Versteckte Steuern]({{ '/images/steuern5.jpg' | relative_url }}){: .shadow-img width="100%"}
     
-<div class="section one-column" markdown="1">
+</div>
 
 ---
 
@@ -52,7 +52,92 @@ title: "Geld"
 >**Europäischer Vergleich:** Nach Berechnungen der OECD belegt Deutschland bei der Abgabenlast für alleinstehende Durchschnittsverdiener
 >den zweiten Platz hinter Belgien in Europa.
 
-<div class="section one-column" markdown="1">
+</div>
     
+---
+---
+
+<div class="section one-column" markdown="1">
+
+## In Deutschland gibt es insgesamt knapp ***40 verschiedene Steuerarten.***
+
+Zur besseren Übersicht, teilte ich sie nach dem **Gegenstand der Besteuerung** ein.
+
+### 1. Besitzsteuern
+
+Besteuern das Einkommen, den Ertrag oder das Vermögen von Personen und Unternehmen.
+
+**Einkommensteuer:** Die zentrale Steuer auf das Einkommen natürlicher Personen. Sie tritt in verschiedenen Formaten auf:
+
+1. Lohnsteuer: Direkt vom Gehalt abgezogen.
+2. Veranlagte Einkommensteuer: Über die jährliche Steuererklärung.
+3. Kapitalertragsteuer / Abgeltungsteuer: Auf Zinsen, Dividenden und Kursgewinne (25 % zzgl. Soli/Kirchensteuer).
+4. Körperschaftsteuer: Die „Einkommensteuer“ für Kapitalgesellschaften (z. B. GmbH, AG).
+5. Gewerbesteuer: Kommunale Steuer auf den Ertrag von Gewerbebetrieben.
+6. Grundsteuer (A, B, C): Steuer auf den Besitz von Grundstücken und Gebäuden.
+7. Erbschaft- und Schenkungsteuer: Fällt beim Übergang von Vermögen durch Erbe oder Schenkung an.
+8. Solidaritätszuschlag: Zusatzabgabe (mittlerweile nur noch für sehr hohe Einkommen und Unternehmen).
+
+---
+
+### 2. Verkehrssteuern
+
+Fallen bei Rechtsgeschäften, Käufen oder der Teilnahme am Rechts- und Straßenverkehr an.
+
+1. Umsatzsteuer / Mehrwertsteuer: Die zweitwichtigste Einnahmequelle des Staates (Standard: 19 %, ermäßigt: 7 %).
+2. Einfuhrumsatzsteuer: Fällt bei Warenimporten aus Drittstaaten an.
+3. Grunderwerbsteuer: Fällt beim Kauf von Immobilien oder Grundstücken an (je nach Bundesland 3,5 % bis 6,5 %).
+4. Kraftfahrzeugsteuer (Kfz-Steuer): Jährliche Steuer für das Halten von Fahrzeugen.
+5. Versicherungsteuer: Wird auf den Großteil von Versicherungsprämien erhoben.
+6. Luftverkehrsteuer: Wegen Ticketabgaben bei Flügen ab Deutschland.
+7. Rennwett-, Lotterie-, Sportwett- und Glücksspielsteuern: Auf Wetteinsätze und Lotterielose.
+8. Feuerschutzsteuer: Fällt auf bestimmte Sachversicherungen an.
+
+---
+
+### 3. Verbrauchsteuern
+
+Indirekte Steuern, die im Kaufpreis bestimmter Waren enthalten sind und vom Endverbraucher gezahlt werden.
+
+1. Energiesteuer: Auf Kraftstoffe (Benzin, Diesel), Heizöl und Erdgas.
+2. Stromsteuer: Steuer auf den Verbrauch elektrischer Energie.
+3. Tabaksteuer: Auf Zigaretten, Tabak, Vapes und E-Zigaretten-Liquids.
+4. Alkoholische Genussmittel:
+5. Biersteuer
+6. Alkoholsteuer (für Spirituosen)
+7. Schaumweinsteuer („Sektsteuer“)
+8. Zwischenerzeugnissteuer (z. B. für Portwein oder Sherry)
+9. Alkopopsteuer
+10. Kaffeesteuer: Auf den Verbrauch von Röst- und löslichem Kaffee.
+
+---
+
+### 4. Kommunale Satzungs- & Aufwandsteuern
+
+Steuern, die von Städten und Gemeinden individuell erhoben werden.
+
+1. Hundesteuer: Für das Halten von Hunden.
+2. Zweitwohnungsteuer: Bei Anmeldung eines zweiten Wohnsitzes.
+3. Vergnügungsteuer: Auf Spielgeräte, Diskotheken oder Kinoeintritte.
+4. Bettensteuer / Tourismusabgabe: In vielen Städten bei Hotelübernachtungen.
+5. Verpackungssteuer: In einigen Städten auf Einwegverpackungen.
+6. Jagd- und Fischereisteuer
+
+---
+---
+
+### Wichtiger Unterschied: Steuer vs. Sozialabgabe vs. Gebühr
+
+1. Steuern sind ohne Gegenleistung geschuldet (das Geld fließt in den allgemeinen Haushalt).
+2. Kirchensteuer: Ist zwar formal eine Steuer, wird aber von den Kirchen erhoben (das Finanzamt zieht sie nur ein).
+3. Sozialabgaben (Renten-, Kranken-, Pflege- und Arbeitslosenversicherung) sowie Rundfunkbeitrag oder Müllgebühren sind keine Steuern, da sie zweckgebunden
+    sind bzw. eine direkte Gegenleistung beinhalten.
+
+---
+
+</div>
+
+
+
 ---
 ---

@@ -26,6 +26,14 @@ Ausmaß der Gegenwart: Die Erwärmung der letzten Jahrzehnte hat nicht nur das N
 
 ---
 
+<div class="section one-column" align="center" markdown="1">
+
+![STEUERN]({{ '/images/verlauf.jpg' | relative_url }}){: .shadow-img width="100%"}
+    
+</div>
+
+---
+
 <div class="two-columns" markdown="1">
 
 <div class="column" markdown="1">

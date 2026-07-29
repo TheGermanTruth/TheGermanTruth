@@ -28,6 +28,10 @@ title: "Startseite"
 >The German Truth an. Mein Ziel ist es, den Blick wieder auf die Fakten zu lenken, auch wenn diese manchmal unbequem sind. Auf diesem Profil und der
 >dazugehörigen Webseite setze ich mich kritisch, sachlich und differenziert mit den Herausforderungen unserer Gegenwart auseinander.**
 
+---
+![Inhalt]({{ '/images/inhalt.jpg' | relative_url }}){: .shadow-img width="100%"}
+---
+
 ## Die inhaltlichen Schwerpunkte umfassen:
 
 ### 1.Gesellschaftliche Entwicklungen: Eine ehrliche Analyse von sozialen Spannungsfeldern, demografischen Herausforderungen und wirtschaftlichen Realitäten.

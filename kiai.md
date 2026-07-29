@@ -87,16 +87,23 @@ des 21. Jahrhunderts werden.
 Der Grund ist, dass KI anders ist als die meisten früheren Erfindungen.
 
 Die Dampfmaschine revolutionierte körperliche Arbeit. 
+
 Elektrizität revolutionierte Energie. 
+
 Das Internet revolutionierte Kommunikation.
 
 KI hingegen greift in einen Bereich ein, den wir lange als ausschließlich menschlich betrachtet haben:
 
 >Denken
+>
 >Lernen
+>
 >Planen
+>
 >Problemlösen
+>
 >Wissensarbeit
+>
     
 Dadurch ist KI eher eine **Meta-Technologie.** Sie verbessert potenziell fast jede andere Technologie.
 

@@ -52,6 +52,10 @@ title: "Geld"
 >**Europäischer Vergleich:** Nach Berechnungen der OECD belegt Deutschland bei der Abgabenlast für alleinstehende Durchschnittsverdiener
 >den zweiten Platz hinter Belgien in Europa.
 
+---
+
+![Europa]({{ '/images/europa.png' | relative_url }}){: .shadow-img width="100%"}
+
 </div>
     
 ---

@@ -62,6 +62,8 @@ title: "Startseite"
    
 ×º°”˜`”°º×juli 2026×º°”˜`”°º×
 
+×º°”˜`”°º×Teile dieser Webseite sind KI generiert×º°”˜`”°º×
+
 ---
 
 </div>

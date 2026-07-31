@@ -358,8 +358,8 @@ wahrscheinlich genauso wichtig sein wie die technische Leistungsfähigkeit der K
 >
 >Diese Kontrollinstanz besteht aus Drei Gruppen.
 >
->**Gruppe 3:** Je 10 Personen aus den wichtigsten Staaten per Los ausgewählt. Diese große Gruppe erarbeitet Themen, und wählt aus ihrer Gruppe z.B. 11 Person in Gruppe
->2. Quasi den Senat.
+>**Gruppe 3:** Je 10 Personen aus Wissenschaft, Philosophie, Kunst, Ethik, Soziologie usw. aus den wichtigsten Staaten per Los gewählt. Diese große Gruppe
+>erarbeitet Themen, und wählt aus ihrer Gruppe z.B. 11 Person in Gruppe 2. Quasi den Senat.
 >
 >**Gruppe 2:** Vertieft die Arbeit an den Themen und entwickelt Lösungen zu Themen. Diese Gruppe wählt ihrerseits die Gruppe 1, z.B. 5 Personen.
 >

@@ -354,12 +354,12 @@ wahrscheinlich genauso wichtig sein wie die technische Leistungsfähigkeit der K
 
 ### Ich:
 
->Eine unabhängigen globalen Instanz könnte so aussehen:
+>Eine unabhängige globale Instanz könnte so aussehen:
 >
->Diese Kontrollinstanz besteht aus Drei Gruppen.
+>Diese Kontrollinstanz besteht aus Drei Gruppen. 200 Personen / 40 Personen / 5 Personen
 >
->**Gruppe 3:** Je 10 Personen aus Wissenschaft, Philosophie, Kunst, Ethik, Soziologie usw. aus den wichtigsten Staaten per Los gewählt. Diese große Gruppe
->erarbeitet Themen, und wählt aus ihrer Gruppe z.B. 11 Person in Gruppe 2. Quasi den Senat.
+>**Gruppe 3:** Je 10 Personen aus Wissenschaft, Philosophie, Kunst, Ethik, Soziologie usw. aus den wichtigsten Staaten (G20) per Los gewählt. Diese große Gruppe
+>erarbeitet Themen, und wählt aus ihrer Gruppe z.B. 40 Person in Gruppe 2. Quasi den Senat.
 >
 >**Gruppe 2:** Vertieft die Arbeit an den Themen und entwickelt Lösungen zu Themen. Diese Gruppe wählt ihrerseits die Gruppe 1, z.B. 5 Personen.
 >

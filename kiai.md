@@ -354,14 +354,19 @@ wahrscheinlich genauso wichtig sein wie die technische Leistungsfähigkeit der K
 
 ### Ich:
 
->Eine unabhängigen globalen Instanz ist garnicht so schwer.
->Gedanke: Diese Instanz besteht aus Drei Gruppen.
->Gruppe 3, 10 Personen aus den genannten Bereichen per Los ausgewählt. Diese Gruppe arbeitet Themen aus und wählt je eine verdiente Person in Gruppe 2, Quasi den
->Senat.
->Diese Gruppe 2 vertieft die Arbeit an den Themen und wählt ihrerseits die Gruppe 1. 
->Diese Gruppe besteht wiederum aus gewählten Gruppe 2 Personen. Ihre Anzahl ist ungerade, denn sie treffen am Ende die Entscheidungen. 
->Über die Amtszeit dieser Gruppen müsste man noch diskutieren, aber zumindest Gruppe 1 muss mindestens eine Amtszeit von 10 Jahren haben. Und sie
->müssten auch unbestechlich gemacht wwerden! 
+>Eine unabhängigen globalen Instanz könnte so aussehen:
+>
+>Diese Kontrollinstanz besteht aus Drei Gruppen.
+>
+>Gruppe 3: Je 10 Personen aus den wichtigsten Staaten per Los ausgewählt. Diese große Gruppe erarbeitet Themen, und wählt aus ihrer Gruppe z.B. 11 Person in Gruppe
+2.
+>Quasi den Senat.
+>
+>Gruppe 2: Vertieft die Arbeit an den Themen und entwickelt Lösungen zu Themen. Diese Gruppe wählt ihrerseits die Gruppe 1, z.B. 5 Personen.
+>
+>Gruppe 1: Ihre Anzahl muss ungerade sein, denn sie treffen am Ende die Entscheidungen. Es gibt immer eine Mehrheit!
+>
+>Über die Amtszeit dieser Gruppen müsste man diskutieren, aber zumindest Gruppe 1 sollte mindestens eine Amtszeit von 10 Jahren haben. 
 
 ### KI:
 

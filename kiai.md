@@ -358,15 +358,14 @@ wahrscheinlich genauso wichtig sein wie die technische Leistungsfähigkeit der K
 >
 >Diese Kontrollinstanz besteht aus Drei Gruppen.
 >
->Gruppe 3: Je 10 Personen aus den wichtigsten Staaten per Los ausgewählt. Diese große Gruppe erarbeitet Themen, und wählt aus ihrer Gruppe z.B. 11 Person in Gruppe
-2.
->Quasi den Senat.
+>**Gruppe 3:** Je 10 Personen aus den wichtigsten Staaten per Los ausgewählt. Diese große Gruppe erarbeitet Themen, und wählt aus ihrer Gruppe z.B. 11 Person in Gruppe
+>2. Quasi den Senat.
 >
->Gruppe 2: Vertieft die Arbeit an den Themen und entwickelt Lösungen zu Themen. Diese Gruppe wählt ihrerseits die Gruppe 1, z.B. 5 Personen.
+>**Gruppe 2:** Vertieft die Arbeit an den Themen und entwickelt Lösungen zu Themen. Diese Gruppe wählt ihrerseits die Gruppe 1, z.B. 5 Personen.
 >
->Gruppe 1: Ihre Anzahl muss ungerade sein, denn sie treffen am Ende die Entscheidungen. Es gibt immer eine Mehrheit!
+>**Gruppe 1:** Ihre Anzahl muss ungerade sein, denn sie treffen am Ende die Entscheidungen. Es gibt immer eine Mehrheit!
 >
->Über die Amtszeit dieser Gruppen müsste man diskutieren, aber zumindest Gruppe 1 sollte mindestens eine Amtszeit von 10 Jahren haben. 
+>Über die Amtszeit dieser Gruppen müsste man diskutieren, aber Gruppe 1 sollte eine lange Amtszeit von etwa 10 Jahren haben. 
 
 ### KI:
 

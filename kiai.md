@@ -61,13 +61,11 @@ title: "Künstliche Intelligenz"
 
 ## Fake oder Wahrheit?
 
-
 <video src="{{ '/video/milch.mp4' | relative_url }}" controls width="100%"></video>
 
 ---
-    
-</div>
 
+</div>
 
 <div class="section one-column" markdown="1">
 

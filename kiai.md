@@ -65,6 +65,8 @@ title: "Künstliche Intelligenz"
 
 ---
 
+### Das ist natürlich ein Fake Video! Aber, wie einfach ist das den bitte? Ein Foto hochladen, ein Satz im Prompt schreiben, fertig!
+
 </div>
 
 <div class="section one-column" markdown="1">

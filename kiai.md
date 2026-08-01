@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Künstliche Inteligenz"
+title: "Künstliche Intelligenz"
 ---
 
 <div class="section one-column" markdown="1">

@@ -6,7 +6,7 @@ title: "Künstliche Inteligenz"
 <div class="section one-column" markdown="1">
 
 ---
-## Die große Angst vor künstlicher Inteligenz, und die Frage: Was ist Wahr und was ist Lüge!
+## Die große Angst vor künstlicher Intelligenz, und die Frage: Was ist Wahr und was ist Lüge!
 ---
 
 ![Gesellschaft 2063]({{ '/images/mischung.jpg' | relative_url }}){: width="100%"}
@@ -60,7 +60,7 @@ title: "Künstliche Inteligenz"
 
 **AI / KI ist ein sehr mächtiges Werkzeug! Vermutlich die wichtigste Entwicklung in diesem Jahrhundert.**
 
-**Wenn ich mir anschaue was künstliche Inteligenz Heute schon kann, ist die kommende KI Generation in 10 Jahren die gefährlichste Waffe auf diesem Planeten!**
+**Wenn ich mir anschaue was künstliche Intelligenz Heute schon kann, ist die kommende KI Generation in 10 Jahren die gefährlichste Waffe auf diesem Planeten!**
 
 Die Kontrolle dieses Werkzeugs darf nicht nur von wenigen, immer wirtschaftlich und / oder ideologisch orientierten Einzelunternehmen ausgehen!
 Die Kontrolle muss ein globales Kontrollorgan übernehmen. Keine Politiker, sondern Wissenschaftler, Philosophen, Künstler und andere Vertreter der Gesellschaft!
@@ -73,7 +73,7 @@ Und die (besser Reglementierte) Nutzung muss für alle Menschen frei zugänglich
 <div class="section one-column" markdown="1">
 
 ---
-## *Gespräch mit einer künstlichen Inteligenz!*
+## *Gespräch mit einer künstlichen Intelligenz!*
 
 ### Ich:
 >Wenn sich diese Technologie in diesem Tempo weiterentwickelt kann man von der wichtigsten Technologie in diesem Jarhundert sprechen. Stimmst du mir da zu?
@@ -515,9 +515,9 @@ dann wäre eine rein nationale oder rein wirtschaftliche Kontrolle wahrscheinlic
 ### Ich:
 
 >Ich denke für internationale Aufsicht ist es schon zu spät! Das hätte viel früher geschehen müssen. Ich habe diese enorme Entwiklung kommen sehen. Den Entscheidern
->fehlt aber offensichtlich dieser visionäre Blick! Meine Vision ist für mich klar zu erkennen. KI ist in wenigen Jahren das gefährlichste Werkzeug auf diesem
->Planeten. Und das werden sich deren Erschaffer nicht mehr aus der Hand nehmen lassen. Bisher dient KI hauptsächlich dem Geldverdienen, aber das wird sich noch
->grundlegend ändern.
+>fehlt aber offensichtlich dieser visionäre Blick in die Zukunft! Meine Vision ist für mich klar zu erkennen. KI ist in wenigen Jahren das gefährlichste Werkzeug
+>auf diesem Planeten. Und das werden sich deren Erschaffer nicht mehr aus der Hand nehmen lassen. Bisher dient KI hauptsächlich dem Geldverdienen, aber das wird
+>sich noch grundlegend ändern.
 
 ### KI:
 
@@ -705,7 +705,7 @@ Je intelligenter unsere Werkzeuge werden, desto wichtiger wird die Frage, wie wi
 <div class="section one-column" markdown="1">
 
 ---
-# Kann eine künstliche Inteligenz ein Bewusstsein entwickeln?
+# Kann eine künstliche Intelligenz ein Bewusstsein entwickeln?
 ---
     
 </div>
@@ -754,7 +754,7 @@ Bewusstsein ist die Fähigkeit eines Wesens, subjektive Erfahrungen zu machen, s
 
 ---
 
-## Sollten wir Angst vor künstlicher Inteligenz haben? 
+## Sollten wir Angst vor künstlicher Intelligenz haben? 
 
 **Ich denke nein!** Aber wir sollten Angst haben vor den Menschen die **KI missbrauchen!**
 

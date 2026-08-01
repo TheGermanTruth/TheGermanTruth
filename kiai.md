@@ -57,9 +57,12 @@ title: "Künstliche Intelligenz"
 
 <div class="section one-column" align="center" markdown="1">
 
+---
+
 ## Fake oder Wahrheit?
 
-<video src="/video/milch.mp4" controls width="80%"></video>
+
+<video src="/video/milch.mp4" controls width="100%" heigh=100%></video>
 
 ---
     

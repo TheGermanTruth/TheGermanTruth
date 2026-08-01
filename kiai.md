@@ -17,9 +17,11 @@ title: "Künstliche Intelligenz"
 
 <div class="two-columns" markdown="1">
 
+
 <div class="column" markdown="1">
 
 ---
+
 ## Diese Ängste kann man klar formulieren!
 
 1. Arbeitsplatzverlust
@@ -53,9 +55,21 @@ title: "Künstliche Intelligenz"
 
 </div>
 
+<div class="section one-column" align="center" markdown="1">
+
+## Fake oder Wahrheit?
+
+<video src="/video/milch.mp4" controls width="80%"></video>
+
+---
+    
+</div>
+
+
 <div class="section one-column" markdown="1">
 
 ---
+
 ## Meinung
 
 **AI / KI ist ein sehr mächtiges Werkzeug! Vermutlich die wichtigste Entwicklung in diesem Jahrhundert.**

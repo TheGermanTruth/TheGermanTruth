@@ -65,7 +65,7 @@ title: "Künstliche Intelligenz"
 
 ---
 
-### Das ist natürlich ein Fake Video! Aber, wie einfach ist das den bitte? Ein Foto hochladen, ein Satz im Prompt schreiben, fertig!
+### Das ist natürlich ein Fake Video! Aber, wie einfach ist das denn bitte? Ein Foto hochladen, ein Satz im Prompt schreiben, fertig!
 
 </div>
 

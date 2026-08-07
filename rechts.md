@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Rechts"
+title: "Verfassungswidrig, Rechtsextremistisch. Individuelle Freiheit vernichtet!"
 ---
 
 <div class="section one-column" markdown="1" align="center">

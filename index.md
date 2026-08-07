@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Perspektiven für die drängenden Fragen unserer Zeit"
 ---
 

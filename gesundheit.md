@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Gesundheitssystem"
+title: "Das deutsche Gesundheitssystem ist krank!"
 ---
 
 <div class="section one-column" markdown="1">

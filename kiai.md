@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Künstliche Intelligenz"
+title: "Sollten wir Angst vor künstlicher Intelligenz haben?"
 ---
 
 <div class="section one-column" markdown="1">

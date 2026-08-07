@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Die Co2 Lüge"
+title: "Klimawandel und Klimakrise. Die Co2 Lüge"
 ---
 
 <div class="section one-column" markdown="1">

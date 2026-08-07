@@ -9,7 +9,7 @@ description: "Unabhängige Analysen und kritische Essays zu Politik, Gesellschaf
 theme: null
 markdown: kramdown
 
-# remote_theme: jekyll/minima # Falls Sie ein Theme nutzen, ansonsten weglassen
+
 plugins:
   - jekyll-sitemap
 

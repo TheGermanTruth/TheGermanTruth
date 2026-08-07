@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Startseite"
+layout: post
+title: "Perspektiven für die drängenden Fragen unserer Zeit"
 ---
 
 ---

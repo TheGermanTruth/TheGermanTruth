@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Geld"
+title: "Überall versteckte Steuern!"
 ---
 
 <div class="section one-column" align="center" markdown="1">

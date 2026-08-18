@@ -20,6 +20,7 @@ title: "Perspektiven für die drängenden Fragen unserer Zeit"
 ### Perspektiven für die drängenden Fragen unserer Zeit
 
 >***Herzlich willkommen!***
+
 >**The German Truth ist das persönliche Projekt von Klaus Runge. Diese Webseite dient als unabhängige Plattform für fundierte
 >Gedanken, detaillierte Analysen und kritische Essays zu gesellschaftlichen, politischen und globalen Entwicklungen.**
 

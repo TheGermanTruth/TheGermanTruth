@@ -150,7 +150,7 @@ Bei fast allen Einkäufen greift der Staat **doppelt** zu: Über eine **spezifis
 
 1. **Energiesteuer:** Fix **65,45 Cent** pro Liter → **6,55 €**
 
-2. **Mehrwertsteuer (19 %):** Die Steuer wird auf den Bruttopreis zurückgerechnet (ca. 15,97 % des Endpreises) → **3,50 €**
+2. **Mehrwertsteuer (19 %):** Die Steuer wird auf den Bruttopreis zurück gerechnet (ca. 15,97 % des Endpreises) → **3,50 €**
        
 3. **CO₂-Abgabe (Anteil am Literpreis ca. 12-15 Cent):** Ein Teil fließt in staatliche Töpfe/Zertifikate → ca. **1,15 €**
        
@@ -193,4 +193,20 @@ Bei fast allen Einkäufen greift der Staat **doppelt** zu: Über eine **spezifis
 
 
 ---
+
 ---
+
+<br>&nbsp;
+<br>&nbsp;
+<br>&nbsp;
+
+---
+
+<div class="section one-column" align="center" markdown="1">
+
+### Der Staat bekommt also rund 50% unseres Einkommens. Für mein Empfinden ist das nicht in Ordnung! Wie siehst Du das?
+
+</div>
+
+
+

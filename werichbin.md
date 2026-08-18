@@ -68,8 +68,15 @@ Nutz- und Haustiere. Ich mag meine Aufgaben dort sehr, und freue mich über die 
 
 <div align="center">
 
+---
+
 Diese Webseiten sind rein privat. Sie dienen ausschließlich dem Zweck meine Gedanken zu teilen! Juli 2026.
 
+---
+
 </div>
 
 </div>
+
+---
+---

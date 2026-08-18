@@ -46,6 +46,10 @@ title: "Perspektiven für die drängenden Fragen unserer Zeit"
 ### Es geht auf dieser Seite nicht darum, einfache Antworten auf komplexe Probleme zu liefern, sondern die Realität so anzuerkennen, wie sie ist – und daraus
 ### durchdachte Schlüsse zu ziehen.
 
+<br>&nbsp;
+<br>&nbsp;
+<br>&nbsp;
+
 ---
 
 ### Nimm Dir die Zeit, meine Beiträge zu lesen. Ich hoffe, dass meine Analysen Dir neue Perspektiven eröffnen und einen Anstoß zur Reflexion bieten kann!
@@ -60,9 +64,8 @@ title: "Perspektiven für die drängenden Fragen unserer Zeit"
 
 <div class="section one-column" align="center" markdown="1">
    
-×º°”˜`”°º×juli 2026×º°”˜`”°º×
+×juli 2026×
 
-×º°”˜`”°º×Teile dieser Webseite sind KI generiert×º°”˜`”°º×
 
 ---
 

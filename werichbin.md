@@ -45,7 +45,7 @@ Ob Logik, Physik oder Kunst, Code oder Handwerk: Am Ende geht es mir immer darum
 Neues, Durchdachtes und Solides zu erschaffen oder zu verstehen.
 
 ---
-Heute bin ich Rentner. Ich arbeite, in Teilzeit, bei einem internationalen Pharma-Konzern am Empfang. Dieses Unternehmen entwickelt Medikamente und Impfstoffe für
+Heute bin ich Rentner. Ich arbeite, in Teilzeit, bei einem internationalen Pharma-Konzern. Dieses Unternehmen entwickelt Medikamente und Impfstoffe für
 Nutz- und Haustiere. Ich mag meine Aufgaben dort sehr, und freue mich über die vielen Kontakte zu anderen Menschen.
 
 ---

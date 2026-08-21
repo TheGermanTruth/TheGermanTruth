@@ -1,6 +1,5 @@
 ---
-layout: default
-title: "Datenschutzerklärung"
+permalink: /datenschutz.html
 ---
 
 

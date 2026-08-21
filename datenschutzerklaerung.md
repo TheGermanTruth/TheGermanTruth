@@ -58,4 +58,13 @@ Sie haben das Recht, Daten, die wir auf Grundlage Ihrer Einwilligung oder in Erf
 Auskunft, Berichtigung und Löschung
 Sie haben im Rahmen der geltenden gesetzlichen Bestimmungen jederzeit das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den Zweck der Datenverarbeitung und ggf. ein Recht auf Berichtigung oder Löschung dieser Daten. Hierzu sowie zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit unter der im Impressum angegebenen Adresse an uns wenden.
 Recht auf Einschränkung der Verarbeitung
-Sie können die Einschränkung der Verarbeitung Ihrer Daten verlangen, wenn Sie deren Richtigkeit bestreiten, die Verarbeitung unrechtmäßig ist, wir die Daten nicht mehr benötigen, Sie diese aber für Rechtsansprüche brauchen oder Widerspruch eingelegt haben. Kontaktieren Sie uns hierzu unter der im Impressum genannten Adresse
+Sie können die Einschränkung der Verarbeitung Ihrer Daten verlangen, wenn Sie deren Richtigkeit bestreiten, die Verarbeitung unrechtmäßig ist, wir die Daten nicht mehr benötigen, Sie diese aber für Rechtsansprüche brauchen oder Widerspruch eingelegt haben. Kontaktieren Sie uns hierzu unter der im Impressum genannten Adresse.
+
+
+
+---
+
+---
+
+
+

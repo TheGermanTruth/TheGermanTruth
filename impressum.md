@@ -10,9 +10,9 @@ title: "Impressum"
 
 Angaben gemäß § 5 DDG und § 18 MStV
 
-Klaus Runge
-Möwenstrasse 20
-26676 Barßel
+Klaus Runge<br>&nbsp;
+Möwenstrasse 20<br>&nbsp;
+26676 Barßel<br>&nbsp;
 
 
 Kontakt

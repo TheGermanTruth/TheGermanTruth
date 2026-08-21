@@ -1,0 +1,37 @@
+---
+layout: default
+title: "Impressum"
+---
+
+
+---
+
+### Impressum
+
+Angaben gemäß § 5 DDG und § 18 MStV
+
+Klaus Runge
+Möwenstrasse 20
+26676 Barßel
+
+
+Kontakt
+E-Mail: runge.post@outlook.de
+
+
+Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV
+
+Klaus Runge
+Möwenstrasse 20
+26676 Barßel
+
+---
+
+EU-Streitschlichtung
+Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: europa.eu.
+Unsere E-Mail-Adresse finden Sie oben im Impressum.
+Verbraucher­streit­beilegung/Universal­schlichtungs­stelle
+Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
+
+---
+

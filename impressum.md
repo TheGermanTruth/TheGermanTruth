@@ -21,9 +21,9 @@ E-Mail: runge.post@outlook.de
 
 Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV
 
-Klaus Runge
-Möwenstrasse 20
-26676 Barßel
+Klaus Runge <br>&nbsp;
+Möwenstrasse 20 <br>&nbsp;
+26676 Barßel <br>&nbsp;
 
 ---
 

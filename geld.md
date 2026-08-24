@@ -204,7 +204,7 @@ Bei fast allen Einkäufen greift der Staat **doppelt** zu: Über eine **spezifis
 
 <div class="section one-column" align="center" markdown="1">
 
-### Der Staat bekommt also rund 50% unseres Einkommens. Für mein Empfinden ist das nicht in Ordnung! Wie siehst Du das?
+### Der Staat bekommt also rund 50% unseres Einkommens. Ist das in Ordnung?
 
 </div>
 

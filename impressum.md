@@ -2,8 +2,10 @@
 permalink: /impressum.html
 ---
 
+<div class="section one-column" markdown="1">
 
 ---
+
 
 ### Impressum
 
@@ -33,4 +35,7 @@ Verbraucher­streit­beilegung/Universal­schlichtungs­stelle
 Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
 
 ---
+
+</div>
+
 

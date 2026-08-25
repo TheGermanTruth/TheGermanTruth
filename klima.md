@@ -138,6 +138,32 @@ enorme Fortschritte bei der Nutzung von Erneuerbaren Energien und der Festlegung
 ---
 ---
 
+</div>
+
+<div class="two-columns" markdown="1">
+
+<div class="column" markdown="1">
+
+---
+![Landschaft 1]({{ '/images/klima1.jpg' | relative_url }}){: .shadow-img width="100%"}
+---
+
+</div>
+    
+<div class="column" markdown="1">
+
+---
+![Landschaft 2]({{ '/images/klima2.jpg' | relative_url }}){: .shadow-img width="100%"}
+---
+    
+</div>
+
+</div>
+
+<div class="section one-column" markdown="1">
+
+---
+
 # Die Ziele der Bundesregierung
 Die Bundesregierung verfolgt das gesetzliche Ziel, die Treibhausgasemissionen in
 Deutschland bis 2030 um mindestens 65 % (gegenüber 1990) zu senken und bis 2045

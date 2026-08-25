@@ -112,7 +112,31 @@ Etwa 30 Prozent der Einwohner sind mindestens 60 Jahre alt.
 
 <div class="section one-column" markdown="1">
 
+---
 
+### Im CCPI bleiben die Plätze 1 bis 3 traditionell unbesetzt, da aktuell kein Land der Welt genug tut, um das 1,5-Grad-Ziel von Paris vollständig einzuhalten.
+### Dahinter führen folgende Staaten das Feld an:
+
+1. Dänemark: Gilt seit Jahren als weltweiter Spitzenreiter. Das Land profitiert von massivem Windkraftausbau, ambitionierten CO₂-Gesetzen und Plänen zur Besteuerung
+von Methanemissionen aus der Landwirtschaft.
+
+2. Großbritannien: Hat den Kohleausstieg in der Stromerzeugung extrem schnell vollzogen und setzt stark auf den Ausbau von Offshore-Windkraft.
+
+3. Niederlande & Luxemburg: Führen beim Ausbau der Solar- und Ladeinfrastruktur sowie im Bereich der urbanen Mobilität und Emissionseffizienz pro Kopf.
+
+4. Marokko & Chile: Zwei überraschende Spitzenreiter aus dem Globalen Süden. Marokko baut gigantische Solar- und Windparks (wie das Noor-Kraftwerk), während Chile
+enorme Fortschritte bei der Nutzung von Erneuerbaren Energien und der Festlegung von Netto-Null-Zielen macht.
+
+5. Skandinavien (Schweden, Norwegen): Führend bei der Elektrifizierung des Alltags (z. B. E-Mobilität in Norwegen) und bei der CO₂-Besteuerung.
+
+
+>## Fazit für die 1%-Debatte
+>
+>Kleine und mittlere Staaten wie Dänemark, Chile oder Großbritannien zeigen, dass Einzelstaaten als Technologie- und Politikpioniere Maßstäbe setzen können.
+>Allerdings entscheiden am Ende die Großemittenten (China, USA, EU, Indien) über den Erfolg des globalen Klimaschutzes.
+
+---
+---
 
 # Die Ziele der Bundesregierung
 Die Bundesregierung verfolgt das gesetzliche Ziel, die Treibhausgasemissionen in

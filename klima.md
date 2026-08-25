@@ -145,7 +145,13 @@ enorme Fortschritte bei der Nutzung von Erneuerbaren Energien und der Festlegung
 <div class="column" markdown="1">
 
 ---
+
+## Heute
+
+---
+
 ![Landschaft 1]({{ '/images/klima1.jpg' | relative_url }}){: .shadow-img width="100%"}
+
 ---
 
 </div>
@@ -153,7 +159,13 @@ enorme Fortschritte bei der Nutzung von Erneuerbaren Energien und der Festlegung
 <div class="column" markdown="1">
 
 ---
+
+## In 20 Jahren
+
+---
+
 ![Landschaft 2]({{ '/images/klima2.jpg' | relative_url }}){: .shadow-img width="100%"}
+
 ---
     
 </div>

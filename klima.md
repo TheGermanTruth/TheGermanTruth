@@ -46,13 +46,8 @@ Ausmaß der Gegenwart: Die Erwärmung der letzten Jahrzehnte hat nicht nur das N
 
 ## Kann 1% der Weltbevölkerung das Klima retten? 
 
-### Können
-
-### 83.500.000 Millionen Menschen.
-
-### die Verantwortung übernehmen für
-
-### 8.300.000.000 Milliarden Menschen?
+### Kann die Zukunft von 8,3 Milliarden Menschen davon abhängen, was 84 Millionen in Deutschland tun? Wie viel Klimalast kann ***ein einziges Prozent*** der
+Weltbevölkerung auf seinen Schultern tragen?
 
 </div>
 

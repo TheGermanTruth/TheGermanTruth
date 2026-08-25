@@ -45,6 +45,9 @@ Ob Logik, Physik oder Kunst, Code oder Handwerk: Am Ende geht es mir immer darum
 Neues, Durchdachtes und Solides zu erschaffen oder zu verstehen.
 
 ---
+### Eine große Neugier auf alles, was mir begegnet, begleitet mich schon immer wie ein innerer Kompass.
+---
+
 Heute bin ich Rentner. Ich arbeite, in Teilzeit, bei einem internationalen Pharma-Konzern. Dieses Unternehmen entwickelt Medikamente und Impfstoffe für
 Nutz- und Haustiere. Ich mag meine Aufgaben dort sehr, und freue mich über die vielen Kontakte zu anderen Menschen.
 

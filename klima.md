@@ -164,7 +164,7 @@ enorme Fortschritte bei der Nutzung von Erneuerbaren Energien und der Festlegung
 
 ---
 
-![Landschaft 2]({{ '/images/klima2.jpg' | relative_url }}){: .shadow-img width="100%"}
+[![Landschaft 2]({{ '/images/klima2.jpg' | relative_url }}){: .shadow-img width="100%"}]({{ '/images/klima2.jpg' | relative_url }}){: target="_blank" }
 
 ---
     

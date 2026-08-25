@@ -45,7 +45,7 @@ Ob Logik, Physik oder Kunst, Code oder Handwerk: Am Ende geht es mir immer darum
 Neues, Durchdachtes und Solides zu erschaffen oder zu verstehen.
 
 ---
-### Eine große Neugier auf alles, was mir begegnet, begleitet mich schon immer wie ein innerer Kompass.
+### Die Neugier auf alles, was mir begegnet, ist mein Motor!
 ---
 
 Heute bin ich Rentner. Ich arbeite, in Teilzeit, bei einem internationalen Pharma-Konzern. Dieses Unternehmen entwickelt Medikamente und Impfstoffe für

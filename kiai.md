@@ -155,16 +155,12 @@ finanziell und politisch.
 Durchsetzung von Recht verlagert sich auf langwierige Prozesse gegen Konzerne, statt direkt am Verursacher anzusetzen.
 
 ---
----
 
 ## Wenn Ethik und Anstand nicht mehr als Grenze ausreichen, bleibt als einziges Mittel die technische und rechtliche Unmöglichkeit des anonymen Missbrauchs. Solange Akteure und Trolle sich hinter der Anonymität verstecken können und Plattformen für das Verbreiten von Fälschungen nicht sofort persönlich haften, bleibt der Vorteil bei den Regelbrechern.
 
 ---
----
 
 </div>
-
----
 
 <div class="section one-column" markdown="1">
 

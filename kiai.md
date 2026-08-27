@@ -6,7 +6,7 @@ title: "Sollten wir Angst vor künstlicher Intelligenz haben?"
 <div class="section one-column" markdown="1">
 
 ---
-## Die große Angst vor künstlicher Intelligenz, und die Frage: Was ist Wahr und was ist Lüge!
+## Die Angst vor künstlicher Intelligenz, und die dringende Frage: Was ist Wahrheit, was ist Lüge!
 ---
 
 ![Gesellschaft 2063]({{ '/images/mischung.jpg' | relative_url }}){: width="100%"}

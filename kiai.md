@@ -133,10 +133,12 @@ die nächste KI-Generation genau so trainiert, dass sie diesen Test besteht.
 
 ## Es muss die digitale Öffentlichkeit der physischen Öffentlichkeit gleichgestellt werden!
 
->Wenn Sie auf dem Marktplatz Flugblätter verteilen, Verleumdung betreiben oder Sachbeschädigung begehen,
->kann die Polizei Ihre Identität feststellen.
->Dass im Netz Milliarden von Inhalten ohne jede Feststellbarkeit der Urheber verbreitet werden können,
->ist historisch eine Ausnahme.
+---
+
+### Wenn Sie auf dem Marktplatz Flugblätter verteilen, Verleumdung betreiben oder Sachbeschädigung begehen,
+### kann die Polizei Ihre Identität feststellen.
+### Dass im Netz Milliarden von Inhalten ohne jede Feststellbarkeit der Urheber verbreitet werden können,
+### ist historisch eine Ausnahme.
 
 ---
 
@@ -145,9 +147,11 @@ die nächste KI-Generation genau so trainiert, dass sie diesen Test besteht.
 
 1. Asymmetrie der Aufmerksamkeitsökonomie: Ein gefälschtes, hochemotionales KI-Video erzielt in wenigen Stunden Millionen Aufrufe. Ein gerichtliches Verbot oder ein
 Faktencheck kommt Tage später und erreicht nur einen Bruchteil dieser Menschen.
-2. Das Kalkül der Belohnung: Solange die Reichweiten-Algorithmen der Plattformen auf maximale Resonanz und Aufregung optimiert sind, lohnt sich Regelbruch
+
+3. Das Kalkül der Belohnung: Solange die Reichweiten-Algorithmen der Plattformen auf maximale Resonanz und Aufregung optimiert sind, lohnt sich Regelbruch
 finanziell und politisch.
-3. Plattformen als Profiteure: Unternehmen wie ByteDance (TikTok), Meta oder X (Twitter) verdienen an der Interaktion, die durch Polarisierung entsteht. Die
+
+5. Plattformen als Profiteure: Unternehmen wie ByteDance (TikTok), Meta oder X (Twitter) verdienen an der Interaktion, die durch Polarisierung entsteht. Die
 Durchsetzung von Recht verlagert sich auf langwierige Prozesse gegen Konzerne, statt direkt am Verursacher anzusetzen.
 
 ---

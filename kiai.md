@@ -91,6 +91,7 @@ Und die (besser Reglementierte) Nutzung muss für alle Menschen frei zugänglich
 
 ---
 ### Dialog mit einer KI
+[Dialog öffnen](/TheGermanTruth/gespraech){: target="_blank" }
 ---
 
 </div>

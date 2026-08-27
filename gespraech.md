@@ -3,19 +3,25 @@ layout: default
 title: "Dialog mit künstlicher Intelligenz!"
 ---
 
-<br>&nbsp;
-<br>&nbsp;
+
 
 
 <div class="section one-column" markdown="1">
 
----
-
-[![Dialog]({{ '/images/quatschen.jpg' | relative_url }}){: .shadow-img width="100%"}]({{ '/images/quatschen.jpg' | relative_url }}){: target="_blank" }
+<br>&nbsp;
+<br>&nbsp;
 
 ---
 
 ## *Dialog mit einer künstlichen Intelligenz!*
+
+---
+
+[![Dialog]({{ '/images/quatschen.jpg' | relative_url }}){: .shadow-img width="60%"}]({{ '/images/quatschen.jpg' | relative_url }}){: target="_blank" }
+
+---
+
+
 
 ### Ich:
 >Wenn sich die KI Technologie in diesem Tempo weiterentwickelt, kann man von der wichtigsten Entwicklung in diesem Jahrhundert sprechen. Stimmst du mir da zu?

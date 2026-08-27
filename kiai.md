@@ -135,8 +135,8 @@ die nächste KI-Generation genau so trainiert, dass sie diesen Test besteht.
 
 ---
 
-### Wenn Sie auf dem Marktplatz Flugblätter verteilen, Verleumdung betreiben oder Sachbeschädigung begehen,
-### kann die Polizei Ihre Identität feststellen.
+### Wenn Du in der Stadt Flugblätter verteilst, deinen Nachbarn verleumdest oder irgendwo Sachbeschädigung begehst,
+### kann die Polizei deine Identität feststellen.
 ### Dass im Netz Milliarden von Inhalten ohne jede Feststellbarkeit der Urheber verbreitet werden können,
 ### ist historisch eine Ausnahme.
 
@@ -157,9 +157,11 @@ Durchsetzung von Recht verlagert sich auf langwierige Prozesse gegen Konzerne, s
 ---
 ---
 
->### Wenn Ethik und Anstand nicht mehr als Grenze ausreichen, bleibt als einziges Mittel die technische und rechtliche Unmöglichkeit des anonymen Missbrauchs.
->### Solange Akteure und Trolle sich hinter der Anonymität verstecken können und Plattformen für das Verbreiten von Fälschungen nicht sofort persönlich haften, 
->### bleibt der Vorteil bei den Regelbrechern.
+## Wenn Ethik und Anstand nicht mehr als Grenze ausreichen, bleibt als einziges Mittel die technische und rechtliche Unmöglichkeit des anonymen Missbrauchs.
+
+## Solange Akteure und Trolle sich hinter der Anonymität verstecken können und Plattformen für das Verbreiten von Fälschungen nicht sofort persönlich haften,
+
+## bleibt der Vorteil bei den Regelbrechern.
 
 ---
 ---

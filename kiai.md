@@ -116,11 +116,12 @@ die nächste KI-Generation genau so trainiert, dass sie diesen Test besteht.
 
 ---
 
-> ### Meine Untersuchung zeigt mir glasklar das eine Problem!
-> Und das nicht erst seit KI / AI, sondern schon viel länger.
-> Und das Problem hat einen Namen:
 >
->### Anonymität!
+> ### Meine Analyse bringt das Kernproblem glasklar auf den Punkt.
+> ### Und nein, das ist keine Folge der aktuellen KI-Welle, sondern eine Altlast:
+> ### Und das Problem hat einen Namen:
+> ## Anonymität!
+>
 
 ---
 

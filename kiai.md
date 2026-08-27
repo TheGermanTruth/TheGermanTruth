@@ -90,8 +90,8 @@ Und die (besser Reglementierte) Nutzung muss für alle Menschen frei zugänglich
 <div class="section one-column" markdown="1">
 
 ---
-### Dialog mit einer KI
-[Dialog öffnen](/TheGermanTruth/gespraech){: target="_blank" }
+### Dialog mit einer KI über KI!
+[Dialog in neuem Tab öffnen](/TheGermanTruth/gespraech){: target="_blank" }
 ---
 
 </div>

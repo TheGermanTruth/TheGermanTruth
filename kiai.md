@@ -144,7 +144,9 @@ die nächste KI-Generation genau so trainiert, dass sie diesen Test besteht.
 <div class="column" markdown="1">
 
 ---
-[![Maskierte Personen]({{ '/images/maskiert.jpg' | relative_url }}){: .shadow-img width="50%"}]({{ '/images/maskiert.jpg' | relative_url }}){: target="_blank" }
+
+[![Maskierte Personen]({{ '/images/maskiert.jpg' | relative_url }}){: .shadow-img width="100%"}]({{ '/images/maskiert.jpg' | relative_url }}){: target="_blank" }
+
 ---
 
 </div>
@@ -152,10 +154,14 @@ die nächste KI-Generation genau so trainiert, dass sie diesen Test besteht.
 <div class="column" markdown="1">
 
 ---
-[![Gruppe Personen]({{ '/images/personen.jpg' | relative_url }}){: .shadow-img width="50%"}]({{ '/images/personen.jpg' | relative_url }}){: target="_blank" }
+
+[![Gruppe Personen]({{ '/images/personen.jpg' | relative_url }}){: .shadow-img width="100%"}]({{ '/images/personen.jpg' | relative_url }}){: target="_blank" }
+
 ---
     
 </div>
+
+---
 
 </div>
 

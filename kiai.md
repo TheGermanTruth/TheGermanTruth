@@ -130,10 +130,36 @@ die nächste KI-Generation genau so trainiert, dass sie diesen Test besteht.
 ### der Falschinformationen und Missbrauch überhaupt erst massentauglich und gefahrlos macht.
 
 ---
+---
 
 ## Es muss die digitale Öffentlichkeit der physischen Öffentlichkeit gleichgestellt werden!
 
 ---
+---
+
+</div>
+
+<div class="two-columns" align="center" markdown="1">
+
+<div class="column" markdown="1">
+
+---
+[![Maskierte Personen]({{ '/images/maskiert.jpg' | relative_url }}){: .shadow-img width="50%"}]({{ '/images/maskiert.jpg' | relative_url }}){: target="_blank" }
+---
+
+</div>
+    
+<div class="column" markdown="1">
+
+---
+[![Gruppe Personen]({{ '/images/personen.jpg' | relative_url }}){: .shadow-img width="50%"}]({{ '/images/personen.jpg' | relative_url }}){: target="_blank" }
+---
+    
+</div>
+
+</div>
+
+<div class="section one-column" markdown="1">
 
 ### Wenn Du in der Stadt Flugblätter verteilst, deinen Nachbarn verleumdest oder irgendwo Sachbeschädigung begehst,
 ### kann die Polizei deine Identität feststellen.

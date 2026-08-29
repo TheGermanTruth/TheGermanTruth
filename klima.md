@@ -114,6 +114,10 @@ Etwa 30 Prozent der Einwohner sind mindestens 60 Jahre alt.
 
 ---
 
+## Das 1,5-Grad-Ziel
+
+---
+
 ### Im CCPI bleiben die Plätze 1 bis 3 traditionell unbesetzt, da aktuell kein Land der Welt genug tut, um das 1,5-Grad-Ziel von Paris vollständig einzuhalten.
 ### Dahinter führen folgende Staaten das Feld an:
 
@@ -129,11 +133,13 @@ enorme Fortschritte bei der Nutzung von Erneuerbaren Energien und der Festlegung
 
 5. Skandinavien (Schweden, Norwegen): Führend bei der Elektrifizierung des Alltags (z. B. E-Mobilität in Norwegen) und bei der CO₂-Besteuerung.
 
+---
 
 >## Fazit für die 1%-Debatte
 >
->Kleine und mittlere Staaten wie Dänemark, Chile oder Großbritannien zeigen, dass Einzelstaaten als Technologie- und Politikpioniere Maßstäbe setzen können.
->Allerdings entscheiden am Ende die Großemittenten (China, USA, EU, Indien) über den Erfolg des globalen Klimaschutzes.
+> ### Kleine und mittlere Staaten wie Dänemark, Chile oder Großbritannien zeigen, dass Einzelstaaten als Technologie- und Politikpioniere Maßstäbe setzen können.
+> ### Allerdings entscheiden am Ende die Großemittenten (China, USA, EU, Indien) über den Erfolg des globalen Klimaschutzes.
+>
 
 ---
 ---

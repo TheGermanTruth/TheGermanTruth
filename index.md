@@ -7,7 +7,7 @@ title: "Perspektiven für die drängenden Fragen unserer Zeit"
 
 <div class="section one-column" align="center" markdown="1">
    
-![LOGO]({{ '/images/logo.jpg' | relative_url }}){: .shadow-img width="50%"}
+
 
 </div>
 

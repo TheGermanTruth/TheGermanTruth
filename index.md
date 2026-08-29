@@ -31,7 +31,7 @@ title: "Perspektiven für die drängenden Fragen unserer Zeit"
 >dazugehörigen Webseite setze ich mich kritisch, sachlich und differenziert mit den Herausforderungen unserer Gegenwart auseinander.**
 
 ---
-![Inhalt]({{ '/images/inhalt.jpg' | relative_url }}){: .shadow-img width="100%"}
+![Inhalt]({{ '/images/inhalt.png' | relative_url }}){: .shadow-img width="100%"}
 ---
 
 ## Die inhaltlichen Schwerpunkte umfassen:

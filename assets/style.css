@@ -9,7 +9,7 @@ body {
 
 /* ===== Menü ===== */
 nav {
-  background-color: #2c3e50; /* Dunkles Blau-Grau */
+  background-color: #211c15; /* Dunkles Braun */
   padding: 20px;
   text-align: center;
   position: sticky;
@@ -25,7 +25,7 @@ nav a {
 }
 
 nav a:hover {
-  color: #1abc9c; /* Türkis-Akzent beim Hover */
+  color: #cca239; /* Türkis-Akzent beim Hover */
 }
 
 /* ===== Banner ===== */
@@ -62,13 +62,13 @@ nav a:hover {
 
 /* ===== Überschriften ===== */
 h1, h2, h3 {
-  color: #2c3e50; /* Gleiche Farbe wie Menü für Konsistenz */
+  color: #211c15; /* Gleiche Farbe wie Menü für Konsistenz */
   margin-top: 0;
 }
 
 /* ===== Links im Text ===== */
 .section a {
-  color: #1abc9c; /* Türkis-Akzent */
+  color: #471fa3; /* Türkis-Akzent */
   text-decoration: none;
 }
 

@@ -3,11 +3,17 @@ layout: default
 title: "Klimawandel und Klimakrise. Die Co2 Lüge"
 ---
 
-<div class="section one-column" markdown="1">
+<div class="section one-column" align="center" markdown="1">
 
 ---
 
 # Klimawandel und Klimakrise
+
+---
+
+</div>
+
+<div class="section one-column" markdown="1">
 
 **Die Wesentliche Erkenntnisse!**
 

@@ -6,14 +6,25 @@ title: "Überall versteckte Steuern!"
 <div class="section one-column" align="center" markdown="1">
 
 ---
-### Wohin verschwindet eigentlich das verdammte Geld?
+
+# Wohin verschwindet eigentlich das verdammte Geld?
+
 ---
+
+<br>&nbsp;
+<br>&nbsp;
 
 ![STEUERN]({{ '/images/steuern.png' | relative_url }}){: .shadow-img width="100%"}
-    
-</div>
 
 ---
+
+</div>
+
+<div class="section one-column" align="center" markdown="1">
+
+## Der Staat bekommt rund 50% unseres Einkommens. Der Bürger immer weniger!
+
+</div>
 
 <div class="section one-column" markdown="1">
 
@@ -202,11 +213,7 @@ Bei fast allen Einkäufen greift der Staat **doppelt** zu: Über eine **spezifis
 
 ---
 
-<div class="section one-column" align="center" markdown="1">
 
-### Der Staat bekommt also rund 50% unseres Einkommens. Ist das in Ordnung?
-
-</div>
 
 
 

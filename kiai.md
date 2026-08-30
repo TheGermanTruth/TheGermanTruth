@@ -3,10 +3,12 @@ layout: default
 title: "Sollten wir Angst vor künstlicher Intelligenz haben?"
 ---
 
-<div class="section one-column" markdown="1">
+<div class="section one-column" align="center" markdown="1">
 
 ---
-## Die Angst vor künstlicher Intelligenz, und die dringende Frage: Was ist Wahrheit, was ist Lüge!
+
+# Die Angst vor künstlicher Intelligenz, und die dringende Frage: Was ist Wahrheit?
+
 ---
 
 ![Gesellschaft 2063]({{ '/images/mischung.jpg' | relative_url }}){: width="100%"}

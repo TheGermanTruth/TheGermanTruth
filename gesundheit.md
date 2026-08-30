@@ -3,11 +3,14 @@ layout: default
 title: "Das deutsche Gesundheitssystem ist krank!"
 ---
 
-<div class="section one-column" markdown="1">
+<div class="section one-column" align="center" markdown="1">
 
 ---
+
 # Sozialstaat? Sozialabgaben? Krankenversicherung? Zwangsabgaben? Armut?
+
 ---
+
 **In der Rechtswissenschaft und Volkswirtschaftslehre fallen unter den Begriff "Zwangsabgaben" neben Beiträgen auch Steuern und Sozialabgaben, die der Staat
 seinen Bürgern gesetzlich auferlegt.**
 
@@ -21,7 +24,7 @@ seinen Bürgern gesetzlich auferlegt.**
 
 <div class="column" markdown="1">
 
-# Das deutsche Gesundheitssystem ist krank!
+## Das deutsche Gesundheitssystem ist krank!
 
 <br>&nbsp;
 <br>&nbsp;
@@ -38,7 +41,7 @@ Kosten gesenkt werden müssen, drohen Zuzahlungen oder Beitragserhöhungen.
 
 <div class="column" markdown="1">
   
-# Ist Gesundheit eine Frage Deiner Geldbörse?
+## Dein Einkommen bestimmt deine Gesundheit!
   
 ![Gesundheits Geld]({{ '/images/unbezahlbar.png' | relative_url }}){: width="100%"}
 

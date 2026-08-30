@@ -7,9 +7,12 @@ title: "Verfassungswidrig, Rechtsextremistisch. Individuelle Freiheit vernichtet
 
 ---
 
-### Ethnopluralismus ● Schuldkult ● Umvolkung ● Systempresse ● Deutschland den Deutschen ● Alles für Deutschland ● Blut und Boden ● Meine Ehre heißt Treue ● White Power
+# Ethnopluralismus ● Schuldkult ● Umvolkung ● Systempresse ● Deutschland den Deutschen ● Alles für Deutschland ● Blut und Boden ● Meine Ehre heißt Treue ● White Power
 
 ---
+
+<br>&nbsp;
+<br>&nbsp;
 
 ---
 
@@ -20,7 +23,9 @@ title: "Verfassungswidrig, Rechtsextremistisch. Individuelle Freiheit vernichtet
 <div class="section one-column" markdown="1">
 
 ---
-### Ich frage mich, warum eine Vereinigung menschenverachtender Personen wie die AFD, auf Bundes- und Landesebene an der Gestaltung dieses Landes mitwirken darf.
+
+## Warum darf eine Gruppe menschenverachtender Personen wie die AFD, auf Bundes- und Landesebene an der Gestaltung dieses Landes mitwirken.
+
 ---
     
 </div>

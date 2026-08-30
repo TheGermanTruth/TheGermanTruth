@@ -11,11 +11,16 @@ title: "Sollten wir Angst vor künstlicher Intelligenz haben?"
 
 ---
 
+<br>&nbsp;
+<br>&nbsp;
+
+
 ![Gesellschaft 2063]({{ '/images/mischung.jpg' | relative_url }}){: width="100%"}
+
+---
     
 </div>
 
----
 
 <div class="two-columns" markdown="1">
 

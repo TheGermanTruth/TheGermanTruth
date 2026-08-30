@@ -3,15 +3,15 @@ layout: default
 title: "Perspektiven für die drängenden Fragen unserer Zeit"
 ---
 
----
-
 <div class="section one-column" align="center" markdown="1">
+
+---
    
 # Willkommen bei The German Truth
 
-</div>
-
 ---
+
+</div>
 
 <div class="section one-column" markdown="1">
 

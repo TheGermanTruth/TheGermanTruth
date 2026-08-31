@@ -171,6 +171,20 @@ Die Komplikations- und Sterberaten sind in Kliniken mit geringen Fallzahlen deut
 
 </div>
 
+<div class="section one-column" align="center" markdown="1">
+
+---
+
+## Rund 1.600 Krankenhäuser - Rund 400.000 Pflegerinnen und Pfleger - Etwa 17.000.000 Behandlungsfälle
+
+---
+   
+[![Krankenhhaus]({{ '/images/anzahl.png' | relative_url }}){: .shadow-img width="100%"}]({{ '/images/anzahl.png' | relative_url }}){: target="_blank" }
+
+---
+
+</div>
+
 <div class="section one-column" markdown="1">
 
 ---

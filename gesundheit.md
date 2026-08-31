@@ -183,6 +183,10 @@ Die Komplikations- und Sterberaten sind in Kliniken mit geringen Fallzahlen deut
 
 ---
 
+</div>
+
+<div class="section one-column" markdown="1">
+
 ## Diese hohe Anzahl an Kliniken muss und kann reduziert werden!
 <br>&nbsp;
 Nach Eingang des Notrufs soll das erste Rettungsmittel (RTW) in der Regel innerhalb von 10 bis 15 Minuten an der Einsatzstelle eintreffen.<br>&nbsp;

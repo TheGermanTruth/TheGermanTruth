@@ -193,7 +193,7 @@ Nach Eingang des Notrufs soll das erste Rettungsmittel (RTW) in der Regel innerh
 Die Länder schreiben vor, dass diese Frist in mindestens 90 bis 95 % aller Fälle im Jahresdurchschnitt eingehalten werden muss.<br>&nbsp;
 Innerhalb von maximal 60 Minuten nach dem Unfallgeschehen sollte der Patient im Schockraum einer geeigneten Zielklinik (Traumazentrum) übergeben werden.<br>&nbsp;
 
-### Um das Ziel zu erreichen, dass fast jeder Bürger innerhalb von 30 Pkw-Minuten ein Krankenhaus mit Basisversorgung erreicht, benötigt man rein mathematisch und geografisch deutlich weniger als 1.000 Standorte — Experten schätzen ein flächendeckendes Netz auf etwa 600 bis 800 gut verteilte Kliniken.
+### Um das Ziel zu erreichen, dass jeder Bürger innerhalb von 30 Pkw-Minuten ein Krankenhaus mit Basisversorgung erreicht, benötigt man rein mathematisch und geografisch deutlich weniger als 1.000 Standorte — Experten schätzen ein flächendeckendes Netz auf etwa 600 bis 800 gut verteilte Kliniken.
 
 ## Warum reichen 600 bis 800 Kliniken für die Zeitvorgaben aus?
 
@@ -203,10 +203,16 @@ Laut Untersuchungen des AOK-Bundesverbands und des Leopoldina-Gutachtens erreich
 2. Die ungleiche Verteilung der Standorte:
 Sehr viele der 1.600 bis 1.700 Kliniken stehen dicht gedrängt in Ballungsräumen (z. B. im Ruhrgebiet, in Berlin oder im Rhein-Main-Gebiet). Dort liegen oft 5 bis 10 Häuser nur wenige Fahrminuten auseinander. Reduziert man dort Standorte, verändert sich die Anfahrtszeit für die Anwohner kaum (sie steigt z. B. von 6 auf 12 Minuten).
 
-3.Optimierung der Rettungskette (Notfallrettung):
+3. Optimierung der Rettungskette (Notfallrettung):
 Für die ersten 10 bis 15 Minuten (Hilfsfrist) ist ohnehin nicht die Klinik zuständig, sondern die Rettungsstation/Rettungswache, wo die Rettungswagen (RTW) und Notärzte stationiert sind. Diese Stationen sind dezentral verteilt und unabhängig von Klinikgebäuden.
 
 ## Fazit: Um die medizinischen Zeitvorgaben (Hilfsfrist vor Ort & Golden Hour) einzuhalten, bräuchte Deutschland nur etwa die Hälfte der derzeitigen Krankenhausstandorte. Voraussetzung ist allerdings, dass die verbleibenden 600 bis 800 Kliniken personell und technisch rund um die Uhr voll ausgestattet sind.
+
+---
+
+# Rund 1.600 Krankenhäuser - Rund 400.000 Pflegerinnen und Pfleger das bedeutet ca. 250 Pflegerinnen und Pfleger pro Krankenhaus. Bei nur ca. 700 Kliniken währen das Rund 570 Pflegerinnen und Pfleger pro Krankenhaus. Die schlechte Versorgung der Patienten hätte ein Ende!
+
+---
 
 </div>
 

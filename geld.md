@@ -48,6 +48,8 @@ title: "Überall versteckte Steuern!"
 ### Gesamte Lebenshaltungskosten (Obere Hälfte: Platz 8 bis 10 in der EU)
 
 ---
+## Die Europäische Union (EU) hat aktuell 27 Mitgliedstaaten. Deutschland zählt zu den teuersten Ländern Europas. ***Warum?***
+## Was machen andere EU Länder besser? Was macht Deutschland falsch?
 ---
 
 ---

@@ -22,11 +22,33 @@ title: "Überall versteckte Steuern!"
 
 <div class="section one-column" align="center" markdown="1">
 
-## Der Staat bekommt rund 50% unseres Einkommens. Der Bürger immer weniger!
+## Der Staat nimmt sich rund 50% unseres Einkommens.
 
 </div>
 
 <div class="section one-column" markdown="1">
+
+---
+## Ein Beispiel:
+
+### Der Strompreis, ~60 % bestehen aus Steuern, Umlagen und den staatlich festgesetzten Netzgebühren.
+
+### Der Benzinpreis, ~52 % bis ~62 % bestehen aus Steuern, Umlagen und CO₂-Preis + Treibhausgasminderungsquote.
+
+### Der Gaspreis, ~48 % bis 52 % bestehen aus Erdgassteuer + Konzession, CO₂-Preis + regulierte Gasnetzentgelte.
+
+## EU-Vergleich
+
+### Strom (Spitzenfeld: Platz 1 bis 2)
+
+### Benzin & Diesel (Oberes Drittel: Platz 3 bis 6)
+
+### Erdgas (Solides Mittelfeld: Platz 9 bis 16)
+
+### Gesamte Lebenshaltungskosten (Obere Hälfte: Platz 8 bis 10 in der EU)
+
+---
+---
 
 ---
 ### Wohin das Geld im Alltag fliesst.

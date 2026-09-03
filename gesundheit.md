@@ -210,7 +210,9 @@ Für die ersten 10 bis 15 Minuten (Hilfsfrist) ist ohnehin nicht die Klinik zust
 
 ---
 
-# Rund 1.600 Krankenhäuser - Rund 400.000 Pflegerinnen und Pfleger das bedeutet ca. 250 Pflegerinnen und Pfleger pro Krankenhaus. Bei nur ca. 700 Kliniken währen das Rund 570 Pflegerinnen und Pfleger pro Krankenhaus. Die schlechte Versorgung der Patienten hätte ein Ende!
+# Aktuell teilen sich rund 400.000 Pflegerinnen und Pfleger auf etwa 1.600 Krankenhäuser in Deutschland auf. Das bedeutet im Schnitt gerade einmal 250 Pflegekräfte pro Klinik. Reduzieren wir die Anzahl der Kliniken auf rund 700, sieht die Welt ganz anders aus: Plötzlich sprechen wir von rund 570 Pflegerinnen und Pflegern pro Krankenhaus! 
+
+# Damit würde der chronische Fachkräftemange enden – und die Patientinnen und Patienten bekämen wieder die erstklassige Versorgung, die sie verdienen.
 
 ---
 

@@ -213,10 +213,9 @@ Bundesregierung, den juristischen Weg vor dem Bundesverfassungsgericht einzuleit
 
 ---
 
-**Wollen wir wirklich eine extremistische, antidemokratische und autoritäre Form der Politik, die auf der Idee beruht, dass das Wohl einer als überlegen
-angesehenen Nation oder „Rasse“ über allem steht?** 
+## Wollen wir eine extremistische, antidemokratische und autoritäre Form der Politik, die auf der Idee beruht, dass das Wohl einer als überlegen angesehenen Nation oder „Rasse“ über allem steht? 
 
-**Individuelle Freiheit, Menschenrechte oder die Vielfalt einer offenen Gesellschaft werden dafür komplett untergeordnet oder vernichtet.**
+## Individuelle Freiheit, Menschenrechte oder die Vielfalt einer offenen Gesellschaft werden dafür komplett untergeordnet oder vernichtet.**
 
 ---
 
@@ -226,29 +225,34 @@ angesehenen Nation oder „Rasse“ über allem steht?**
 
 ---
 
-***Stell Dir selbst die Fragen:*** 
 
-### Willst Du das wirklich?
+### Willst Du das?
 
 **Willst Du einen Führerkult & eine Diktatur?**
->Absoluter Gehorsam, Du hast keine Stimme mehr, Kontrollinstanzen werden ausßer Kraft gesetzt.
+>Absoluter Gehorsam, Du hast keine Stimme mehr, Kontrollinstanzen werden außer Kraft gesetzt.
 
 **Willst Du Radikalen Nationalismus / Ultranationalismus?**
->Menschenrechte brauchst Du nicht? Du stellst dich selbst über andere Völker? Recherchier einmal wo Deine Wurzeln sind!
+>Menschenrechte brauchst Du nicht? Du stellst dich selbst über andere Völker? Dann wirf erst mal einen Blick auf deinen eigenen Stammbaum!
 
 **Willst Du Feindbilder & Sündenböcke?**
->Was wenn Du plötzlich selbst ins Visier deiner "Götter" gerätst? Wie schnell das geht hat die Geschichte uns gelehrt.
+>Was wenn Du plötzlich selbst ins Visier deiner "Götter" gerätst? Die Geschichte zeigt: Die Geister, die du heute rufst, fressen morgen vielleicht dich selbst.
 
 **Willst Du Ablehnung von Demokratie & Pluralismus?**
->In der Demokratie kannst Du dein Land mitgestalten, auch wenn sich das manchmal anders anfühlt. In der Diktatur hat Du nichts zu melden!
+>In der Demokratie kannst Du dein Land mitgestalten. In der Diktatur hat Du nichts zu melden!
 
 **Willst Du Verherrlichung von Gewalt und Militär?**
->Du hast noch keinen Krieg erlebt! Mach doch die Augen auf! Du stirbst, denn Du bist für Niemanden von Bedeutung!
+>Du hast noch keinen Krieg erlebt! Mach die Augen auf: Auf dem Schlachtfeld stirbst du keinen Heldentod. Du stirbst einsam und völlig bedeutungslos für die, die dich dorthin geschickt haben.
 
 **Willst Du ein Anti-Gleichheits-Prinzip?**
->Artikel 3 Grundgesetz: „Alle Menschen sind vor dem Gesetz gleich“! Willst Du nicht genauso behandelt werden wie alle anderen Menschen? 
+>Artikel 3 Grundgesetz: „Alle Menschen sind vor dem Gesetz gleich“! Wenn dieses Prinzip fällt, bist auch du der Willkür der anderen schutzlos ausgeliefert. 
 
 ---
+---
+
+<br>&nbsp;
+
+## Radikale Ideologien leben von einer Illusion: Sie versprechen dir, dass du zu den Gewinnern gehören wirst. Doch die Geschichte zeigt uns die ungeschminkte Wahrheit: Systeme, die auf Sündenböcken, Militarisierung und Ungleichheit basieren, fressen irgendwann ihre eigenen Kinder. Am Ende bist auch du für sie ersetzbar. **Schütze die Demokratie und die Menschenrechte – denn sie sind am Ende der einzige Schutz, den du selbst hast.**
+
 ---
 
 <br>&nbsp;

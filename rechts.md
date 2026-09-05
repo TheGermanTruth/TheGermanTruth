@@ -215,7 +215,7 @@ Bundesregierung, den juristischen Weg vor dem Bundesverfassungsgericht einzuleit
 
 ## Wollen wir eine extremistische, antidemokratische und autoritäre Form der Politik, die auf der Idee beruht, dass das Wohl einer als überlegen angesehenen Nation oder „Rasse“ über allem steht? 
 
-## Individuelle Freiheit, Menschenrechte oder die Vielfalt einer offenen Gesellschaft werden dafür komplett untergeordnet oder vernichtet.**
+## Individuelle Freiheit, Menschenrechte oder die Vielfalt einer offenen Gesellschaft werden dafür komplett untergeordnet oder vernichtet.
 
 ---
 
@@ -248,7 +248,7 @@ Bundesregierung, den juristischen Weg vor dem Bundesverfassungsgericht einzuleit
 
 ---
 
-### „74 % der Weltbevölkerung leben heute in Autokratien oder Diktaturen. Aber wer hat die höchste Lebensqualität? Die Daten zeigen glasklar: Die glücklichsten, sichersten und wohlhabendsten Gesellschaften der Erde liegen allesamt in jenen mageren 26 %, die ihre Freiheit und Demokratie verteidigen. Wer die Demokratie abschafft, verliert nicht nur seine Stimme – er verliert langfristig auch seine Lebensqualität und seinen Wohlstand.“
+### 74 % der Weltbevölkerung leben heute in Autokratien oder Diktaturen. Aber wer hat die höchste Lebensqualität? Die Daten zeigen glasklar: Die glücklichsten, sichersten und wohlhabendsten Gesellschaften der Erde liegen allesamt in jenen mageren 26 %, die ihre Freiheit und Demokratie verteidigen. Wer die Demokratie abschafft, verliert nicht nur seine Stimme – er verliert langfristig auch seine Lebensqualität, seinen Wohlstand und seine Freiheit!
 
 ---
 

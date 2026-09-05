@@ -48,8 +48,7 @@ Neues, Durchdachtes und Solides zu erschaffen oder zu verstehen.
 ### Die Neugier auf alles, was mir begegnet, ist mein Motor!
 ---
 
-Heute bin ich Rentner. Ich arbeite, in Teilzeit, bei einem internationalen Pharma-Konzern. Dieses Unternehmen entwickelt Medikamente und Impfstoffe für
-Nutz- und Haustiere. Ich mag meine Aufgaben dort sehr, und freue mich über die vielen Kontakte zu anderen Menschen.
+Seit 2024 bin ich Rentner, bleibe aber weiterhin in Teilzeit aktiv. Die abwechslungsreichen Aufgaben und der tägliche Austausch mit Menschen sind mir nach wie vor eine große Freude.
 
 ---
 

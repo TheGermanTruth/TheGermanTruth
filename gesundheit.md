@@ -256,6 +256,12 @@ Obwohl Deutschland das teuerste Gesundheitssystem der EU betreibt, führt das ho
 Die Lebenserwartung in Deutschland liegt trotz der vielen Eingriffe lediglich im europäischen Durchschnitt und ist teilweise sogar niedriger als in Ländern, 
 die deutlich weniger operieren (wie Spanien oder Italien).
 
+---
+
+</div>
+
+<div class="section one-column" align="center" markdown="1">
+
 # Der europäische Operationsvergleich im Überblick
 
 Die folgende Übersicht verdeutlicht das hohe OP-Volumen in Deutschland im Vergleich zu anderen europäischen Staaten (exemplarisch basierend auf typischen
@@ -263,16 +269,9 @@ Indikatoren der OECD-Daten):
 
 ### Die Tabelle zeigt das hohe OP-Volumen und die Infrastruktur in Deutschland im Vergleich zum OECD- bzw. EU-Durchschnitt (Fälle je 100.000 Einwohner):
 
-| Eingriff / Indikator | Deutschland | EU- / OECD-Schnitt | Status Deutschland |
-| :--- | :---: | :---: | :--- |
-| **Künstliche Hüftgelenke** | ~300 | ~175 | **Spitzenreiter in Europa** |
-| **Künstliche Kniegelenke** | ~213 | ~130 | **Platz 1–2 in Europa** |
-| **Herzkatheter-Eingriffe** | Extrem hoch | Niedrig | **Spitzenplatz** |
-| **Krankenhausbetten** (je 1.000 Einw.) | **7,7** | **4,2** | **Massive Überkapazität** |
-| **Gesundheitsausgaben** (% des BIP) | **12,8 %** | **~10,0 %** | **Höchste Ausgaben in der EU** |
+[![OP Volumen]({{ '/images/opvolumen.png' | relative_url }}){: .shadow-img width="100%"}]({{ '/images/opvolumen.png' | relative_url }}){: target="_blank" }
 
-*Datenquellen: OECD Health Statistics / Deutsche Gesellschaft für Chirurgie (DGCH)*
-
+---
 
 </div>
 

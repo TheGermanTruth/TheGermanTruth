@@ -61,6 +61,10 @@ Kosten gesenkt werden müssen, drohen Zuzahlungen oder Beitragserhöhungen.
 ---
 ---
 
+## Artikel 35 der Charta der Grundrechte der Europäischen Union: *** „Jeder Mensch hat das Recht auf Zugang zur Gesundheitsvorsorge und auf ärztliche Versorgung nach Maßgabe der einzelstaatlichen Rechtsvorschriften und Gepflogenheiten“.***
+
+---
+
 </div>
 
 <div class="section one-column" markdown="1">

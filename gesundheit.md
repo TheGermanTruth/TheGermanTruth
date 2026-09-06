@@ -51,6 +51,8 @@ Kosten gesenkt werden müssen, drohen Zuzahlungen oder Beitragserhöhungen.
 
 ---
 
+<div class="section one-column" markdown="1">
+
 ## Die Initiative Gesundheit gehört ins Grundgesetz fordert, die körperliche, geistige und seelische Gesundheit als ausdrückliches Grundrecht in das Grundgesetz (GG) aufzunehmen
 
 ### Der Vorschlag sieht einen neuen Artikel (etwa Art. 2 Abs. 3 GG) vor:
@@ -58,6 +60,8 @@ Kosten gesenkt werden müssen, drohen Zuzahlungen oder Beitragserhöhungen.
 ### „Jeder hat das Recht auf körperliche, geistige und seelische Gesundheit. Sie durch Aufklärung, Vorbeugung und Krankheitsvermeidung zu schützen und zu erhalten, ist Aufgabe jeder staatlichen Gewalt.“
 ---
 ---
+
+</div>
 
 <div class="section one-column" markdown="1">
     

@@ -65,12 +65,12 @@ Kosten gesenkt werden müssen, drohen Zuzahlungen oder Beitragserhöhungen.
 
 ---
 ### Beispiele: <br>&nbsp;
-<br>&nbsp;
-### Spanien (Art. 43 der Verfassung)<br>&nbsp;
-### Italien (Art. 32 der Verfassung)<br>&nbsp;
-### Portugal (Art. 64 der Verfassung)<br>&nbsp;
-### Polen (Art. 68 der Verfassung)<br>&nbsp;
-### Slowenien (Art. 51 der Verfassung)<br>&nbsp;
+
+### Spanien (Art. 43 der Verfassung)
+### Italien (Art. 32 der Verfassung)
+### Portugal (Art. 64 der Verfassung)
+### Polen (Art. 68 der Verfassung)
+### Slowenien (Art. 51 der Verfassung)
 
 ---
 ---

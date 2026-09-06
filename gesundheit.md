@@ -293,15 +293,17 @@ Genau wegen dieser Argumente wurde die aktuelle Krankenhausreform auf den Weg ge
 
 # Ist das System also zu retten?
 
-Man kann sagen: Es hat sich in eine Sackgasse manövriert. Das deutsche System wurde mit der Absicht gebaut, jedem Bürger maximale Sicherheit und Nähe zu garantieren (an jeder Ecke ein Krankenhaus). In einer modernen, hochspezialisierten Medizin führt dieser Ansatz jedoch zu **Ineffizienz, Fehlanreizen und Qualitätsrisiken**.
+### Man kann sagen: Es hat sich in eine Sackgasse manövriert. Das deutsche System wurde mit der Absicht gebaut, jedem Bürger maximale Sicherheit und Nähe zu garantieren (an jeder Ecke ein Krankenhaus). In einer modernen, hochspezialisierten Medizin führt dieser Ansatz jedoch zu **Ineffizienz, Fehlanreizen und Qualitätsrisiken**.
 
-Der Umbau hin zu einem System wie in Dänemark (wenige, hochspezialisierte Zentren) hat begonnen – aber der Widerstand vor Ort, wo Menschen um "ihr" kleines Krankenhaus bangen, bleibt riesig.
+### Der Umbau hin zu einem System wie in Dänemark (wenige, hochspezialisierte Zentren) hat begonnen – aber der Widerstand vor Ort, wo Menschen um "ihr" kleines Krankenhaus bangen, bleibt riesig.
 
 ---
 
-### Mein Fazit: Die Reform kommt viel zu Spät. Sie ist nicht ausreichend Konsequent und es werden sich noch Stolpersteine zeigen, an die Heute noch Niemand denkt.
+---
 
-### Es muss der Mensch und seine Gesundheit wieder in den Vordergrund! Nicht die Frage was das kostet.
+## Es geht um Menschen und deren Gesundheit! Das muss das Ziel des Gesundheitssystems sein! Nicht die Frage was das kostet!
+
+---
 
 ---
 

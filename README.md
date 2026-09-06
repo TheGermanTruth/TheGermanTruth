@@ -11,7 +11,7 @@
 Schön, dass Du hierher gefunden hast. Auf diesem Profil und der dazugehörigen Webseite 
 setze ich mich kritisch mit den Fragen unserer Zeit auseinander. 
 
-**[Direkt zur Webseite wechseln und mehr erfahren](https://thegermantruth.github.io/TheGermanTruth/)**
+**[Direkt zur Webseite wechseln und mehr erfahren](https://thegermantruth.github.io/)**
 
 ---
 </div>

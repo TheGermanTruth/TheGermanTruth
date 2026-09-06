@@ -14,7 +14,7 @@ plugins:
   - jekyll-sitemap
 
 url: "https://thegermantruth.github.io"
-baseurl: "/TheGermanTruth"
+baseurl: ""
 
 
 

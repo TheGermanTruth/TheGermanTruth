@@ -64,13 +64,13 @@ Kosten gesenkt werden müssen, drohen Zuzahlungen oder Beitragserhöhungen.
 ### Artikel 35 der Charta der Grundrechte der Europäischen Union: ***„Jeder Mensch hat das Recht auf Zugang zur Gesundheitsvorsorge und auf ärztliche Versorgung nach Maßgabe der einzelstaatlichen Rechtsvorschriften und Gepflogenheiten“.***
 
 ---
-###Beispiele:<br>&nbsp;
-###Starkes Recht auf Gesundheit:<br>&nbsp;
-###Spanien (Art. 43 der Verfassung)<br>&nbsp;
-###Italien (Art. 32 der Verfassung)<br>&nbsp;
-###Portugal (Art. 64 der Verfassung)<br>&nbsp;
-###Polen (Art. 68 der Verfassung)<br>&nbsp;
-###Slowenien (Art. 51 der Verfassung)<br>&nbsp;
+### Beispiele: <br>&nbsp;
+<br>&nbsp;
+### Spanien (Art. 43 der Verfassung)<br>&nbsp;
+### Italien (Art. 32 der Verfassung)<br>&nbsp;
+### Portugal (Art. 64 der Verfassung)<br>&nbsp;
+### Polen (Art. 68 der Verfassung)<br>&nbsp;
+### Slowenien (Art. 51 der Verfassung)<br>&nbsp;
 
 ---
 ---

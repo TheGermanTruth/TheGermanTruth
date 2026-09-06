@@ -41,7 +41,7 @@ Kosten gesenkt werden müssen, drohen Zuzahlungen oder Beitragserhöhungen.
 
 <div class="column" markdown="1">
   
-## Dein Einkommen bestimmt deine Gesundheit!
+## Das Recht auf Leben und körperliche Unversehrtheit, aber nur wenn Du das bezahlen kannst!
   
 ![Gesundheits Geld]({{ '/images/unbezahlbar.png' | relative_url }}){: width="100%"}
 
@@ -49,6 +49,14 @@ Kosten gesenkt werden müssen, drohen Zuzahlungen oder Beitragserhöhungen.
 
 </div>
 
+---
+
+## Die Initiative Gesundheit gehört ins Grundgesetz fordert, die körperliche, geistige und seelische Gesundheit als ausdrückliches Grundrecht in das Grundgesetz (GG) aufzunehmen
+
+### Der Vorschlag sieht einen neuen Artikel (etwa Art. 2 Abs. 3 GG) vor:
+---
+### „Jeder hat das Recht auf körperliche, geistige und seelische Gesundheit. Sie durch Aufklärung, Vorbeugung und Krankheitsvermeidung zu schützen und zu erhalten, ist Aufgabe jeder staatlichen Gewalt.“
+---
 ---
 
 <div class="section one-column" markdown="1">
@@ -212,7 +220,7 @@ Für die ersten 10 bis 15 Minuten (Hilfsfrist) ist ohnehin nicht die Klinik zust
 
 # Aktuell teilen sich rund 400.000 Pflegerinnen und Pfleger auf etwa 1.600 Krankenhäuser in Deutschland auf. Das bedeutet im Schnitt gerade einmal 250 Pflegekräfte pro Klinik. Reduzieren wir die Anzahl der Kliniken auf rund 700, sieht die Welt ganz anders aus: Plötzlich sprechen wir von rund 570 Pflegerinnen und Pflegern pro Krankenhaus! 
 
-# Damit würde der chronische Fachkräftemange enden – und die Patientinnen und Patienten bekämen wieder die erstklassige Versorgung, die sie verdienen.
+# Damit würde der chronische Fachkräftemangel enden – und die Patientinnen und Patienten bekämen wieder die erstklassige Versorgung, die sie verdienen.
 
 ---
 

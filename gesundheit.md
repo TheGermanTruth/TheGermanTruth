@@ -60,6 +60,9 @@ Kosten gesenkt werden müssen, drohen Zuzahlungen oder Beitragserhöhungen.
 ### „Jeder hat das Recht auf körperliche, geistige und seelische Gesundheit. Sie durch Aufklärung, Vorbeugung und Krankheitsvermeidung zu schützen und zu erhalten, ist Aufgabe jeder staatlichen Gewalt.“
 ---
 ---
+<br>&nbsp;
+---
+<br>&nbsp;
 
 ### Artikel 35 der Charta der Grundrechte der Europäischen Union: ***„Jeder Mensch hat das Recht auf Zugang zur Gesundheitsvorsorge und auf ärztliche Versorgung nach Maßgabe der einzelstaatlichen Rechtsvorschriften und Gepflogenheiten“.***
 
